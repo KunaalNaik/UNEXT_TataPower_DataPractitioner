@@ -1,0 +1,977 @@
+,Car_Name,Make,Model,Make_Year,Color,Body_Type,Mileage_Run,No_of_Owners,Seating_Capacity,Fuel_Type,Fuel_Tank_Capacity(L),Engine_Type,CC_Displacement,Transmission,Transmission_Type,Power(BHP),Torque(Nm),Mileage(kmpl),Emission,Price,y_prediction
+0,Volkswagen Ameo [2016-2017] Highline 1.5L AT (D),Volkswagen,Ameo,2017,silver,sedan,"44,611",1st,5,diesel,45,1.5L TDI Engine,1498,7-Speed,Automatic,109.0,250.0,21.66,BS IV,657000,825361.564978689
+1,Hyundai i20 Active [2015-2020] 1.2 SX,Hyundai,i20 Active,2016,red,crossover,"20,305",1st,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Manual,82.0,115.0,17.19,BS V,682000,755722.4884188175
+2,Honda WR-V VX i-VTEC,Honda,WR-V,2019,white,suv,"29,540",2nd,5,petrol,40,i-VTEC Petrol engine,1199,5-Speed,Manual,88.5,110.0,16.5,BS IV,793000,814109.9544940293
+3,Renault Kwid 1.0 RXT AMT,Renault,Kwid,2017,bronze,hatchback,"35,680",1st,5,petrol,28,1.0L,999,5-Speed,Manual,67.0,91.0,21.7,BS IV,414000,313560.3687238395
+4,Hyundai Grand i10 [2017-2020] Asta 1.2 Kappa VTVT,Hyundai,Grand i10,2017,orange,hatchback,"25,126",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.86,113.75,18.9,BS V,515000,765149.6595369279
+5,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2016,red,hatchback,"52,261",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,604000,755722.4884188175
+6,Honda Brio [2011-2016] V MT,Honda,Brio,2012,grey,hatchback,"28,108",2nd,5,petrol,35,4 cylinder inline petrol,1198,5-Speed,Manual,86.8,109.0,19.4,BS III,316000,176106.6549706459
+7,Tata Harrier XZ,Tata,Harrier,2019,grey,suv,"92,603",1st,5,diesel,50,Kryotec 2.0 L Turbocharge,1956,6-Speed,Automatic,138.0,350.0,17.0,BS IV,1419000,1115169.481702745
+8,Hyundai Grand i10 Nios Sportz AMT 1.2 Kappa VTVT,Hyundai,Grand i10 Nios,2021,blue,hatchback,"16,304",1st,5,petrol,37,1.2 L Kappa Petrol,1197,5-Speed,Manual,81.86,113.75,20.07,BS IV,710000,863070.2494511306
+9,Renault Kwid 1.0 RXT Opt,Renault,Kwid,2019,bronze,hatchback,"26,350",2nd,5,petrol,28,Petrol Engine,999,5-Speed,Manual,67.0,91.0,22.0,BS IV,392000,452838.5218435526
+10,Renault Triber RXT,Renault,Triber,2020,yellow,muv,"35,400",1st,7,petrol,40,1.0L Petrol Engine,999,5-Speed,Manual,71.0,96.0,20.0,BS IV,613000,883749.0310539007
+11,Chevrolet Cruze [2009-2017] LTZ AT,Chevrolet,Cruze,2013,white,sedan,"71,450",1st,5,diesel,60,VCDi 16V SOHC,1991,6-Speed,Automatic,164.0,380.0,17.0,BS IV,598000,998394.5495523214
+12,Hyundai Venue [2019-2022] SX Plus 1.0 Turbo DCT,Hyundai,Venue,2019,grey,suv,"32,395",1st,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,998,7-Speed,Automatic,118.35,171.6,18.15,BS V,969000,964639.718098402
+13,Tata Safari XZA Plus,Tata,Safari,2021,grey,suv,"15,059",1st,7,diesel,50,Kryotec 2.0 L Turbocharged Engine,1956,6-Speed,Automatic,167.67,350.0,17.0,BS IV,2100000,1254447.6348224878
+14,Maruti Suzuki Swift [2017-2021] ZXI,Maruti Suzuki,Swift,2019,white,hatchback,"31,994",1st,5,petrol,37,VTVT Engine,1197,5-Speed,Manual,81.8,113.0,21.21,BS IV,666000,723792.0963313878
+15,Toyota Yaris [2018-2021] J CVT,Toyota,Yaris,2020,white,sedan,"13,768",1st,5,petrol,42,1.5 Dual VVT-i Engine,1496,CVT,Automatic,105.94,140.0,17.18,BS IV,1039000,943960.9364956319
+16,Tata Punch Creative Kaziranga Edition,Tata,Punch,2022,beige,suv,"3,174",1st,5,petrol,37,1.2 Revotron,1199,5-Speed,Manual,84.0,113.0,18.9,BS IV,858000,932709.3260109723
+17,Renault Duster [2015-2019] 110 PS RXZ 4X2 AMT,Renault,Duster,2017,orange,suv,"70,137",1st,5,diesel,50,dCi THP Diesel Engine,1461,6-Speed,Automatic,108.45,245.0,19.6,BS V,860000,975891.3285830319
+18,Toyota Yaris [2018-2021] J,Toyota,Yaris,2018,white,sedan,"35,913",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1496,6-Speed,Automatic,105.94,140.0,17.18,BS IV,680000,804682.7833759189
+19,Hyundai Elite i20 [2018-2020] Magna Executive 1.2,Hyundai,Elite i20,2018,blue,hatchback,"19,056",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.85,113.7,18.6,BS V,625000,895000.6415385604
+20,Volkswagen Ameo [2016-2020] Highline1.2L Plus (P),Volkswagen,Ameo,2017,brown,sedan,"32,492",1st,5,petrol,45,MPI Petrol Engine,1198,5-Speed,Manual,73.75,110.0,17.0,BS V,567000,825361.564978689
+21,Maruti Suzuki Celerio [2014-2021] VXi,Maruti Suzuki,Celerio,2014,yellow,hatchback,"22,598",1st,5,petrol,35,K10B,998,5-Speed,Manual,67.04,90.0,23.1,BS IV,371000,315384.808090359
+22,Hyundai Creta [2018-2020] 1.6 SX,Hyundai,Creta,2019,grey,suv,"85,981",1st,5,diesel,55,U2 VGT CRDi,1582,6-Speed,Automatic,126.0,260.0,15.8,BS V,1076000,1265699.2453071177
+23,Toyota Etios Liva [2017-2020] VX Dual Tone,Toyota,Etios Liva,2017,blue,hatchback,"17,791",1st,5,petrol,45,"4-Cylinder 16V, DOHC",1197,5-Speed,Manual,79.0,104.0,18.16,BS V,587000,825361.564978689
+24,Hyundai i10 [2010-2016] Sportz Petrol,Hyundai,i10,2016,white,hatchback,"26,910",2nd,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,396000,454662.96121007204
+25,Maruti Suzuki Swift Dzire [2012-2017] ZXI,Maruti Suzuki,Swift Dzire,2014,blue,sedan,"28,562",1st,5,petrol,42,K Series VVT Engine,1197,5-Speed,Manual,85.8,114.0,19.1,BS IV,554000,526126.4771364629
+26,Hyundai Verna [2017-2020] 1.6 VTVT SX,Hyundai,Verna,2019,white,sedan,"40,345",1st,5,petrol,43,Front Wheel Drive,1591,6-Speed,Automatic,121.0,158.0,17.4,BS V,984000,904427.812656641
+27,Maruti Suzuki Celerio [2014-2021] VXi AMT,Maruti Suzuki,Celerio,2019,grey,hatchback,"19,550",1st,5,petrol,35,K10B,998,5-Speed,Manual,67.04,90.0,23.1,BS IV,507000,663580.1908896565
+28,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2017,red,hatchback,"54,233",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,586000,825361.564978689
+29,Maruti Suzuki Baleno [2015-2019] Zeta Petrol,Maruti Suzuki,Baleno,2017,blue,hatchback,"33,113",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,639000,584513.9432116747
+30,Maruti Suzuki Alto K10 [2010-2014] VXi,Maruti Suzuki,Alto K10,2011,red,hatchback,"79,565",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,20.92,BS IV,237000,106467.57841077447
+31,Honda Amaze [2013-2018] 1.2 VX AT i-VTEC,Honda,Amaze,2013,white,sedan,"10,651",1st,5,petrol,35,"4-Cylinder, SOHC i-VTEC",1198,5-Speed,Manual,86.9,109.0,18.0,BS IV,536000,245745.73153048754
+32,Renault Kwid 1.0 RXL AMT,Renault,Kwid,2020,bronze,hatchback,"27,664",1st,5,petrol,28,1.0L	,999,5-Speed,Manual,67.0,91.0,21.7,BS IV,456000,522477.598403424
+33,Hyundai New i20 Asta (O) 1.0 Turbo DCT,Hyundai,New i20,2021,red,hatchback,"13,389",1st,5,petrol,37,1.0 l Turbo GDi,998,7-Speed,Automatic,118.0,172.0,20.2,BS IV,1107000,863070.2494511306
+34,Hyundai Elite i20 [2014-2018] Asta 1.2 (O),Hyundai,Elite i20,2016,grey,hatchback,"30,797",2nd,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Manual,82.0,115.0,18.6,BS IV,571000,755722.4884188175
+35,Honda Mobilio [2014-2017] S Petrol,Honda,Mobilio,2015,grey,muv,"48,947",1st,7,petrol,42,1.5L i-VTEC,1497,5-Speed,Manual,118.0,145.0,17.3,BS IV,587000,595765.5536963344
+36,Honda Amaze [2013-2018] 1.2 VX AT i-VTEC,Honda,Amaze,2017,white,sedan,"37,315",1st,5,petrol,35,"4-Cylinder, SOHC i-VTEC",1198,5-Speed,Manual,86.9,109.0,18.0,BS IV,629000,524302.0377699435
+37,Maruti Suzuki Swift VXI AMT,Maruti Suzuki,Swift,2022,silver,hatchback,"11,047",1st,5,petrol,37,VTVT Engine,1197,5-Speed,Manual,81.8,113.0,21.21,BS IV,718000,932709.3260109723
+38,Hyundai i10 [2010-2016] Sportz 1.2 Petrol,Hyundai,i10,2013,silver,hatchback,"24,858",1st,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,396000,245745.73153048754
+39,Hyundai Venue S 1.2,Hyundai,Venue,2022,blue,suv,"4,839",1st,5,petrol,45,1.2 Kappa	,1197,5-Speed,Manual,82.0,114.0,17.5,BS IV,877000,1173556.9477779865
+40,Tata Altroz XZ 1.2,Tata,Altroz,2020,golden,hatchback,"16,329",1st,5,petrol,37,1.2 L Revotron,1199,5-Speed,Manual,84.82,113.0,19.05,BS IV,774000,793431.1728912592
+41,Maruti Suzuki Ignis [2017-2020] Zeta AMT Petrol,Maruti Suzuki,Ignis,2018,red,hatchback,"57,286",1st,5,petrol,32,1.2-Litre VVT Petrol Engine,1197,5-Speed,Manual,81.8,113.0,20.89,BS V,554000,503623.2561672032
+42,Tata Punch Accomplished AMT,Tata,Punch,2022,white,suv,"3,679",1st,5,petrol,37,1.2 Revotron,1199,6-Speed,Automatic,84.0,113.0,18.9,BS IV,829000,932709.3260109723
+43,Hyundai Elite i20 [2014-2018] Asta 1.2,Hyundai,Elite i20,2014,white,hatchback,"96,077",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,530000,616444.3352991045
+44,Maruti Suzuki Alto K10 [2014-2019] VXi (O),Maruti Suzuki,Alto K10,2017,grey,hatchback,"30,406",1st,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,367000,524302.0377699435
+45,Hyundai Grand i10 [2017-2020] Asta 1.2 Kappa VTVT,Hyundai,Grand i10,2018,grey,hatchback,"60,873",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.86,113.75,18.9,BS V,550000,834788.7360967994
+46,Maruti Suzuki Ignis [2017-2020] Alpha AMT Petrol,Maruti Suzuki,Ignis,2018,blue,hatchback,"24,811",1st,5,petrol,32,1.2-Litre VVT Petrol Engine,1197,5-Speed,Manual,81.8,113.0,20.89,BS V,660000,503623.2561672032
+47,Hyundai New i20 Asta (O) 1.0 Turbo DCT,Hyundai,New i20,2021,red,hatchback,"56,275",1st,5,petrol,37,1.0 l Turbo GDi,998,7-Speed,Automatic,118.0,172.0,20.2,BS IV,998000,863070.2494511306
+48,Hyundai Verna [2017-2020] 1.6 CRDI SX (O),Hyundai,Verna,2018,silver,sedan,"78,981",1st,5,diesel,43,Front Wheel Drive,1582,6-Speed,Automatic,126.0,260.0,24.75,BS V,1012000,834788.7360967994
+49,Honda City ZX CVT,Honda,City,2021,silver,sedan,"7,434",1st,5,petrol,40,1.5L i-VTEC DOHC with VTC Petrol Engine,1498,7-Speed,Automatic,119.35,145.0,17.0,BS IV,1537000,953388.1076137722
+50,Hyundai New i20 Asta (O) 1.2 MT,Hyundai,New i20,2021,blue,hatchback,"10,730",1st,5,petrol,37,1.2 l Kappa petrol,1197,5-Speed,Manual,82.0,115.0,21.0,BS IV,908000,863070.2494511306
+51,Renault Kwid [2017-2019] CLIMBER 1.0 AMT,Renault,Kwid,2019,bronze,hatchback,"21,996",1st,5,petrol,28,Petrol Engine,999,5-Speed,Manual,67.0,91.0,22.0,BS V,508000,452838.5218435526
+52,Maruti Suzuki S-Presso VXI,Maruti Suzuki,S-Presso,2019,blue,hatchback,"3,474",1st,5,petrol,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,21.7,BS IV,417000,422732.5691226721
+53,Maruti Suzuki Dzire [2017-2020] VDi AMT,Maruti Suzuki,Dzire,2017,brown,sedan,"64,458",1st,5,diesel,37, DDiS Diesel Engine,1248,5-Speed,Manual,74.0,190.0,28.4,BS V,725000,584513.9432116747
+54,Hyundai New i20 Asta 1.0 Turbo IMT,Hyundai,New i20,2020,white,hatchback,"24,360",1st,5,petrol,37,1.0 l Turbo GDi,998,6-Speed,Automatic,118.0,172.0,20.2,BS IV,980000,793431.1728912592
+55,Mahindra TUV300 [2015-2020] T8 mHAWK100 AMT,Mahindra,TUV300,2017,blue,suv,"69,939",1st,7,diesel,60, mHawk,1493,5-Speed,Manual,100.0,240.0,18.49,BS V,796000,1276950.8557917774
+56,Hyundai i10 [2010-2016] Magna Petrol,Hyundai,i10,2016,silver,hatchback,"35,387",1st,5,petrol,35,4 cylinder inline petrol engine,1197,5-Speed,Manual,68.0,99.08,19.81,BS III,435000,454662.96121007204
+57,Maruti Suzuki Baleno [2015-2019] Alpha Petrol,Maruti Suzuki,Baleno,2015,blue,hatchback,"63,035",2nd,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,554000,445235.7900919616
+58,Maruti Suzuki Eeco AC 5 STR,Maruti Suzuki,Eeco,2020,silver,muv,"26,190",1st,5,petrol,40,Aluminium 32 bit,1197,5-Speed,Manual,72.42,98.0,16.11,BS IV,481000,883749.0310539007
+59,Maruti Suzuki Swift [2011-2017] VXI,Maruti Suzuki,Swift,2013,white,hatchback,"47,013",1st,5,petrol,42,K Series Petrol Engine,1197,5-Speed,Manual,85.8,114.0,18.6,BS IV,442000,456487.4005765915
+60,Hyundai Grand i10 [2017-2020] Magna 1.2 Kappa VTVT,Hyundai,Grand i10,2019,grey,hatchback,"11,734",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.86,113.75,18.9,BS V,530000,904427.812656641
+61,Maruti Suzuki Dzire [2017-2020] ZXi Plus AMT,Maruti Suzuki,Dzire,2018,blue,sedan,"27,902",1st,5,petrol,37,1.2 Litre Petrol Engine,1499,5-Speed,Manual,88.5,113.0,24.12,BS V,759000,654153.0197715461
+62,Hyundai Xcent [2014-2017] SX Petrol,Hyundai,Xcent,2015,blue,sedan,"66,674",2nd,5,petrol,43,1.2 Kappa Dual VTVT Petrol,1197,5-Speed,Manual,81.0,114.0,19.1,BS IV,455000,625871.5064172149
+63,Tata Harrier XZA Plus Dark Edition AT,Tata,Harrier,2021,black,suv,"38,143",1st,5,diesel,50,2.0 L Kryotec,1956,6-Speed,Automatic,140.0,350.0,17.0,BS IV,1972000,1254447.6348224878
+64,Maruti Suzuki Ciaz Alpha AT Petrol,Maruti Suzuki,Ciaz,2021,grey,sedan,"13,554",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1462,4-Speed,Automatic,103.25,138.0,20.0,BS IV,1138000,1043705.9657763839
+65,Tata Altroz XZA+,Tata,Altroz,2022,red,hatchback,"1,540",1st,5,petrol,37,1.2 L Revotron,1199,6-Speed,Automatic,84.82,113.0,19.05,BS IV,920000,932709.3260109723
+66,Hyundai Creta SX OPT Turbo DCT Petrol,Hyundai,Creta,2021,black,suv,"12,285",1st,5,petrol,50,1.4L GDi Turbo Petrol,1353,7-Speed,Automatic,138.0,242.2,16.8,BS IV,1742000,1254447.6348224878
+67,Maruti Suzuki Baleno [2015-2019] Alpha Petrol,Maruti Suzuki,Baleno,2015,blue,hatchback,"80,408",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,568000,445235.7900919616
+68,Maruti Suzuki Wagon R 1.0 [2015-2019] VXI AMT,Maruti Suzuki,Wagon R 1.0,2016,white,hatchback,"83,377",1st,5,petrol,32,K10B Petrol Engine,998,5-Speed,Manual,67.05,90.0,21.79,BS V,419000,364345.1030474603
+69,Renault Kwid 1.0 RXT Opt,Renault,Kwid,2020,bronze,hatchback,"21,887",1st,5,petrol,28,Petrol Engine,999,5-Speed,Manual,67.0,91.0,22.0,BS IV,476000,522477.598403424
+70,Hyundai Grand i10 [2017-2020] Asta 1.2 Kappa VTVT,Hyundai,Grand i10,2019,grey,hatchback,"40,498",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.86,113.75,18.9,BS V,577000,904427.812656641
+71,Hyundai New Santro 1.1 Sportz MT,Hyundai,New Santro 1.1,2020,white,hatchback,"18,065",1st,5,petrol,35,1.1 L Petrol,1086,5-Speed,Manual,68.07,99.07,20.3,BS IV,541000,733219.267449528
+72,Volkswagen Vento [2015-2019] Highline Petrol AT,Volkswagen,Vento,2016,grey,sedan,"70,958",1st,5,petrol,55,TSI Engine,1197,7-Speed,Automatic,103.0,175.0,18.19,BS V,730000,1056782.0156275332
+73,Tata Harrier XZ Dual Tone,Tata,Harrier,2021,white,suv,"16,090",1st,5,diesel,50,Kryotec 2.0 L Turbocharge,1956,6-Speed,Automatic,138.0,350.0,17.0,BS IV,1875000,1254447.6348224878
+74,Ford EcoSport [2013-2015] Titanium 1.5L Ti-VCT AT,Ford,EcoSport,2015,grey,suv,"55,617",2nd,5,petrol,52,1.5L Ti-VCT (Petrol),1499,6-Speed,Automatic,109.0,140.0,16.5,BS III,622000,896825.0809050798
+75,Hyundai Verna [2017-2020] 1.6 CRDI SX,Hyundai,Verna,2018,brown,sedan,"87,773",1st,5,diesel,43,Front Wheel Drive,1582,6-Speed,Automatic,121.0,158.0,24.75,BS V,937000,834788.7360967994
+76,Hyundai i20 Active [2015-2020] 1.2 SX,Hyundai,i20 Active,2016,brown,crossover,"54,744",1st,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Manual,82.0,115.0,17.19,BS V,625000,755722.4884188175
+77,Hyundai Grand i10 [2017-2020] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2020,grey,hatchback,"18,915",2nd,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.86,113.75,18.9,BS V,609000,974066.8892165124
+78,Hyundai Elite i20 [2014-2018] Asta 1.2 (O),Hyundai,Elite i20,2016,white,hatchback,"97,573",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Manual,82.0,115.0,18.6,BS IV,571000,755722.4884188175
+79,Renault Kwid [2015-2019] RXL,Renault,Kwid,2019,grey,hatchback,"4,776",1st,5,petrol,28,Petrol Engine,799,5-Speed,Manual,53.3,72.0,25.17,BS V,412000,452838.5218435526
+80,Hyundai i20 Active [2015-2020] 1.2 S,Hyundai,i20 Active,2018,white,crossover,"24,676",2nd,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Manual,82.0,115.0,17.19,BS V,638000,895000.6415385604
+81,Maruti Suzuki S-Cross [2017-2020] Zeta 1.3,Maruti Suzuki,S-Cross,2018,blue,suv,"52,291",2nd,5,diesel,48,DDiS 200,1248,5-Speed,Manual,89.0,200.0,23.65,BS V,807000,985318.4997011721
+82,Hyundai Elite i20 [2014-2018] Asta 1.2 (O),Hyundai,Elite i20,2017,white,hatchback,"49,775",2nd,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Manual,82.0,115.0,18.6,BS IV,590000,825361.564978689
+83,Maruti Suzuki S-Cross [2015-2020] Sigma 1.3,Maruti Suzuki,S-Cross,2017,brown,suv,"83,551",1st,5,diesel,48,DDiS 200,1248,5-Speed,Manual,89.0,200.0,23.65,BS V,651000,915679.4231413007
+84,Hyundai i20 Active [2015-2020] 1.2 SX,Hyundai,i20 Active,2018,brown,crossover,"34,075",2nd,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Manual,82.0,115.0,17.19,BS V,694000,895000.6415385604
+85,Honda City ZX,Honda,City,2020,brown,sedan,"14,414",1st,5,petrol,40,1.5L i-VTEC DOHC with VTC Petrol Engine,1498,6-Speed,Automatic,119.35,145.0,18.4,BS IV,1364000,883749.0310539007
+86,Ford EcoSport [2017-2021] Titanium 1.5L Ti-VCT,Ford,EcoSport,2018,brown,suv,"35,796",1st,5,petrol,52,Ti-VCT Petrol Engine,1496,5-Speed,Manual,120.69,149.0,15.9,BS IV,783000,1105742.3105846643
+87,Maruti Suzuki Swift [2017-2021] VXI AMT,Maruti Suzuki,Swift,2020,red,hatchback,"38,199",2nd,5,petrol,37,VTVT Engine,1197,5-Speed,Manual,81.8,113.0,21.21,BS IV,628000,793431.1728912592
+88,Nissan Magnite XV Premium Turbo (O),Nissan,Magnite,2021,silver,suv,"8,197",1st,5,petrol,40,1.0L HRAO Turbo,999,5-Speed,Manual,99.0,160.0,20.0,BS IV,885000,953388.1076137722
+89,Maruti Suzuki Baleno [2015-2019] Zeta AT Petrol,Maruti Suzuki,Baleno,2018,grey,hatchback,"27,626",1st,5,petrol,37,1.2L VVT Engine,1197,CVT,Automatic,81.8,113.0,19.56,BS V,724000,654153.0197715461
+90,Hyundai Xcent [2014-2017] S (O) Petrol,Hyundai,Xcent,2014,blue,sedan,"48,106",1st,5,petrol,43,1.2 Kappa Dual VTVT Petrol,1197,5-Speed,Manual,81.0,114.0,19.1,BS IV,470000,556232.4298573434
+91,Maruti Suzuki Ciaz Alpha Petrol,Maruti Suzuki,Ciaz,2021,grey,sedan,"12,031",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1499,5-Speed,Manual,103.25,138.0,20.65,BS IV,1085000,1043705.9657763839
+92,Maruti Suzuki Celerio ZXi AMT,Maruti Suzuki,Celerio,2021,grey,hatchback,"5,992",1st,5,petrol,35,K10B Engine,998,5-Speed,Manual,67.04,90.0,21.63,BS IV,620000,802858.3440093994
+93,Volkswagen Polo [2018-2022] Trendline 1.0 (P),Volkswagen,Polo,2020,red,hatchback,"20,427",1st,5,petrol,45,1.0L MPI Petrol,999,5-Speed,Manual,75.1,95.0,17.74,BS IV,659000,1034278.7946582735
+94,Tata Altroz XZ Plus Turbo,Tata,Altroz,2022,red,hatchback,"8,560",1st,5,petrol,37,1.2 L Revotron,1199,5-Speed,Manual,108.0,140.0,18.1,BS IV,953000,932709.3260109723
+95,Hyundai Creta [2018-2020] 1.6 SX OPT VTVT,Hyundai,Creta,2019,red,suv,"58,693",1st,5,petrol,55,VTVT Petrol Engine,1591,6-Speed,Automatic,121.3,151.0,15.8,BS V,1173000,1265699.2453071177
+96,Maruti Suzuki S-Presso VXI,Maruti Suzuki,S-Presso,2020,grey,hatchback,"18,282",1st,5,petrol,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,21.7,BS IV,457000,492371.6456825435
+97,Maruti Suzuki S-Presso VXI,Maruti Suzuki,S-Presso,2020,grey,hatchback,"17,214",1st,5,petrol,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,21.7,BS IV,461000,492371.6456825435
+98,Maruti Suzuki Swift [2011-2017] VDi,Maruti Suzuki,Swift,2013,red,hatchback,"77,692",1st,5,diesel,43,DDiS Diesel Engine,1248,5-Speed,Manual,74.0,190.0,22.9,BS IV,471000,486593.353297472
+99,Maruti Suzuki Ciaz Delta Petrol,Maruti Suzuki,Ciaz,2020,white,sedan,"10,381",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1462,5-Speed,Manual,103.25,138.0,20.65,BS IV,902000,974066.8892165124
+100,Honda WR-V VX i-VTEC,Honda,WR-V,2017,silver,suv,"28,831",1st,5,petrol,40,i-VTEC Petrol engine,1199,5-Speed,Manual,88.5,110.0,16.5,BS IV,791000,674831.8013743162
+101,Toyota Etios [2010-2017] G,Toyota,Etios,2014,grey,sedan,"72,359",1st,5,petrol,45,4 cylinder petrol engine,1496,5-Speed,Manual,90.0,132.0,17.57,BS IV,506000,616444.3352991045
+102,Maruti Suzuki Dzire [2017-2020] ZXI,Maruti Suzuki,Dzire,2017,blue,sedan,"36,922",2nd,5,petrol,37,1.2 Litre Petrol Engine,1197,5-Speed,Manual,88.5,113.0,23.26,BS V,594000,584513.9432116747
+103,Hyundai i10 [2010-2016] Sportz AT Petrol,Hyundai,i10,2013,silver,hatchback,"72,356",1st,5,petrol,35,DOHC Kappa2 Engine,1197,4-Speed,Automatic,78.9,111.8,16.95,BS III,362000,245745.73153048754
+104,Hyundai Verna [2017-2020] 1.6 CRDI SX,Hyundai,Verna,2018,white,sedan,"55,760",1st,5,diesel,43,Front Wheel Drive,1582,6-Speed,Automatic,121.0,158.0,24.75,BS V,914000,834788.7360967994
+105,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2015,red,hatchback,"77,836",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,544000,686083.4118589759
+106,Volkswagen Vento [2010-2015] Highline Petrol,Volkswagen,Vento,2014,silver,sedan,"68,269",2nd,5,petrol,55,MPI Petrol Engine,1598,5-Speed,Manual,103.2,153.0,16.09,BS III,513000,917503.8625078201
+107,Renault Triber RXZ AMT,Renault,Triber,2020,yellow,muv,"62,659",1st,7,petrol,40,1.0L Petrol Engine,999,5-Speed,Manual,72.0,96.0,18.2,BS IV,737000,883749.0310539007
+108,Maruti Suzuki Dzire [2017-2020] ZXi Plus,Maruti Suzuki,Dzire,2018,brown,sedan,"59,847",1st,5,petrol,37,1.2 Litre Petrol Engine,1197,5-Speed,Manual,88.5,113.0,23.26,BS V,664000,654153.0197715461
+109,Hyundai Verna [2017-2020] 1.6 CRDI SX (O),Hyundai,Verna,2018,white,sedan,"83,607",1st,5,diesel,43,Front Wheel Drive,1582,6-Speed,Automatic,126.0,260.0,24.75,BS V,1027000,834788.7360967994
+110,Hyundai Elite i20 [2014-2018] Asta 1.2,Hyundai,Elite i20,2015,silver,hatchback,"33,439",2nd,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,575000,686083.4118589759
+111,Honda WR-V i-DTEC VX,Honda,WR-V,2018,silver,suv,"81,799",1st,5,diesel,40,i-DTEC Diesel engine,1498,6-Speed,Automatic,97.89,200.0,23.7,BS IV,842000,744470.8779341877
+112,Volkswagen Polo [2018-2020] Highline Plus 1.0 (P),Volkswagen,Polo,2019,silver,hatchback,"30,378",1st,5,petrol,45,1.0L MPI Petrol,999,5-Speed,Manual,74.96,95.0,18.24,BS V,742000,964639.718098402
+113,Nissan Magnite XV Premium Turbo CVT (O),Nissan,Magnite,2022,red,suv,"5,129",1st,5,petrol,40,1.0L HRAO Turbo	,999,CVT,Automatic,99.0,152.0,17.7,BS IV,1071000,1023027.1841736138
+114,Hyundai Venue SX 1.0  Turbo,Hyundai,Venue,2021,blue,suv,"8,873",1st,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,998,6-Speed,Automatic,118.35,171.6,18.27,BS IV,1044000,1103917.871218145
+115,Hyundai Verna [2011-2015] Fluidic 1.6 CRDi SX Opt AT,Hyundai,Verna,2014,blue,sedan,"78,297",2nd,5,diesel,43,Front Wheel Drive,1582,4-Speed,Automatic,126.0,260.0,17.0,BS III,639000,556232.4298573434
+116,JEEP Compass [2017-2021] Limited 2.0 Diesel 4x4,Jeep,Compass,2017,white,suv,"50,808",1st,5,diesel,60,2.0-Litre 4-Cyl Multijet,1956,6-Speed,Automatic,170.0,350.0,16.3,BS IV,1649000,1276950.8557917774
+117,Maruti Suzuki Alto 800 Vxi,Maruti Suzuki,Alto 800,2020,grey,hatchback,"16,384",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.05,BS IV,392000,733219.267449528
+118,Tata Tiago Revotron XZ Plus,Tata,Tiago,2020,yellow,hatchback,"16,123",1st,5,petrol,35,Revotron Engine,1199,5-Speed,Manual,85.0,113.0,20.0,BS IV,626000,733219.267449528
+119,Hyundai Eon [2011-2018] Magna +,Hyundai,Eon,2016,red,hatchback,"47,487",2nd,5,petrol,32,Kappa Engine,814,5-Speed,Manual,68.05,94.14,20.03,BS IV,320000,364345.1030474603
+120,Hyundai Grand i10 [2017-2020] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2019,grey,hatchback,"25,632",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.86,113.75,18.9,BS V,579000,904427.812656641
+121,Volkswagen Ameo [2016-2020] Highline1.2L (P),Volkswagen,Ameo,2017,grey,sedan,"33,269",1st,5,petrol,45,MPI Petrol Engine,1198,5-Speed,Manual,73.75,110.0,17.0,BS V,608000,825361.564978689
+122,Maruti Suzuki Swift [2017-2020] ZDi Plus,Maruti Suzuki,Swift,2018,red,hatchback,"73,950",1st,5,diesel,42,"DDis Diesel,CRDI",1248,5-Speed,Manual,74.0,190.0,25.2,BS V,773000,804682.7833759189
+123,Renault Lodgy [2015-2019] 110 PS RxL,Renault,Lodgy,2015,silver,muv,"70,520",1st,8,diesel,50,dCi Diesel with Fixed Geometry Turbo,1461,5-Speed,Manual,108.0,245.0,21.04,BS V,615000,836613.1754633188
+124,Honda Jazz VX MT,Honda,Jazz,2015,white,hatchback,"50,735",2nd,5,petrol,40,1.2 i-VTEC Petrol,1199,5-Speed,Manual,88.51,110.0,16.6,BS IV,519000,535553.6482546031
+125,Tata Punch Creative IRA Dual Tone,Tata,Punch,2021,bronze,suv,"6,491",1st,5,petrol,37,1.2 Revotron,1199,5-Speed,Manual,84.0,113.0,18.9,BS IV,869000,863070.2494511306
+126,Mahindra Scorpio [2017-2020] S9,Mahindra,Scorpio,2019,black,suv,"42,905",1st,7,diesel,60,mHawk Diesel Engine,2179,6-Speed,Automatic,138.13,320.0,16.36,BS V,1399000,1416229.0089114904
+127,Chevrolet Beat [2014-2017] LS Diesel,Chevrolet,Beat,2015,red,hatchback,"42,222",1st,5,diesel,35,1.0 XSDE,936,5-Speed,Manual,57.0,150.0,25.44,BS IV,356000,385023.8846502304
+128,Ford EcoSport [2013-2015] Titanium 1.5L TDCi (Opt),Ford,EcoSport,2014,silver,suv,"97,902",1st,5,diesel,52,1.5L DV5 (Diesel),1498,5-Speed,Manual,89.0,204.0,22.7,BS III,562000,827186.0043452084
+129,Hyundai Grand i10 [2017-2020] Magna 1.2 Kappa VTVT,Hyundai,Grand i10,2018,grey,hatchback,"16,760",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.86,113.75,18.9,BS V,522000,834788.7360967994
+130,Hyundai Elite i20 [2018-2020] Magna Plus 1.2,Hyundai,Elite i20,2019,red,hatchback,"24,860",1st,5,petrol,40,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.86,117.0,18.6,BS V,699000,814109.9544940293
+131,Hyundai Grand i10 [2013-2017] Asta 1.2 Kappa VTVT (O),Hyundai,Grand i10,2016,grey,hatchback,"20,685",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,18.9,BS IV,510000,695510.5829770565
+132,Maruti Suzuki S-Presso VXI+,Maruti Suzuki,S-Presso,2021,red,hatchback,"2,163",1st,5,petrol,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,21.01,BS IV,512000,562010.722242415
+133,Toyota Etios Liva [2017-2020] VX Dual Tone,Toyota,Etios Liva,2018,white,hatchback,"18,170",1st,5,petrol,45,"4-Cylinder 16V, DOHC",1197,5-Speed,Manual,79.0,104.0,18.16,BS V,658000,895000.6415385604
+134,Honda Brio [2011-2016] V MT,Honda,Brio,2012,blue,hatchback,"66,699",1st,5,petrol,35,4 cylinder inline petrol,1198,5-Speed,Manual,86.8,109.0,19.4,BS III,369000,176106.6549706459
+135,Maruti Suzuki Ciaz Alpha Petrol,Maruti Suzuki,Ciaz,2020,silver,sedan,"19,958",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1499,5-Speed,Manual,103.25,138.0,20.65,BS IV,966000,974066.8892165124
+136,Ford EcoSport [2017-2021] Titanium 1.5L Ti-VCT,Ford,EcoSport,2021,silver,suv,"15,924",1st,5,petrol,52,Ti-VCT Petrol Engine,1496,5-Speed,Manual,120.69,149.0,15.9,BS IV,932000,1314659.5402642488
+137,Hyundai Eon [2011-2018] Magna +,Hyundai,Eon,2018,red,hatchback,"24,428",1st,5,petrol,32,Kappa Engine,814,5-Speed,Manual,68.05,94.14,20.03,BS IV,388000,503623.2561672032
+138,Toyota Etios [2010-2017] V,Toyota,Etios,2013,red,sedan,"51,187",1st,5,petrol,45,4 cylinder petrol engine,1496,5-Speed,Manual,80.0,132.0,17.57,BS IV,489000,546805.258739233
+139,Toyota Corolla Altis [2014-2017] G Petrol,Toyota,Corolla Altis,2016,black,sedan,"47,767",1st,5,petrol,55,"2ZR-FE, Gasoline, 4 cylinder inline",1798,6-Speed,Automatic,138.0,173.0,16.7,BS IV,926000,1056782.0156275332
+140,MG Motors Hector 1.5 Sharp DCT AT,MG Motors,Hector,2020,maroon,suv,"33,433",1st,5,petrol,60,FWD,1451,6-Speed,Automatic,141.0,250.0,13.96,BS IV,1709000,1485868.0854713619
+141,Maruti Suzuki Ciaz Alpha Petrol,Maruti Suzuki,Ciaz,2020,white,sedan,"40,635",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1499,5-Speed,Manual,103.25,138.0,20.65,BS IV,1039000,974066.8892165124
+142,MG Motors Hector 1.5 Sharp DCT AT,MG Motors,Hector,2020,red,suv,"25,835",1st,5,petrol,60,FWD,1451,6-Speed,Automatic,141.0,250.0,13.96,BS IV,1770000,1485868.0854713619
+143,Maruti Suzuki Ciaz Alpha AT Petrol,Maruti Suzuki,Ciaz,2020,grey,sedan,"30,752",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1462,4-Speed,Automatic,103.25,138.0,20.0,BS IV,1163000,974066.8892165124
+144,Honda City ZX,Honda,City,2020,red,sedan,"16,332",1st,5,petrol,40,1.5L i-VTEC DOHC with VTC Petrol Engine,1498,6-Speed,Automatic,119.35,145.0,18.4,BS IV,1349000,883749.0310539007
+145,Kia Seltos GTX Plus DCT,Kia,Seltos,2020,orange,suv,"20,930",1st,5,petrol,50,Smartstream G1.4 T-GDi,1353,7-Speed,Automatic,138.0,242.0,16.8,BS IV,1705000,1184808.5582626164
+146,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2019,red,hatchback,"14,499",1st,5,diesel,40,TDCi Diesel Engine,1499,5-Speed,Manual,98.96,215.0,24.4,BS V,739000,814109.9544940293
+147,Hyundai Verna [2011-2015] Fluidic 1.6 CRDi SX,Hyundai,Verna,2014,grey,sedan,"72,009",1st,5,diesel,43,Diesel Engine,1582,6-Speed,Automatic,126.0,260.0,17.0,BS III,600000,556232.4298573434
+148,Hyundai Venue [2019-2021] SX 1.0 (O) Turbo,Hyundai,Venue,2019,white,suv,"23,164",1st,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,998,6-Speed,Automatic,118.35,171.6,18.27,BS V,1039000,964639.718098402
+149,Maruti Suzuki Ciaz Alpha Petrol,Maruti Suzuki,Ciaz,2019,blue,sedan,"28,618",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1499,5-Speed,Manual,103.25,138.0,20.65,BS IV,950000,904427.812656641
+150,Honda WR-V VX i-VTEC,Honda,WR-V,2017,red,suv,"88,695",1st,5,petrol,40,i-VTEC Petrol engine,1199,5-Speed,Manual,88.5,110.0,16.5,BS IV,748000,674831.8013743162
+151,Maruti Suzuki Dzire [2017-2020] ZXi Plus AMT,Maruti Suzuki,Dzire,2018,blue,sedan,"7,858",1st,5,petrol,37,1.2 Litre Petrol Engine,1499,5-Speed,Manual,88.5,113.0,24.12,BS V,820000,654153.0197715461
+152,Hyundai i20 Active [2015-2020] 1.2 SX,Hyundai,i20 Active,2016,red,crossover,"88,827",1st,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Manual,82.0,115.0,17.19,BS V,645000,755722.4884188175
+153,Tata Zest [2014-2019] XT Petrol,Tata,Zest,2017,silver,sedan,"7,697",1st,5,petrol,44,Revotron 1.2 T,1193,5-Speed,Manual,89.0,140.0,17.57,BS V,570000,795255.6122578084
+154,MG Motors Hector 1.5 Sharp DCT AT,MG Motors,Hector,2020,black,suv,"31,271",1st,5,petrol,60,FWD,1451,6-Speed,Automatic,141.0,250.0,13.96,BS IV,1764000,1485868.0854713619
+155,Hyundai Elite i20 [2018-2020] Sportz 1.2,Hyundai,Elite i20,2018,red,hatchback,"17,121",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Manual,82.0,115.0,18.6,BS V,677000,895000.6415385604
+156,Hyundai Fluidic Verna 4S [2015-2018] 1.6 VTVT SX AT,Hyundai,Fluidic Verna 4S,2017,white,sedan,"60,287",1st,5,petrol,43,VTVT Petrol Engine,1591,4-Speed,Automatic,121.3,154.9,17.0,BS IV,837000,765149.6595369279
+157,MG Motors Hector 1.5 Hybrid Sharp DCT Dual Tone,MG Motors,Hector,2020,red,suv,"8,265",1st,5,petrol,60,FWD,1451,6-Speed,Automatic,141.0,250.0,13.96,BS IV,1826000,1485868.0854713619
+158,JEEP Compass [2017-2021] Longitude (O) 2.0 Diesel,Jeep,Compass,2017,red,suv,"43,091",2nd,5,diesel,60,2.0-Litre 4-Cyl Multijet II Engine,1956,6-Speed,Automatic,170.0,350.0,17.1,BS IV,1290000,1276950.8557917774
+159,JEEP Compass [2017-2021] Limited (O) 2.0 Diesel,Jeep,Compass,2017,blue,suv,"44,503",1st,5,diesel,60,2.0-Litre 4-Cyl Multijet,1956,6-Speed,Automatic,170.63,350.0,17.1,BS IV,1559000,1276950.8557917774
+160,Hyundai New Santro 1.1 Magna Corporate Edition ,Hyundai,New Santro 1.1,2020,blue,hatchback,"17,056",1st,5,petrol,35,1.1 L Petrol,1086,5-Speed,Manual,68.07,99.07,20.3,BS IV,523000,733219.267449528
+161,Maruti Suzuki S-Cross [2017-2020] Zeta 1.3,Maruti Suzuki,S-Cross,2018,blue,suv,"61,922",1st,5,diesel,48,DDiS 200,1248,5-Speed,Manual,89.0,200.0,23.65,BS V,942000,985318.4997011721
+162,Hyundai i20 Active [2015-2020] 1.2 SX,Hyundai,i20 Active,2017,silver,crossover,"60,629",1st,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Manual,82.0,115.0,17.19,BS V,725000,825361.564978689
+163,Hyundai i20 Active [2015-2020] 1.2 S,Hyundai,i20 Active,2017,black,crossover,"32,602",1st,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Manual,82.0,115.0,17.19,BS V,711000,825361.564978689
+164,Ford EcoSport [2017-2021] Titanium + 1.5L Ti-VCT,Ford,EcoSport,2020,silver,suv,"26,116",1st,5,petrol,52, 1.5L Ti-VCT (Petrol),1496,5-Speed,Manual,121.0,149.0,21.17,BS IV,974000,1245020.4637043774
+165,Hyundai i20 Active [2015-2020] 1.2 S,Hyundai,i20 Active,2016,brown,crossover,"90,058",1st,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Manual,82.0,115.0,17.19,BS V,608000,755722.4884188175
+166,Hyundai i10 [2010-2016] Era Petrol,Hyundai,i10,2012,grey,hatchback,"63,676",1st,5,petrol,35,4 cylinder inline petrol engine,1086,5-Speed,Manual,68.05,99.04,19.81,BS III,273000,176106.6549706459
+167,Hyundai i10 [2010-2016] Sportz AT Petrol,Hyundai,i10,2011,grey,hatchback,"43,918",2nd,5,petrol,35,DOHC Kappa2 Engine,1197,4-Speed,Automatic,78.9,111.8,16.95,BS III,304000,106467.57841077447
+168,Maruti Suzuki Alto 800 Vxi,Maruti Suzuki,Alto 800,2020,silver,hatchback,"6,301",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.05,BS IV,361000,733219.267449528
+169,Renault Kwid [2015-2019] RXT,Renault,Kwid,2017,grey,hatchback,"29,907",1st,5,petrol,28,Petrol Engine,799,5-Speed,Manual,53.3,72.0,25.12,BS V,365000,313560.3687238395
+170,Hyundai Elite i20 [2014-2018] Sportz 1.4 CRDI,Hyundai,Elite i20,2016,white,hatchback,"41,218",1st,5,diesel,45,"16 Valves, 4 Cylinder",1396,6-Speed,Automatic,89.0,220.0,22.54,BS IV,616000,755722.4884188175
+171,Maruti Suzuki Ertiga [2012-2015] Vxi,Maruti Suzuki,Ertiga,2015,brown,muv,"5,475",1st,7,petrol,45,K-Series Petrol Engine with VVT,1373,5-Speed,Manual,93.7,130.0,16.02,BS III,690000,686083.4118589759
+172,Hyundai Grand i10 Nios Sportz AMT 1.2 Kappa VTVT,Hyundai,Grand i10 Nios,2022,blue,hatchback,"4,305",1st,5,petrol,37,1.2 L Kappa Petrol,1197,5-Speed,Manual,81.86,113.75,20.07,BS IV,749000,932709.3260109723
+173,Ford EcoSport [2015-2017] Trend 1.5L TDCi,Ford,EcoSport,2017,bronze,suv,"43,112",1st,5,diesel,52,1.5L DV5 (Diesel),1498,5-Speed,Manual,99.0,205.0,22.7,BS IV,619000,1036103.2340247929
+174,Volkswagen Polo [2014-2020] Highline 1.5 (D),Volkswagen,Polo,2015,grey,hatchback,"53,807",1st,5,diesel,45,TDI Diesel Engine,1498,5-Speed,Manual,88.0,230.0,20.18,BS V,547000,686083.4118589759
+175,Hyundai Elite i20 [2014-2018] Asta 1.2 (O),Hyundai,Elite i20,2015,silver,hatchback,"37,837",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Manual,82.0,115.0,18.6,BS IV,579000,686083.4118589759
+176,Renault Triber RXZ,Renault,Triber,2019,white,muv,"11,074",1st,7,petrol,40,1.0L Petrol Engine,999,5-Speed,Manual,71.0,96.0,20.0,BS IV,686000,814109.9544940293
+177,Maruti Suzuki Baleno [2015-2019] Alpha Petrol,Maruti Suzuki,Baleno,2017,blue,hatchback,"15,748",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,679000,584513.9432116747
+178,Maruti Suzuki Ritz [2012-2017] Vxi,Maruti Suzuki,Ritz,2015,red,hatchback,"14,593",1st,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,400000,625871.5064172149
+179,Maruti Suzuki Ciaz [2014-2017] ZXi AT,Maruti Suzuki,Ciaz,2015,white,sedan,"30,228",1st,5,petrol,43, K 14B VVT,1373,4-Speed,Automatic,91.0,130.0,19.12,BS IV,612000,625871.5064172149
+180,MG Motors Hector Plus Sharp 1.5 Petrol Turbo DCT 6-STR,MG Motors,Hector Plus,2020,black,suv,"44,897",1st,6,petrol,60,1.5 Litre Turbochaged Petrol Engine,1451,6-Speed,Automatic,141.0,250.0,11.67,BS IV,1644000,1485868.0854713619
+181,Maruti Suzuki Wagon R 1.0 [2010-2019] VXI,Maruti Suzuki,Wagon R 1.0,2013,grey,hatchback,"55,995",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,18.9,BS V,342000,245745.73153048754
+182,Tata Altroz XZ 1.2,Tata,Altroz,2021,grey,hatchback,"9,936",1st,5,petrol,37,1.2 L Revotron,1199,5-Speed,Manual,84.82,113.0,19.05,BS IV,790000,863070.2494511306
+183,Hyundai Eon [2011-2018] Magna +,Hyundai,Eon,2017,red,hatchback,"18,790",1st,5,petrol,32,Kappa Engine,814,5-Speed,Manual,68.05,94.14,20.03,BS IV,360000,433984.17960733175
+184,Maruti Suzuki Alto 800 [2012-2016] Vxi,Maruti Suzuki,Alto 800,2015,red,hatchback,"64,323",1st,5,petrol,35,F8D,796,5-Speed,Manual,47.3,69.0,22.74,BS III,276000,385023.8846502304
+185,Hyundai i10 [2010-2016] Magna 1.2 Petrol,Hyundai,i10,2013,red,hatchback,"32,849",1st,5,petrol,35,Kappa Petrol Engine,1197,5-Speed,Manual,78.9,111.7,20.36,BS III,352000,245745.73153048754
+186,Maruti Suzuki Alto 800 Lxi,Maruti Suzuki,Alto 800,2020,red,hatchback,"22,777",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.33,69.0,22.05,BS IV,363000,733219.267449528
+187,Hyundai i10 [2010-2016] Era Petrol,Hyundai,i10,2013,white,hatchback,"37,652",1st,5,petrol,35,4 cylinder inline petrol engine,1086,5-Speed,Manual,68.05,99.04,19.81,BS III,333000,245745.73153048754
+188,Hyundai Elite i20 [2014-2018] Asta 1.4 CRDI (O),Hyundai,Elite i20,2016,red,hatchback,"93,446",1st,5,diesel,45,U2 CRDI Diesel Engine,1396,6-Speed,Automatic,88.73,219.7,22.54,BS IV,589000,755722.4884188175
+189,Renault Kiger RXT MT,Renault,Kiger,2022,blue,suv,"11,031",1st,5,petrol,40,1.0L Energy,999,5-Speed,Manual,71.0,96.0,19.17,BS IV,735000,1023027.1841736138
+190,Maruti Suzuki Swift [2017-2021] ZXi AMT,Maruti Suzuki,Swift,2021,white,hatchback,"9,752",1st,5,petrol,37,VTVT Engine,1197,5-Speed,Manual,81.8,113.0,21.21,BS IV,790000,863070.2494511306
+191,Maruti Suzuki Vitara Brezza [2018-2020] ZDI PLUS AT Dual Tone,Maruti Suzuki,Vitara Brezza,2019,red,suv,"15,418",1st,5,diesel,48,Front Wheel Drive,1248,5-Speed,Manual,89.0,200.0,24.3,BS V,1117000,1054957.5762610137
+192,Maruti Suzuki Swift [2017-2021] VXi,Maruti Suzuki,Swift,2020,grey,hatchback,"8,249",1st,5,petrol,37,VTVT Engine,1197,5-Speed,Manual,81.8,113.0,21.21,BS IV,660000,793431.1728912592
+193,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT,Hyundai,Grand i10 Nios,2021,blue,hatchback,"10,514",1st,5,petrol,37,1.2 L Kappa Petrol,1197,5-Speed,Manual,81.86,113.75,20.7,BS IV,678000,863070.2494511306
+194,Honda City V,Honda,City,2019,silver,sedan,"24,136",2nd,5,petrol,40,i VTEC Engine,1497,5-Speed,Manual,117.6,145.0,17.4,BS IV,857000,814109.9544940293
+195,Renault Kwid CLIMBER 1.0 AMT,Renault,Kwid,2019,blue,hatchback,"18,638",1st,5,petrol,28,Petrol Engine,999,5-Speed,Manual,67.0,91.0,22.0,BS IV,483000,452838.5218435526
+196,Hyundai Eon [2011-2018] Magna +,Hyundai,Eon,2013,red,hatchback,"93,653",2nd,5,petrol,32,Kappa Engine,814,5-Speed,Manual,68.05,94.14,20.03,BS IV,248000,155427.8733678758
+197,JEEP Compass [2017-2021] Limited 2.0 Diesel,Jeep,Compass,2017,black,suv,"60,049",1st,5,diesel,60,2.0-Litre 4-Cyl Multijet,1956,6-Speed,Automatic,170.0,350.0,17.1,BS IV,1500000,1276950.8557917774
+198,Maruti Suzuki Dzire [2017-2020] ZXi Plus AMT,Maruti Suzuki,Dzire,2019,brown,sedan,"31,330",2nd,5,petrol,37,1.2 Litre Petrol Engine,1499,5-Speed,Manual,88.5,113.0,24.12,BS V,759000,723792.0963313878
+199,Hyundai i10 [2010-2016] Magna 1.2 Petrol,Hyundai,i10,2012,red,hatchback,"49,014",2nd,5,petrol,35,Kappa Petrol Engine,1197,5-Speed,Manual,78.9,111.7,20.36,BS III,336000,176106.6549706459
+200,Maruti Suzuki Ciaz [2014-2017] ZXI+,Maruti Suzuki,Ciaz,2015,silver,sedan,"56,221",1st,5,petrol,43,k14B VVT Engine,1373,5-Speed,Manual,91.1,130.0,20.73,BS IV,677000,625871.5064172149
+201,Maruti Suzuki Baleno [2015-2019] Alpha Petrol,Maruti Suzuki,Baleno,2017,blue,hatchback,"20,894",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,711000,584513.9432116747
+202,Hyundai Creta [2015-2018] 1.6 SX Plus Auto,Hyundai,Creta,2016,grey,suv,"88,735",2nd,5,diesel,60,U2 VGT CRDi,1596,6-Speed,Manual,126.0,265.0,17.01,BS IV,1099000,1207311.779231906
+203,Hyundai Creta [2015-2018] 1.6 SX Plus Auto,Hyundai,Creta,2016,grey,suv,"88,735",2nd,5,diesel,60,U2 VGT CRDi,1596,6-Speed,Manual,126.0,265.0,17.01,BS IV,1099000,1207311.779231906
+204,Hyundai Creta [2015-2018] 1.6 SX Plus Auto,Hyundai,Creta,2016,grey,suv,"88,735",2nd,5,diesel,60,U2 VGT CRDi,1582,6-Speed,Manual,126.0,265.0,17.01,BS IV,1099000,1207311.779231906
+205,Hyundai Creta [2015-2018] 1.6 SX Plus Auto,Hyundai,Creta,2016,grey,suv,"88,735",2nd,5,diesel,60,U2 VGT CRDi,1582,6-Speed,Manual,126.0,265.0,17.01,BS IV,1099000,1207311.779231906
+206,Renault Kiger RXZ Turbo CVT,Renault,Kiger,2021,white,suv,"9,034",1st,5,petrol,40,1.0L Energy,1298,5-Speed,Automatic,99.0,152.0,20.53,BS IV,1078000,953388.1076137722
+207,Maruti Suzuki Celerio [2014-2021] VXi AMT,Maruti Suzuki,Celerio,2014,silver,hatchback,"63,746",3rd,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,348000,315384.808090359
+208,Hyundai Elite i20 [2014-2018] Asta 1.2,Hyundai,Elite i20,2016,white,hatchback,"85,602",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,659000,755722.4884188175
+209,Hyundai Verna [2011-2015] Fluidic 1.6 VTVT SX,Hyundai,Verna,2013,purple,sedan,"59,054",2nd,5,petrol,43,Front Wheel Drive,1591,5-Speed,Automatic,121.0,158.0,17.01,BS III,501000,486593.353297472
+210,Renault Duster [2015-2019] 110 PS RXZ 4X2 AMT,Renault,Duster,2017,white,suv,"50,811",1st,5,diesel,50,dCi THP Diesel Engine,1461,6-Speed,Manual,108.45,245.0,19.6,BS V,1013000,975891.3285830319
+211,Kia Seltos GTX Plus DCT,Kia,Seltos,2020,silver,suv,"38,198",1st,5,petrol,50,Smartstream G1.4 T-GDi,1353,7-Speed,Manual,138.0,242.0,16.8,BS IV,1741000,1184808.5582626164
+212,Maruti Suzuki Ciaz [2017-2018] Alpha AT,Maruti Suzuki,Ciaz,2018,silver,sedan,"92,118",1st,5,petrol,43,k14B VVT Engine,1373,4-Speed,Manual,91.1,130.0,20.73,BS IV,829000,834788.7360967994
+213,Hyundai Xcent [2014-2017] SX (O) Petrol,Hyundai,Xcent,2014,white,sedan,"72,801",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,19.1,BS IV,496000,556232.4298573434
+214,Hyundai Eon [2011-2018] D-Lite+,Hyundai,Eon,2014,grey,hatchback,"38,592",2nd,5,petrol,32,Petrol Engine,1798,5-Speed,Manual,55.2,74.5,21.1,BS IV,269000,225066.94992774725
+215,Honda City V,Honda,City,2019,brown,sedan,"22,379",1st,5,petrol,40,i VTEC Engine,1497,5-Speed,Manual,117.6,145.0,17.4,BS IV,927000,814109.9544940293
+216,Maruti Suzuki Wagon R 1.0 [2015-2019] VXI AMT,Maruti Suzuki,Wagon R 1.0,2016,silver,hatchback,"44,822",2nd,5,petrol,32,K10B Petrol Engine,998,5-Speed,Manual,67.05,90.0,21.79,BS V,451000,364345.1030474603
+217,Renault Kwid 1.0 RXT Opt,Renault,Kwid,2021,white,hatchback,"13,069",1st,5,petrol,28,Petrol Engine,1298,5-Speed,Automatic,67.0,91.0,22,BS IV,532000,592116.6749632955
+218,Maruti Suzuki Wagon R 1.0 [2010-2019] VXI,Maruti Suzuki,Wagon R 1.0,2011,brown,hatchback,"96,939",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,18.9,BS V,338000,106467.57841077447
+219,Mahindra XUV500 [2015-2018] W8,Mahindra,XUV500,2015,silver,suv,"71,397",2nd,7,diesel,70,4 cylinder mHawk CRDe diesel engine,2179,6-Speed,Manual,140.0,330.0,16,BS IV,1032000,1438732.2298808098
+220,Hyundai New Santro 1.1 Asta MT,Hyundai,New Santro 1.1,2019,beige,hatchback,"21,903",1st,5,petrol,35,1.1 L Petrol,1086,5-Speed,Manual,68.07,99.07,20.3,BS IV,557000,663580.1908896565
+221,Hyundai Grand i10 [2017-2020] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2020,grey,hatchback,"9,468",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,113.75,18.9,BS V,653000,974066.8892165124
+222,Honda City V,Honda,City,2018,brown,sedan,"60,209",1st,5,petrol,40,i VTEC Engine,1497,5-Speed,Manual,117.6,145.0,17.4,BS IV,898000,744470.8779341877
+223,Renault Duster [2015-2019] 110 PS RXZ 4X2 AMT,Renault,Duster,2016,orange,suv,"69,658",1st,5,diesel,50,dCi THP Diesel Engine,1461,6-Speed,Manual,108.45,245.0,19.6,BS V,912000,906252.2520231605
+224,Hyundai Elite i20 [2014-2018] Asta 1.4 CRDI,Hyundai,Elite i20,2015,white,hatchback,"81,103",1st,5,diesel,45,U2 CRDI Diesel Engine,1396,6-Speed,Manual,88.73,219.7,22.54,BS IV,642000,686083.4118589759
+225,Renault Triber RXZ,Renault,Triber,2020,blue,muv,"57,503",1st,7,petrol,40,1.0L Petrol Engine,999,5-Speed,Manual,71.0,96.0,20,BS IV,651000,883749.0310539007
+226,Maruti Suzuki Celerio [2014-2021] ZXi (O),Maruti Suzuki,Celerio,2018,silver,hatchback,"45,560",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.0,90.0,23.1,BS IV,503000,593941.1143298149
+227,Maruti Suzuki A-Star [2012-2014] VXI (ABS) AT,Maruti Suzuki,A-Star,2012,silver,hatchback,"45,008",2nd,5,petrol,35,K10B,998,4-Speed,Automatic,67.0,90.0,16.98,BS IV,330000,176106.6549706459
+228,Maruti Suzuki Swift [2007-2011] VXI ABS,Maruti Suzuki,Swift,2011,grey,hatchback,"51,210",2nd,5,petrol,43,In-Line Engine,1197,5-Speed,Manual,85.0,113.0,16.1,BS IV,395000,347315.20017775893
+229,Hyundai Creta [2015-2018] 1.6 S Plus Auto,Hyundai,Creta,2017,silver,suv,"44,894",1st,5,diesel,60,U2 VGT CRDi,1582,6-Speed,Manual,126.0,265.0,17.01,BS IV,1235000,1276950.8557917774
+230,Maruti Suzuki S-Cross [2015-2020] Zeta 1.3,Maruti Suzuki,S-Cross,2015,white,suv,"39,515",1st,5,diesel,48,DDiS 200,1248,5-Speed,Automatic,89.0,200.0,23.65,BS V,808000,776401.2700215876
+231,Hyundai Grand i10 [2013-2017] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2015,silver,hatchback,"54,287",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,18.9,BS IV,458000,625871.5064172149
+232,Hyundai Verna [2011-2015] Fluidic 1.6 VTVT SX,Hyundai,Verna,2013,white,sedan,"91,039",1st,5,petrol,43,Front Wheel Drive,1591,5-Speed,Automatic,121.0,158.0,17.01,BS III,514000,486593.353297472
+233,Honda Amaze [2013-2018] 1.2 S i-VTEC,Honda,Amaze,2015,grey,sedan,"49,435",1st,5,petrol,35,i-VTEC Petrol Engine,1198,5-Speed,Manual,86.7,109.0,18,BS IV,512000,385023.8846502304
+234,Skoda Superb [2019-2020] L&K TSI AT,Skoda,Superb,2019,black,sedan,"9,686",1st,5,petrol,66,"Turbocharged petrol engine, in-line, liquid cooling system, direct injection, 16V DOHC, transverse in front",1798,7-Speed,Automatic,177.0,250.0,14.67,BS V,2941000,1596864.7252367437
+235,Honda City VX,Honda,City,2021,white,sedan,"12,092",1st,5,petrol,40,1.5L i-VTEC Petrol Engine,1498,6-Speed,Manual,119.3,145.0,18.4,BS IV,1346000,953388.1076137722
+236,Maruti Suzuki Baleno [2019-2022] Zeta AT Petrol,Maruti Suzuki,Baleno,2019,blue,hatchback,"27,053",1st,5,petrol,37,1.2L VVT Engine,1596,5-Speed,Manual,81.8,113.0,21.01,BS V,844000,723792.0963313878
+237,Maruti Suzuki Baleno [2019-2022] Zeta AT Petrol,Maruti Suzuki,Baleno,2019,blue,hatchback,"27,053",1st,5,petrol,37,1.2L VVT Engine,1596,5-Speed,Manual,81.8,113.0,21.01,BS V,844000,723792.0963313878
+238,Maruti Suzuki Baleno [2019-2022] Zeta AT Petrol,Maruti Suzuki,Baleno,2019,blue,hatchback,"27,053",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,844000,723792.0963313878
+239,Maruti Suzuki Baleno [2019-2022] Zeta AT Petrol,Maruti Suzuki,Baleno,2019,blue,hatchback,"27,053",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,844000,723792.0963313878
+240,Maruti Suzuki Dzire [2017-2020] ZXi Plus AMT,Maruti Suzuki,Dzire,2017,blue,sedan,"28,833",1st,5,petrol,37,1.2 Litre Petrol Engine,1696,5-Speed,Automatic,88.5,113.0,24.12,BS V,789000,584513.9432116747
+241,Honda Jazz VX MT,Honda,Jazz,2016,red,hatchback,"48,606",2nd,5,petrol,40,1.2 i-VTEC Petrol,1199,5-Speed,Manual,88.51,110.0,16.6,BS IV,570000,605192.7248144448
+242,Maruti Suzuki Baleno [2015-2019] Alpha Petrol,Maruti Suzuki,Baleno,2016,red,hatchback,"96,236",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,639000,514874.86665180326
+243,Maruti Suzuki Swift Dzire [2012-2017] VXi,Maruti Suzuki,Swift Dzire,2012,silver,sedan,"37,258",1st,5,petrol,42,K Series VVT Engine,1197,5-Speed,Manual,85.8,114.0,19.1,BS IV,470000,386848.32401674986
+244,Maruti Suzuki Celerio [2014-2021] VXi AMT,Maruti Suzuki,Celerio,2014,silver,hatchback,"33,869",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,454000,315384.808090359
+245,Maruti Suzuki Ertiga [2012-2015] Vxi,Maruti Suzuki,Ertiga,2013,silver,muv,"91,796",1st,7,petrol,45,K-Series Petrol Engine with VVT,1373,5-Speed,Manual,93.7,130.0,16.02,BS III,618000,546805.258739233
+246,Tata Tiago [2016-2020] Revotron XT,Tata,Tiago,2019,grey,hatchback,"45,607",1st,5,petrol,35,Revotron Engine,1199,5-Speed,Automatic,84.0,114.0,23.84,BS V,548000,663580.1908896565
+247,Hyundai Grand i10 Nios Sportz 1.2 Kappa VTVT,Hyundai,Grand i10 Nios,2021,grey,hatchback,"1,117",1st,5,petrol,37,1.2 L Kappa Petrol,1197,5-Speed,Manual,81.86,113.75,20.7,BS IV,710000,863070.2494511306
+248,Hyundai Grand i10 [2017-2020] Sportz (O) 1.2 kappa VTVT,Hyundai,Grand i10,2018,blue,hatchback,"24,745",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,113.75,18.9,BS V,621000,834788.7360967994
+249,Hyundai Creta [2015-2018] 1.6 SX Plus Auto,Hyundai,Creta,2017,red,suv,"66,868",1st,5,diesel,60,U2 VGT CRDi,1596,6-Speed,Manual,126.0,265.0,17.01,BS IV,1290000,1276950.8557917774
+250,Hyundai Creta [2015-2018] 1.6 SX Plus Auto,Hyundai,Creta,2017,red,suv,"66,868",1st,5,diesel,60,U2 VGT CRDi,1596,6-Speed,Manual,126.0,265.0,17.01,BS IV,1290000,1276950.8557917774
+251,Hyundai Creta [2015-2018] 1.6 SX Plus Auto,Hyundai,Creta,2017,red,suv,"66,868",1st,5,diesel,60,U2 VGT CRDi,1582,6-Speed,Manual,126.0,265.0,17.01,BS IV,1290000,1276950.8557917774
+252,Hyundai Creta [2015-2018] 1.6 SX Plus Auto,Hyundai,Creta,2017,red,suv,"66,868",1st,5,diesel,60,U2 VGT CRDi,1582,6-Speed,Manual,126.0,265.0,17.01,BS IV,1290000,1276950.8557917774
+253,Honda WR-V VX i-VTEC,Honda,WR-V,2017,red,suv,"75,639",1st,5,petrol,40,i-VTEC Petrol engine,1199,5-Speed,Manual,88.5,110.0,16.5,BS IV,748000,674831.8013743162
+254,Chevrolet Beat [2011-2014] LS Diesel,Chevrolet,Beat,2013,blue,hatchback,"77,022",1st,5,diesel,35,XSDE Smartech,936,5-Speed,Manual,58.0,150.0,25.44,BS IV,267000,245745.73153048754
+255,Renault Kwid [2015-2019] RXL,Renault,Kwid,2018,bronze,hatchback,"56,387",1st,5,petrol,28,Petrol Engine,799,5-Speed,Manual,53.3,72.0,25.17,BS V,368000,383199.44528371096
+256,Hyundai Venue [2019-2022] SX Plus 1.0 Turbo DCT,Hyundai,Venue,2019,red,suv,"23,724",1st,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,998,7-Speed,Manual,118.35,171.6,18.15,BS V,1137000,964639.718098402
+257,Maruti Suzuki Celerio ZXi Plus,Maruti Suzuki,Celerio,2022,grey,hatchback,"6,900",1st,5,petrol,35,K10B Engine,998,5-Speed,Manual,67.04,90.0,21.63,BS IV,699000,872497.420569241
+258,Maruti Suzuki Celerio [2014-2021] ZXi AMT,Maruti Suzuki,Celerio,2017,grey,hatchback,"43,785",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,544000,524302.0377699435
+259,Honda Amaze 1.5 VX CVT i-DTEC,Honda,Amaze,2019,white,sedan,"29,780",1st,5,diesel,35,i-DTEC,1199,5-Speed,Manual,79.0,160.0,21,BS IV,982000,663580.1908896565
+260,Maruti Suzuki Baleno [2015-2019] Zeta Petrol,Maruti Suzuki,Baleno,2015,blue,hatchback,"56,207",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,611000,445235.7900919616
+261,Maruti Suzuki Vitara Brezza [2016-2020] ZDI PLUS Dual Tone,Maruti Suzuki,Vitara Brezza,2016,yellow,suv,"40,003",1st,5,diesel,48,DDiS 200 Diesel Engine,1248,5-Speed,Automatic,88.5,200.0,24.3,BS V,941000,846040.3465814292
+262,Hyundai i20 [2012-2014] Asta 1.2,Hyundai,i20,2014,silver,hatchback,"94,315",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.85,113.7,18.5,BS IV,534000,616444.3352991045
+263,Maruti Suzuki Celerio [2014-2021] ZXi AMT,Maruti Suzuki,Celerio,2018,grey,hatchback,"29,492",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,584000,593941.1143298149
+264,Maruti Suzuki Ciaz [2014-2017] ZXI+,Maruti Suzuki,Ciaz,2017,grey,sedan,"21,365",1st,5,petrol,43,k14B VVT Engine,1373,5-Speed,Manual,91.1,130.0,20.73,BS IV,827000,765149.6595369279
+265,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2019,red,hatchback,"31,262",1st,5,diesel,40,TDCi Diesel Engine,1596,5-Speed,Manual,98.96,215.0,24.4,BS V,681000,814109.9544940293
+266,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2019,red,hatchback,"31,262",1st,5,diesel,40,TDCi Diesel Engine,1596,5-Speed,Manual,98.96,215.0,24.4,BS V,681000,814109.9544940293
+267,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2019,red,hatchback,"31,262",1st,5,diesel,40,TDCi Diesel Engine,1499,5-Speed,Manual,98.96,215.0,24.4,BS V,681000,814109.9544940293
+268,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2019,red,hatchback,"31,262",1st,5,diesel,40,TDCi Diesel Engine,1499,5-Speed,Manual,98.96,215.0,24.4,BS V,681000,814109.9544940293
+269,Honda Jazz [2015-2020] SV MT,Honda,Jazz,2017,red,hatchback,"56,221",1st,5,petrol,40,i-VTEC Petrol Engine,1199,5-Speed,Automatic,88.7,110.0,18.7,BS V,580000,674831.8013743162
+270,Hyundai Grand i10 Nios Sportz AMT 1.2 Kappa VTVT,Hyundai,Grand i10 Nios,2021,grey,hatchback,"27,185",1st,5,petrol,37,1.2 L Kappa Petrol,1197,5-Speed,Manual,81.86,113.75,20.07,BS IV,746000,863070.2494511306
+271,Honda Amaze [2013-2018] 1.2 VX i-VTEC,Honda,Amaze,2014,red,sedan,"63,170",2nd,5,petrol,35,"4-Cylinder, SOHC i-VTEC",1198,5-Speed,Manual,86.9,109.0,18.0,BS IV,452000,315384.808090359
+272,Tata Nano GenX [2015-2018] XT,Tata,Nano GenX,2015,purple,hatchback,"44,736",1st,5,petrol,24,"2 cylinder, MPFI, Gasoline",624,4-Speed,Manual,37.0,51.0,23.6,BS IV,239000,53858.40472060442
+273,Renault Kwid [2017-2019] RXT 1.0 SCE Special (O),Renault,Kwid,2019,grey,hatchback,"13,111",1st,5,petrol,28,Petrol Engine,999,5-Speed,Manual,67.0,91.0,23.01,BS V,453000,452838.5218435526
+274,Ford Figo [2015-2019] Titanium1.5 TDCi,Ford,Figo,2016,grey,hatchback,"83,705",1st,5,diesel,40,TDCi,1498,5-Speed,Manual,99.0,215.0,25.83,BS V,521000,605192.7248144448
+275,Renault Triber RXZ,Renault,Triber,2021,white,muv,"7,227",1st,7,petrol,40,1.0L Petrol Engine,999,5-Speed,Manual,71.0,96.0,20,BS IV,780000,953388.1076137722
+276,Hyundai Verna [2011-2015] Fluidic 1.6 VTVT SX Opt,Hyundai,Verna,2014,white,sedan,"45,880",1st,5,petrol,43,Front Wheel Drive,1582,5-Speed,Automatic,121.0,158.0,17.01,BS III,694000,556232.4298573434
+277,Maruti Suzuki Ciaz [2014-2017] ZXI+,Maruti Suzuki,Ciaz,2015,white,sedan,"36,850",1st,5,petrol,43,k14B VVT Engine,1373,5-Speed,Manual,91.1,130.0,20.73,BS IV,698000,625871.5064172149
+278,Maruti Suzuki Swift [2007-2011] VXi,Maruti Suzuki,Swift,2011,silver,hatchback,"53,160",1st,5,petrol,43,In-Line Engine,1197,5-Speed,Manual,85.0,113.0,16.1,BS IV,426000,347315.20017775893
+279,Honda City V,Honda,City,2021,white,sedan,"17,790",1st,5,petrol,40,i VTEC Engine,1497,5-Speed,Manual,117.6,145.0,17.4,BS IV,989000,953388.1076137722
+280,Honda City V,Honda,City,2020,white,sedan,"24,218",1st,5,petrol,40,i VTEC Engine,1497,5-Speed,Manual,117.6,145.0,17.4,BS IV,940000,883749.0310539007
+281,Hyundai Grand i10 [2017-2020] Magna 1.2 Kappa VTVT,Hyundai,Grand i10,2017,red,hatchback,"11,304",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,113.75,18.9,BS V,556000,765149.6595369279
+282,Tata Altroz XE 1.5,Tata,Altroz,2021,grey,hatchback,"12,002",1st,5,diesel,37,1.5 L Turbocharged Revotorq,1497,5-Speed,Manual,89.0,200.0,23 ,BS IV,785000,863070.2494511306
+283,Mahindra XUV 300 W8 Diesel,Mahindra,XUV 300,2020,black,suv,"61,411",1st,5,diesel,42,1.5L Turbo Diesel,1497,6-Speed,Manual,115.0,300.0,20,BS IV,1077000,943960.9364956319
+284,Hyundai Grand i10 [2013-2017] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2014,grey,hatchback,"35,703",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,18.9,BS IV,464000,556232.4298573434
+285,Hyundai Xcent [2017-2019] S Petrol,Hyundai,Xcent,2017,grey,sedan,"45,378",1st,5,petrol,43,1.2L Kappa Dual VTVT Petr,1596,5-Speed,Manual,81.86,113.75,20.14,BS V,589000,765149.6595369279
+286,Hyundai Xcent [2017-2019] S Petrol,Hyundai,Xcent,2017,grey,sedan,"45,378",1st,5,petrol,43,1.2L Kappa Dual VTVT Petr,1596,5-Speed,Manual,81.86,113.75,20.14,BS V,589000,765149.6595369279
+287,Hyundai Xcent [2017-2019] S Petrol,Hyundai,Xcent,2017,grey,sedan,"45,378",1st,5,petrol,43,1.2L Kappa Dual VTVT Petr,1197,5-Speed,Manual,81.86,113.75,20.14,BS V,589000,765149.6595369279
+288,Hyundai Xcent [2017-2019] S Petrol,Hyundai,Xcent,2017,grey,sedan,"45,378",1st,5,petrol,43,1.2L Kappa Dual VTVT Petr,1197,5-Speed,Manual,81.86,113.75,20.14,BS V,589000,765149.6595369279
+289,Hyundai Grand i10 [2017-2020] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2018,grey,hatchback,"28,557",2nd,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,113.75,18.9,BS V,574000,834788.7360967994
+290,Maruti Suzuki Celerio ZXi Plus,Maruti Suzuki,Celerio,2021,white,hatchback,"14,853",1st,5,petrol,35,K10B Engine,998,5-Speed,Manual,67.04,90.0,21.63,BS IV,655000,802858.3440093994
+291,Maruti Suzuki Ciaz S Petrol,Maruti Suzuki,Ciaz,2020,silver,sedan,"70,245",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1462,5-Speed,Manual,103.25,138.0,20.65,BS IV,920000,974066.8892165124
+292,Maruti Suzuki Eeco AC 5 STR,Maruti Suzuki,Eeco,2020,grey,muv,"22,703",1st,5,petrol,40,Aluminium 32 bit,1197,5-Speed,Manual,72.42,98.0,16.11,BS IV,488000,883749.0310539007
+293,Renault Kwid CLIMBER 1.0 AMT Opt,Renault,Kwid,2020,blue,hatchback,"36,069",1st,5,petrol,28,Petrol Engine,1298,5-Speed,Automatic,67.0,91.0,22,BS IV,548000,522477.598403424
+294,Maruti Suzuki Wagon R 1.0 [2015-2019] VXI AMT,Maruti Suzuki,Wagon R 1.0,2016,silver,hatchback,"5,227",1st,5,petrol,32,K10B Petrol Engine,998,5-Speed,Manual,67.05,90.0,21.79,BS V,528000,364345.1030474603
+295,Maruti Suzuki Celerio [2014-2021] ZXi AMT,Maruti Suzuki,Celerio,2017,grey,hatchback,"27,803",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,527000,524302.0377699435
+296,Honda City [2017-2020] VX,Honda,City,2017,white,sedan,"47,154",1st,5,petrol,40,i VTEC Engine,1497,5-Speed,Automatic,117.6,145.0,17.4,BS V,952000,674831.8013743162
+297,Honda Brio [2011-2016] S MT,Honda,Brio,2012,silver,hatchback,"84,488",1st,5,petrol,35,4 cylinder inline petrol,1198,5-Speed,Manual,86.8,109.0,19.4,BS III,340000,176106.6549706459
+298,Volkswagen Jetta [2013-2017] Comfortline TDI,Volkswagen,Jetta,2014,brown,sedan,"83,265",2nd,5,diesel,55,4 cylinder inline,1596,5-Speed,Manual,138.0,320.0,19.33,BS IV,790000,917503.8625078201
+299,Volkswagen Jetta [2013-2017] Comfortline TDI,Volkswagen,Jetta,2014,brown,sedan,"83,265",2nd,5,diesel,55,4 cylinder inline,1596,5-Speed,Manual,138.0,320.0,19.33,BS IV,790000,917503.8625078201
+300,Volkswagen Jetta [2013-2017] Comfortline TDI,Volkswagen,Jetta,2014,brown,sedan,"83,265",2nd,5,diesel,55,4 cylinder inline,1968,5-Speed,Manual,138.0,320.0,19.33,BS IV,790000,917503.8625078201
+301,Volkswagen Jetta [2013-2017] Comfortline TDI,Volkswagen,Jetta,2014,brown,sedan,"83,265",2nd,5,diesel,55,4 cylinder inline,1968,5-Speed,Manual,138.0,320.0,19.33,BS IV,790000,917503.8625078201
+302,Honda Amaze 1.2 V CVT Petrol,Honda,Amaze,2018,brown,sedan,"16,348",1st,5,petrol,35,i-VTEC Petrol Engine,1199,5-Speed,Manual,88.76,110.0,18.3,BS IV,765000,593941.1143298149
+303,Hyundai i20 [2012-2014] Sportz 1.2,Hyundai,i20,2012,white,hatchback,"90,078",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.85,113.0,18.5,BS IV,420000,477166.1821793914
+304,Honda WR-V i-DTEC VX,Honda,WR-V,2018,grey,suv,"69,591",3rd,5,diesel,40,i-DTEC Diesel engine,1498,6-Speed,Manual,97.89,200.0,23.7,BS IV,800000,744470.8779341877
+305,Hyundai i20 [2012-2014] Sportz 1.2,Hyundai,i20,2013,blue,hatchback,"56,096",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.85,113.0,18.5,BS IV,486000,546805.258739233
+306,Mahindra XUV500 [2015-2018] W10,Mahindra,XUV500,2017,white,suv,"56,418",1st,7,diesel,70,4 cylinder mHawk CRDe diesel engine,2179,6-Speed,Manual,140.0,330.0,16,BS IV,1465000,1578010.3830005229
+307,Hyundai i10 [2010-2016] Magna 1.2 Petrol,Hyundai,i10,2012,grey,hatchback,"65,284",1st,5,petrol,35,Kappa Petrol Engine,1197,5-Speed,Manual,78.9,111.7,20.36,BS III,348000,176106.6549706459
+308,Chevrolet Cruze [2009-2017] LTZ AT,Chevrolet,Cruze,2015,grey,sedan,"72,489",1st,5,diesel,60,VCDi 16V SOHC,1991,6-Speed,Automatic,164.0,380.0,14.81,BS IV,892000,1137672.7026720643
+309,Volkswagen Polo [2010-2014] Highline1.2L (P),Volkswagen,Polo,2011,silver,hatchback,"68,645",2nd,5,petrol,45,MPI Petrol Engine,1198,5-Speed,Manual,73.9,110.0,16.47,BS IV,451000,407527.10561951995
+310,Hyundai Eon [2011-2018] Magna +,Hyundai,Eon,2018,blue,hatchback,"33,231",2nd,5,petrol,32,Kappa Engine,814,5-Speed,Manual,68.05,94.14,20.03,BS IV,403000,503623.2561672032
+311,Hyundai i10 [2010-2016] Magna 1.2 Petrol,Hyundai,i10,2011,beige,hatchback,"43,953",1st,5,petrol,35,Kappa Petrol Engine,1197,5-Speed,Manual,78.9,111.7,20.36,BS III,338000,106467.57841077447
+312,Ford EcoSport [2015-2017] Titanium 1.5L Ti-VCT AT,Ford,EcoSport,2016,grey,suv,"36,422",1st,5,petrol,52,1.5L Ti-VCT (Petrol),1499,6-Speed,Automatic,110.0,140.0,16.5,BS IV,806000,966464.1574649215
+313,Maruti Suzuki Ciaz [2014-2017] ZXI+,Maruti Suzuki,Ciaz,2015,red,sedan,"78,251",1st,5,petrol,43,k14B VVT Engine,1373,5-Speed,Manual,91.1,130.0,20.73,BS IV,634000,625871.5064172149
+314,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2016,red,hatchback,"48,481",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,654000,755722.4884188175
+315,Maruti Suzuki Ciaz [2017-2018] Alpha AT,Maruti Suzuki,Ciaz,2018,blue,sedan,"37,746",1st,5,petrol,43,k14B VVT Engine,1373,4-Speed,Manual,91.1,130.0,20.73,BS IV,882000,834788.7360967994
+316,Hyundai Creta [2015-2018] 1.6 SX Plus Auto Petrol,Hyundai,Creta,2017,silver,suv,"50,872",1st,5,petrol,60,Petrol Dual VTVT,1591,6-Speed,Manual,122.0,154.0,15.29,BS IV,1196000,1276950.8557917774
+317,Hyundai Elite i20 [2014-2018] Asta 1.2,Hyundai,Elite i20,2015,grey,hatchback,"25,517",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,669000,686083.4118589759
+318,Ford EcoSport [2013-2015] Titanium 1.5L Ti-VCT,Ford,EcoSport,2014,silver,suv,"74,814",2nd,5,petrol,52,1.5L Ti-VCT (Petrol),1499,5-Speed,Manual,109.0,140.0,15.8,BS III,589000,827186.0043452084
+319,Tata Harrier XZ Dual Tone,Tata,Harrier,2020,red,suv,"24,315",1st,5,diesel,50,Kryotec 2.0 L Turbocharge,1956,6-Speed,Manual,138.0,350.0,17,BS IV,1912000,1184808.5582626164
+320,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2017,blue,hatchback,"63,937",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,628000,825361.564978689
+321,Maruti Suzuki Dzire [2017-2020] ZXi Plus,Maruti Suzuki,Dzire,2019,white,sedan,"11,499",1st,5,petrol,37,1.2 Litre Petrol Engine,1197,5-Speed,Automatic,88.5,113.0,23.26,BS V,812000,723792.0963313878
+322,Maruti Suzuki Baleno [2019-2020] Alpha Diesel,Maruti Suzuki,Baleno,2019,blue,hatchback,"30,420",1st,5,diesel,37,ddis diesel engine,1248,5-Speed,Automatic,74.0,190.0,BS IV,BS V,883000,723792.0963313878
+323,Maruti Suzuki Ciaz Zeta AT Petrol,Maruti Suzuki,Ciaz,2018,white,sedan,"15,221",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1462,4-Speed,Manual,103.25,138.0,20.65,BS IV,914000,834788.7360967994
+324,Mahindra Scorpio [2014-2017] S4 Plus,Mahindra,Scorpio,2017,black,suv,"46,438",1st,7,diesel,60,4 cylinder mHawk CRDe diesel engine,2179,5-Speed,Manual,120.0,280.0,15.4,BS IV,1112000,1276950.8557917774
+325,Maruti Suzuki Baleno [2015-2019] Alpha Diesel,Maruti Suzuki,Baleno,2018,orange,hatchback,"27,941",1st,5,diesel,37,DDiS 200,1248,5-Speed,Manual,74.0,190.0,27.39,BS V,810000,654153.0197715461
+326,Hyundai Grand i10 [2013-2017] Asta AT 1.2 Kappa VTVT,Hyundai,Grand i10,2014,grey,hatchback,"35,461",2nd,5,petrol,43,Kappa VTVT Petrol Engine,1197,4-Speed,Automatic,82.0,114.0,18.9,BS IV,530000,556232.4298573434
+327,Maruti Suzuki Ritz [2009-2012] Vdi,Maruti Suzuki,Ritz,2012,white,hatchback,"46,447",1st,5,diesel,43,Multijet/DDis,1248,5-Speed,Manual,75.0,190.0,15.6,BS IV,455000,416954.27673763037
+328,Maruti Suzuki Swift Dzire [2012-2017] VXi,Maruti Suzuki,Swift Dzire,2013,grey,sedan,"74,652",1st,5,petrol,42,K Series VVT Engine,1197,5-Speed,Manual,85.8,114.0,19.1,BS IV,498000,456487.4005765915
+329,Maruti Suzuki Wagon R 1.0 [2010-2019] VXI,Maruti Suzuki,Wagon R 1.0,2013,beige,hatchback,"44,746",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,18.9,BS V,403000,245745.73153048754
+330,Hyundai i10 [2010-2016] Magna Petrol,Hyundai,i10,2014,grey,hatchback,"92,092",1st,5,petrol,35,4 cylinder inline petrol engine,1197,5-Speed,Manual,68.0,99.08,19.81,BS III,380000,315384.808090359
+331,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2020,red,sedan,"26,653",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1596,5-Speed,Manual,105.94,140.0,18.1,BS IV,1092000,943960.9364956319
+332,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2020,red,sedan,"26,653",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1596,5-Speed,Manual,105.94,140.0,18.1,BS IV,1092000,943960.9364956319
+333,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2020,red,sedan,"26,653",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1496,5-Speed,Manual,105.94,140.0,18.1,BS IV,1092000,943960.9364956319
+334,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2020,red,sedan,"26,653",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1496,5-Speed,Manual,105.94,140.0,18.1,BS IV,1092000,943960.9364956319
+335,Hyundai Grand i10 [2013-2017] Asta 1.2 Kappa VTVT,Hyundai,Grand i10,2014,blue,hatchback,"58,748",2nd,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,18.9,BS IV,457000,556232.4298573434
+336,Hyundai Creta [2015-2018] 1.6 S Petrol,Hyundai,Creta,2016,beige,suv,"90,147",1st,5,petrol,60,Petrol Dual VTVT,1591,6-Speed,Manual,122.0,154.0,15.29,BS IV,813000,1207311.779231906
+337,Hyundai Fluidic Verna 4S [2015-2018] 1.6 VTVT SX,Hyundai,Fluidic Verna 4S,2017,grey,sedan,"25,905",1st,5,petrol,43,1.6L Gamma VTVT 5 Speed Manual Transmission,1591,5-Speed,Manual,121.0,158.0,17.4,BS IV,820000,765149.6595369279
+338,Hyundai Xcent [2014-2017] SX (O) Petrol,Hyundai,Xcent,2014,black,sedan,"76,890",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,19.1,BS IV,502000,556232.4298573434
+339,Maruti Suzuki Alto 800 Vxi,Maruti Suzuki,Alto 800,2020,silver,hatchback,"32,490",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.05,BS IV,414000,733219.267449528
+340,Maruti Suzuki Alto 800 [2016-2019] Lxi,Maruti Suzuki,Alto 800,2019,red,hatchback,"13,505",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,24.7,BS V,391000,663580.1908896565
+341,Maruti Suzuki Alto 800 Lxi,Maruti Suzuki,Alto 800,2021,silver,hatchback,"21,564",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.33,69.0,22.05,BS IV,433000,802858.3440093994
+342,Maruti Suzuki Alto 800 [2016-2019] Vxi,Maruti Suzuki,Alto 800,2018,grey,hatchback,"22,849",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22,BS V,372000,593941.1143298149
+343,Maruti Suzuki Alto K10 [2014-2019] VXi (O),Maruti Suzuki,Alto K10,2016,white,hatchback,"24,374",1st,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,384000,454662.96121007204
+344,Hyundai Elite i20 [2014-2018] Asta 1.2 Dual Tone,Hyundai,Elite i20,2018,white,hatchback,"31,912",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,784000,895000.6415385604
+345,Hyundai Creta [2015-2018] 1.6 SX Plus Petrol,Hyundai,Creta,2016,red,suv,"60,578",1st,5,petrol,60,Petrol Dual VTVT,1591,6-Speed,Manual,122.0,154.0,15.29,BS IV,971000,1207311.779231906
+346,Hyundai Elite i20 [2014-2018] Asta 1.2 (O),Hyundai,Elite i20,2016,red,hatchback,"95,065",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Manual,82.0,115.0,18.6,BS IV,655000,755722.4884188175
+347,Renault Kwid 1.0 RXT Opt,Renault,Kwid,2022,white,hatchback,"7,342",1st,5,petrol,28,Petrol Engine,1298,5-Speed,Automatic,67.0,91.0,22,BS IV,539000,661755.7515231371
+348,Renault Kwid 1.0 RXL,Renault,Kwid,2021,blue,hatchback,"9,285",1st,5,petrol,28,1.0L	,1298,5-Speed,Automatic,67.0,91.0,21.7,BS IV,470000,592116.6749632955
+349,Hyundai Elite i20 [2014-2018] Asta 1.4 CRDI (O),Hyundai,Elite i20,2017,grey,hatchback,"41,443",1st,5,diesel,45,U2 CRDI Diesel Engine,1396,6-Speed,Manual,88.73,219.7,22.54,BS IV,790000,825361.564978689
+350,Maruti Suzuki Celerio [2014-2021] VXi,Maruti Suzuki,Celerio,2015,silver,hatchback,"53,848",2nd,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,415000,385023.8846502304
+351,Maruti Suzuki Ritz [2009-2012] VXI,Maruti Suzuki,Ritz,2012,silver,hatchback,"70,568",2nd,5,petrol,45,KB Series,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,368000,477166.1821793914
+352,Maruti Suzuki Swift Dzire [2012-2017] VXi,Maruti Suzuki,Swift Dzire,2012,black,sedan,"61,885",1st,5,petrol,42,K Series VVT Engine,1197,5-Speed,Manual,85.8,114.0,19.1,BS IV,457000,386848.32401674986
+353,Honda WR-V VX i-VTEC,Honda,WR-V,2019,grey,suv,"16,240",1st,5,petrol,40,i-VTEC Petrol engine,1199,5-Speed,Manual,88.5,110.0,16.5,BS IV,894000,814109.9544940293
+354,Hyundai i10 [2010-2016] Sportz 1.2 Petrol,Hyundai,i10,2011,red,hatchback,"62,840",1st,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,338000,106467.57841077447
+355,Hyundai i10 [2010-2016] Sportz 1.2 Petrol,Hyundai,i10,2011,grey,hatchback,"74,710",2nd,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,342000,106467.57841077447
+356,Renault Duster RXS Petrol,Renault,Duster,2021,grey,suv,"19,722",1st,5,petrol,50,1.5L Petrol,1498,5-Speed,Manual,104.55,142.0,16.42,BS IV,986000,1254447.6348224878
+357,Renault Duster [2012-2015] 85 PS RxL (Opt),Renault,Duster,2014,silver,suv,"85,751",1st,5,diesel,50,1.5 dCI K9K HP Diesel engine,1461,5-Speed,Manual,84.0,200.0,20.45,BS III,637000,766974.0989034474
+358,Hyundai Elite i20 [2014-2018] Sportz 1.4 CRDI,Hyundai,Elite i20,2016,white,hatchback,"73,251",1st,5,diesel,45,"16 Valves, 4 Cylinder",1396,6-Speed,Manual,89.0,220.0,22.54,BS IV,688000,755722.4884188175
+359,Hyundai Elite i20 [2018-2020] Asta 1.4 CRDI,Hyundai,Elite i20,2018,orange,hatchback,"44,188",1st,5,diesel,45,"16 Valves, 4 Cylinder",1396,6-Speed,Automatic,89.0,220.0,22.54,BS V,816000,895000.6415385604
+360,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2019,red,hatchback,"45,590",1st,5,diesel,40,TDCi Diesel Engine,1596,5-Speed,Manual,98.96,215.0,24.4,BS V,644000,814109.9544940293
+361,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2019,red,hatchback,"45,590",1st,5,diesel,40,TDCi Diesel Engine,1596,5-Speed,Manual,98.96,215.0,24.4,BS V,644000,814109.9544940293
+362,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2019,red,hatchback,"45,590",1st,5,diesel,40,TDCi Diesel Engine,1499,5-Speed,Manual,98.96,215.0,24.4,BS V,644000,814109.9544940293
+363,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2019,red,hatchback,"45,590",1st,5,diesel,40,TDCi Diesel Engine,1499,5-Speed,Manual,98.96,215.0,24.4,BS V,644000,814109.9544940293
+364,Hyundai Creta [2015-2018] 1.6 SX Plus Auto,Hyundai,Creta,2016,blue,suv,"97,039",1st,5,diesel,60,U2 VGT CRDi,1596,6-Speed,Manual,126.0,265.0,17.01,BS IV,1086000,1207311.779231906
+365,Hyundai Creta [2015-2018] 1.6 SX Plus Auto,Hyundai,Creta,2016,blue,suv,"97,039",1st,5,diesel,60,U2 VGT CRDi,1596,6-Speed,Manual,126.0,265.0,17.01,BS IV,1086000,1207311.779231906
+366,Hyundai Creta [2015-2018] 1.6 SX Plus Auto,Hyundai,Creta,2016,blue,suv,"97,039",1st,5,diesel,60,U2 VGT CRDi,1582,6-Speed,Manual,126.0,265.0,17.01,BS IV,1086000,1207311.779231906
+367,Hyundai Creta [2015-2018] 1.6 SX Plus Auto,Hyundai,Creta,2016,blue,suv,"97,039",1st,5,diesel,60,U2 VGT CRDi,1582,6-Speed,Manual,126.0,265.0,17.01,BS IV,1086000,1207311.779231906
+368,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2016,silver,hatchback,"14,359",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,674000,755722.4884188175
+369,Hyundai Eon [2011-2018] Era +,Hyundai,Eon,2018,white,hatchback,"48,670",2nd,5,petrol,32,Petrol Engine,814,5-Speed,Manual,55.2,74.5,21.1,BS IV,350000,503623.2561672032
+370,Hyundai Creta [2018-2020] 1.6 SX OPT VTVT,Hyundai,Creta,2018,red,suv,"70,015",1st,5,petrol,55,VTVT Petrol Engine,1591,6-Speed,Automatic,121.3,151.0,15.8,BS V,1213000,1196060.168747276
+371,Maruti Suzuki Alto K10 [2010-2014] VXi,Maruti Suzuki,Alto K10,2011,silver,hatchback,"41,517",2nd,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,20.92,BS IV,275000,106467.57841077447
+372,Maruti Suzuki S-Presso VXI+,Maruti Suzuki,S-Presso,2021,grey,hatchback,"14,818",1st,5,petrol,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,21.01,BS IV,533000,562010.722242415
+373,Honda City V,Honda,City,2017,brown,sedan,"46,935",1st,5,petrol,40,i VTEC Engine,1497,5-Speed,Manual,117.6,145.0,17.4,BS IV,824000,674831.8013743162
+374,Hyundai Elite i20 [2018-2020] Sportz Plus 1.2,Hyundai,Elite i20,2020,white,hatchback,"30,590",1st,5,petrol,40,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,117.0,18.6,BS V,805000,883749.0310539007
+375,Hyundai Creta [2015-2018] 1.6 SX Plus Petrol,Hyundai,Creta,2017,black,suv,"62,805",1st,5,petrol,60,Petrol Dual VTVT,1591,6-Speed,Manual,122.0,154.0,15.29,BS IV,1098000,1276950.8557917774
+376,Maruti Suzuki Ciaz Alpha(Petrol),Maruti Suzuki,Ciaz,2017,grey,sedan,"47,123",1st,5,petrol,43,k14B VVT Engine,1373,5-Speed,Manual,91.1,130.0,20.73,BS IV,795000,765149.6595369279
+377,Maruti Suzuki Alto K10 [2014-2019] VXi (O),Maruti Suzuki,Alto K10,2019,silver,hatchback,"50,437",2nd,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,406000,663580.1908896565
+378,Maruti Suzuki Dzire [2017-2020] ZXi Plus AMT,Maruti Suzuki,Dzire,2017,blue,sedan,"49,930",1st,5,petrol,37,1.2 Litre Petrol Engine,1696,5-Speed,Automatic,88.5,113.0,24.12,BS V,720000,584513.9432116747
+379,Ford EcoSport [2015-2017] Titanium+ 1.0L EcoBoost,Ford,EcoSport,2016,blue,suv,"46,485",1st,5,petrol,52,1.0L Ecoboost (Petrol),1298,5-Speed,Automatic,124.0,170.0,18.9 ,BS IV,732000,966464.1574649215
+380,Maruti Suzuki Celerio [2014-2021] VXi,Maruti Suzuki,Celerio,2014,white,hatchback,"76,306",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,406000,315384.808090359
+381,Hyundai Elite i20 [2014-2018] Asta 1.2,Hyundai,Elite i20,2015,blue,hatchback,"80,743",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,622000,686083.4118589759
+382,Hyundai Elite i20 [2018-2020] Asta 1.2,Hyundai,Elite i20,2018,red,hatchback,"54,836",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Automatic,82.0,115.0,18.6,BS V,742000,895000.6415385604
+383,Maruti Suzuki Dzire [2017-2020] VXI AMT,Maruti Suzuki,Dzire,2018,blue,sedan,"32,170",1st,5,petrol,37,1.2 Litre Petrol Engine,1197,5-Speed,Automatic,88.5,113.0,24.12,BS V,699000,654153.0197715461
+384,Toyota Etios [2010-2017] VX,Toyota,Etios,2011,black,sedan,"62,193",1st,5,petrol,45,4 cylinder petrol engine,1496,5-Speed,Manual,80.0,132.0,17.57 ,BS IV,426000,407527.10561951995
+385,Hyundai Eon [2011-2018] Era +,Hyundai,Eon,2012,blue,hatchback,"40,097",1st,5,petrol,32,Petrol Engine,814,5-Speed,Manual,55.2,74.5,21.1,BS IV,284000,85788.79680803418
+386,Honda Amaze [2013-2018] 1.2 VX i-VTEC,Honda,Amaze,2015,white,sedan,"44,188",1st,5,petrol,35,"4-Cylinder, SOHC i-VTEC",1198,5-Speed,Manual,86.9,109.0,18.0,BS IV,574000,385023.8846502304
+387,Hyundai Elite i20 [2014-2018] Asta 1.4 CRDI (O),Hyundai,Elite i20,2017,red,hatchback,"86,163",2nd,5,diesel,45,U2 CRDI Diesel Engine,1396,6-Speed,Manual,88.73,219.7,22.54,BS IV,699000,825361.564978689
+388,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2016,red,hatchback,"50,229",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,605000,755722.4884188175
+389,Maruti Suzuki S-Cross Alpha 1.5,Maruti Suzuki,S-Cross,2020,blue,suv,"20,156",1st,5,petrol,48,K15B Smart Hybrid,1462,5-Speed,Manual,103.25,138.0,18.55,BS IV,1104000,1124596.6528208852
+390,Hyundai i10 [2010-2016] Sportz Petrol,Hyundai,i10,2016,silver,hatchback,"29,122",1st,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,451000,454662.96121007204
+391,Hyundai Elite i20 [2014-2018] Asta 1.2 (O),Hyundai,Elite i20,2016,white,hatchback,"71,532",2nd,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Manual,82.0,115.0,18.6,BS IV,633000,755722.4884188175
+392,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,white,suv,"36,581",1st,5,diesel,60,FWD,1596,5-Speed,Manual,167.68,350.0,17.41,BS IV,1848000,1485868.0854713619
+393,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,white,suv,"36,581",1st,5,diesel,60,FWD,1596,5-Speed,Manual,167.68,350.0,17.41,BS IV,1848000,1485868.0854713619
+394,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,white,suv,"36,581",1st,5,diesel,60,FWD,1956,6-Speed,Manual,167.68,350.0,17.41,BS IV,1848000,1485868.0854713619
+395,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,white,suv,"36,581",1st,5,diesel,60,FWD,1956,6-Speed,Manual,167.68,350.0,17.41,BS IV,1848000,1485868.0854713619
+396,Hyundai Creta [2015-2018] 1.6 SX Plus Petrol,Hyundai,Creta,2016,red,suv,"37,702",2nd,5,petrol,60,Petrol Dual VTVT,1591,6-Speed,Manual,122.0,154.0,15.29,BS IV,943000,1207311.779231906
+397,Hyundai Elite i20 [2018-2020] Sportz 1.2,Hyundai,Elite i20,2018,red,hatchback,"30,876",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Automatic,82.0,115.0,18.6,BS V,709000,895000.6415385604
+398,Volkswagen Polo [2010-2014] Comfortline 1.2L (P),Volkswagen,Polo,2011,white,hatchback,"92,227",2nd,5,petrol,45,MPI Petrol Engine,1199,5-Speed,Manual,74.0,110.0,16.2,BS IV,402000,407527.10561951995
+399,Volkswagen Ameo [2016-2020] Highline1.2L Plus (P),Volkswagen,Ameo,2017,grey,sedan,"24,747",1st,5,petrol,45,MPI Petrol Engine,1298,5-Speed,Automatic,73.75,110.0,17,BS V,646000,825361.564978689
+400,Hyundai i10 [2010-2016] Era Petrol,Hyundai,i10,2013,white,hatchback,"26,671",2nd,5,petrol,35,4 cylinder inline petrol engine,1086,5-Speed,Manual,68.05,99.04,19.81,BS III,334000,245745.73153048754
+401,Maruti Suzuki Swift [2011-2017] VDi,Maruti Suzuki,Swift,2013,red,hatchback,"84,739",1st,5,diesel,43,DDiS Diesel Engine,1248,5-Speed,Manual,74.0,190.0,22.9,BS IV,496000,486593.353297472
+402,Volkswagen Polo [2016-2018] All Star 1.5 (D),Volkswagen,Polo,2017,silver,hatchback,"90,423",1st,5,diesel,45,TDI Diesel Engine,1498,5-Speed,Manual,88.0,230.0,20.18,BS IV,735000,825361.564978689
+403,Maruti Suzuki Ritz [2012-2017] Vxi,Maruti Suzuki,Ritz,2015,brown,hatchback,"40,632",1st,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,487000,625871.5064172149
+404,Maruti Suzuki Ritz [2012-2017] Vxi,Maruti Suzuki,Ritz,2013,silver,hatchback,"59,010",1st,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,410000,486593.353297472
+405,Hyundai Elite i20 [2018-2020] Asta 1.2,Hyundai,Elite i20,2018,red,hatchback,"24,732",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Automatic,82.0,115.0,18.6,BS V,766000,895000.6415385604
+406,Kia Seltos GTX Plus,Kia,Seltos,2020,red,suv,"14,077",1st,5,petrol,50,Smartstream G1.4 T-GDi,1353,6-Speed,Manual,138.0,242.0,16.1,BS IV,1647000,1184808.5582626164
+407,Hyundai Eon [2011-2018] Era +,Hyundai,Eon,2013,blue,hatchback,"19,600",1st,5,petrol,32,Petrol Engine,814,5-Speed,Manual,55.2,74.5,21.1,BS IV,311000,155427.8733678758
+408,Skoda Rapid [2011-2016] Ambition Diesel MT,Skoda,Rapid,2012,white,sedan,"93,981",2nd,5,diesel,55,4 cylinder inline diesel engine,1598,5-Speed,Manual,105.0,250.0,105 bhp @ 4400 RPM,BS III,436000,778225.7093881071
+409,Hyundai i10 [2010-2016] Magna Petrol,Hyundai,i10,2015,silver,hatchback,"25,413",2nd,5,petrol,35,4 cylinder inline petrol engine,1197,5-Speed,Manual,68.0,99.08,19.81,BS III,391000,385023.8846502304
+410,Hyundai Fluidic Verna 4S [2015-2017] 1.6 CRDi SX,Hyundai,Fluidic Verna 4S,2017,silver,sedan,"95,862",1st,5,diesel,43,1.6L U2 CRDi VGT 6 Speed Manual Transmission,1582,6-Speed,Manual,126.0,260.0,24.8,BS IV,870000,765149.6595369279
+411,Maruti Suzuki Wagon R 1.0 [2010-2019] VXI,Maruti Suzuki,Wagon R 1.0,2012,blue,hatchback,"53,015",2nd,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,18.9,BS V,323000,176106.6549706459
+412,Honda Jazz V MT,Honda,Jazz,2015,maroon,hatchback,"63,279",1st,5,petrol,40,1.2 i-VTEC Petrol,1199,5-Speed,Manual,88.51,110.0,16.6,BS IV,598000,535553.6482546031
+413,Hyundai Xcent [2017-2019] SX Petrol,Hyundai,Xcent,2017,grey,sedan,"73,591",1st,5,petrol,43,1.2L Kappa Dual VTVT Petr,1197,5-Speed,Manual,81.86,113.75,20.14,BS V,589000,765149.6595369279
+414,Maruti Suzuki Celerio [2014-2021] VXi AMT (O),Maruti Suzuki,Celerio,2017,white,hatchback,"79,503",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,464000,524302.0377699435
+415,Hyundai Verna [2011-2015] Fluidic 1.6 CRDi SX,Hyundai,Verna,2014,red,sedan,"60,227",1st,5,diesel,43,Diesel Engine,1582,6-Speed,Manual,126.0,260.0,21.9 ,BS III,702000,556232.4298573434
+416,Renault Kwid RXL,Renault,Kwid,2021,blue,hatchback,"5,564",1st,5,petrol,28,0.8L,799,5-Speed,Automatic,53.0,72.0,20.71,BS IV,472000,592116.6749632955
+417,Renault Kwid [2016-2019] 1.0 RXT,Renault,Kwid,2017,white,hatchback,"71,696",1st,5,petrol,28,Petrol Engine,999,5-Speed,Manual,67.0,91.0,23.01,BS V,353000,313560.3687238395
+418,Volkswagen Polo [2010-2014] Comfortline 1.2L (P),Volkswagen,Polo,2011,black,hatchback,"44,787",2nd,5,petrol,45,MPI Petrol Engine,1199,5-Speed,Manual,74.0,110.0,16.2,BS IV,402000,407527.10561951995
+419,Hyundai Creta [2015-2018] 1.6 SX Plus Petrol,Hyundai,Creta,2017,red,suv,"68,295",2nd,5,petrol,60,Petrol Dual VTVT,1591,6-Speed,Manual,122.0,154.0,15.29,BS IV,977000,1276950.8557917774
+420,Maruti Suzuki Alto K10 [2014-2019] VXi (O),Maruti Suzuki,Alto K10,2016,white,hatchback,"38,868",2nd,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,358000,454662.96121007204
+421,Maruti Suzuki Ritz [2009-2012] VXI,Maruti Suzuki,Ritz,2012,blue,hatchback,"40,411",1st,5,petrol,45,KB Series,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,399000,477166.1821793914
+422,Hyundai Elite i20 [2018-2020] Sportz Plus 1.2,Hyundai,Elite i20,2020,white,hatchback,"17,156",1st,5,petrol,40,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,117.0,18.6,BS V,836000,883749.0310539007
+423,Ford EcoSport [2015-2017] Titanium 1.5L Ti-VCT,Ford,EcoSport,2017,black,suv,"12,761",2nd,5,petrol,52,1.5L Ti-VCT (Petrol),1499,5-Speed,Manual,110.0,140.0,15.8,BS IV,803000,1036103.2340247929
+424,Maruti Suzuki Alto 800 Vxi,Maruti Suzuki,Alto 800,2021,grey,hatchback,"10,563",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.05,BS IV,410000,802858.3440093994
+425,Hyundai Elite i20 [2018-2020] Asta 1.2,Hyundai,Elite i20,2018,red,hatchback,"13,948",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Automatic,82.0,115.0,18.6,BS V,795000,895000.6415385604
+426,Hyundai Verna [2017-2020] 1.6 VTVT SX (O) AT,Hyundai,Verna,2019,silver,sedan,"6,165",1st,5,petrol,45,VTVT Petrol Engine,1591,6-Speed,Automatic,121.3,151.0,17,BS V,1266000,964639.718098402
+427,Hyundai i10 [2010-2016] Magna 1.2 Petrol,Hyundai,i10,2012,red,hatchback,"44,478",2nd,5,petrol,35,Kappa Petrol Engine,1197,5-Speed,Manual,78.9,111.7,20.36,BS III,343000,176106.6549706459
+428,Hyundai i10 [2010-2016] Sportz 1.2 Petrol,Hyundai,i10,2011,golden,hatchback,"85,895",1st,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,362000,106467.57841077447
+429,Datsun Redi-GO [2015-2019] T (O),Datsun,Redi-GO,2017,red,hatchback,"42,187",1st,5,petrol,28,0.8L Petrol Engine,799,5-Speed,Manual,53.64,72.0,20.71,BS V,300000,313560.3687238395
+430,Hyundai Elite i20 [2014-2018] Asta 1.4 CRDI (O),Hyundai,Elite i20,2016,blue,hatchback,"88,795",1st,5,diesel,45,U2 CRDI Diesel Engine,1396,6-Speed,Manual,88.73,219.7,22.54,BS IV,694000,755722.4884188175
+431,Hyundai i20 [2012-2014] Asta 1.2,Hyundai,i20,2013,grey,hatchback,"45,000",2nd,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.85,113.7,18.5,BS IV,484000,546805.258739233
+432,Honda City [2017-2020] VX,Honda,City,2018,white,sedan,"14,861",1st,5,petrol,40,i VTEC Engine,1497,5-Speed,Automatic,117.6,145.0,17.4,BS V,1001000,744470.8779341877
+433,Hyundai i10 [2010-2016] Magna Petrol,Hyundai,i10,2014,red,hatchback,"61,455",1st,5,petrol,35,4 cylinder inline petrol engine,1197,5-Speed,Manual,68.0,99.08,19.81,BS III,384000,315384.808090359
+434,Honda WR-V VX i-VTEC,Honda,WR-V,2019,brown,suv,"23,697",1st,5,petrol,40,i-VTEC Petrol engine,1199,5-Speed,Manual,88.5,110.0,16.5,BS IV,858000,814109.9544940293
+435,Maruti Suzuki Celerio [2014-2021] ZXi (O) AMT,Maruti Suzuki,Celerio,2017,grey,hatchback,"84,623",1st,5,petrol,35,K10B Engine,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,482000,524302.0377699435
+436,Honda Jazz [2015-2020] SV MT,Honda,Jazz,2016,silver,hatchback,"36,822",1st,5,petrol,40,i-VTEC Petrol Engine,1199,5-Speed,Automatic,88.7,110.0,18.7,BS V,581000,605192.7248144448
+437,Hyundai i10 [2010-2016] Magna Petrol,Hyundai,i10,2011,silver,hatchback,"49,985",1st,5,petrol,35,4 cylinder inline petrol engine,1197,5-Speed,Manual,68.0,99.08,19.81,BS III,320000,106467.57841077447
+438,Hyundai Creta [2015-2018] 1.6 SX Plus Petrol,Hyundai,Creta,2018,red,suv,"25,411",1st,5,petrol,60,Petrol Dual VTVT,1591,6-Speed,Manual,122.0,154.0,15.29,BS IV,1176000,1346589.9323516488
+439,Hyundai Creta [2018-2020] 1.6 SX VTVT,Hyundai,Creta,2019,white,suv,"26,198",1st,5,petrol,55,VTVT Petrol Engine,1696,6-Speed,Automatic,121.33,151.0,16.8,BS V,1274000,1265699.2453071177
+440,Maruti Suzuki Alto K10 [2014-2019] VXi,Maruti Suzuki,Alto K10,2016,grey,hatchback,"21,812",1st,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,362000,454662.96121007204
+441,Renault Kwid 1.0 RXT Opt,Renault,Kwid,2020,white,hatchback,"15,591",1st,5,petrol,28,Petrol Engine,1298,5-Speed,Automatic,67.0,91.0,22,BS IV,489000,522477.598403424
+442,Honda City [2014-2017] VX CVT,Honda,City,2015,white,sedan,"50,821",2nd,5,petrol,40,i VTEC Engine,1497,5-Speed,Manual,117.3,145.0,18,BS IV,815000,535553.6482546031
+443,Hyundai Creta [2015-2018] 1.6 SX Plus Petrol,Hyundai,Creta,2017,red,suv,"57,167",1st,5,petrol,60,Petrol Dual VTVT,1591,6-Speed,Manual,122.0,154.0,15.29,BS IV,1064000,1276950.8557917774
+444,Hyundai i10 [2010-2016] Magna Petrol,Hyundai,i10,2014,silver,hatchback,"62,904",1st,5,petrol,35,4 cylinder inline petrol engine,1197,5-Speed,Manual,68.0,99.08,19.81,BS III,389000,315384.808090359
+445,Honda Jazz V MT,Honda,Jazz,2018,silver,hatchback,"13,074",1st,5,petrol,40,1.2 i-VTEC Petrol,1199,5-Speed,Manual,88.51,110.0,16.6,BS IV,715000,744470.8779341877
+446,Maruti Suzuki Baleno [2019-2020] Alpha Diesel,Maruti Suzuki,Baleno,2019,blue,hatchback,"37,942",1st,5,diesel,37,ddis diesel engine,1248,5-Speed,Automatic,74.0,190.0,BS IV,BS V,847000,723792.0963313878
+447,Ford EcoSport [2015-2017] Trend + 1.5L TDCi,Ford,EcoSport,2016,grey,suv,"96,471",1st,5,diesel,52,1.5L DV5 (Diesel),1498,5-Speed,Manual,99.0,205.0,22.7,BS IV,628000,966464.1574649215
+448,Hyundai Eon [2011-2018] Era +,Hyundai,Eon,2015,red,hatchback,"40,959",1st,5,petrol,32,Petrol Engine,814,5-Speed,Manual,55.2,74.5,21.1,BS IV,317000,294706.0264876187
+449,Ford Figo Aspire [2019-2021] Titanium Plus 1.2 Ti-VCT,Ford,Figo Aspire,2020,white,sedan,"18,300",1st,5,petrol,42,Ti-VCT Petrol Engine,1798,5-Speed,Manual,94.93,119.0,18.5,BS V,729000,943960.9364956319
+450,Maruti Suzuki Alto K10 [2014-2019] VXi,Maruti Suzuki,Alto K10,2017,grey,hatchback,"32,419",1st,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,396000,524302.0377699435
+451,Maruti Suzuki Ertiga [2015-2018] ZDI + SHVS,Maruti Suzuki,Ertiga,2016,blue,muv,"35,128",1st,7,diesel,45,DDiS Diesel Engine,1248,5-Speed,Manual,89.0,200.0,24.52,BS IV,949000,755722.4884188175
+452,Hyundai i10 [2010-2016] Sportz Petrol,Hyundai,i10,2016,grey,hatchback,"36,707",1st,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,453000,454662.96121007204
+453,Maruti Suzuki Ertiga [2015-2018] ZDI + SHVS,Maruti Suzuki,Ertiga,2016,grey,muv,"99,495",1st,7,diesel,45,DDiS Diesel Engine,1248,5-Speed,Manual,89.0,200.0,24.52,BS IV,898000,755722.4884188175
+454,Maruti Suzuki Alto K10 [2010-2014] VXi,Maruti Suzuki,Alto K10,2011,red,hatchback,"69,077",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,20.92,BS IV,281000,106467.57841077447
+455,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2017,grey,hatchback,"81,673",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,628000,825361.564978689
+456,Hyundai Elite i20 [2014-2018] Asta 1.2,Hyundai,Elite i20,2017,blue,hatchback,"22,127",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,713000,825361.564978689
+457,Maruti Suzuki Wagon R 1.0 [2010-2019] LXI,Maruti Suzuki,Wagon R 1.0,2011,brown,hatchback,"43,763",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,18.9,BS V,338000,106467.57841077447
+458,Maruti Suzuki Ritz [2012-2017] Zxi,Maruti Suzuki,Ritz,2014,grey,hatchback,"45,887",2nd,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,445000,556232.4298573434
+459,Maruti Suzuki Celerio [2014-2021] VXi AMT,Maruti Suzuki,Celerio,2015,red,hatchback,"68,859",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,447000,385023.8846502304
+460,Hyundai Elite i20 [2017-2018] Magna Executive 1.2,Hyundai,Elite i20,2017,white,hatchback,"24,353",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,620000,825361.564978689
+461,Ford Figo Aspire [2015-2019] Titanium 1.2 Ti-VCT,Ford,Figo Aspire,2017,white,sedan,"53,467",1st,5,petrol,42,Ti-VCT Petrol Engine,1194,5-Speed,Manual,94.93,119.0,18.5,BS V,524000,735043.7068160474
+462,Hyundai Verna [2017-2020] 1.6 VTVT SX (O) AT,Hyundai,Verna,2017,silver,sedan,"18,732",1st,5,petrol,45,VTVT Petrol Engine,1591,6-Speed,Automatic,121.3,151.0,17,BS V,1047000,825361.564978689
+463,Hyundai i10 [2010-2016] Sportz Petrol,Hyundai,i10,2015,white,hatchback,"24,631",1st,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,444000,385023.8846502304
+464,Maruti Suzuki Ertiga [2015-2018] ZDI,Maruti Suzuki,Ertiga,2016,white,muv,"54,971",1st,7,diesel,45,DDiS Diesel Engine,1248,5-Speed,Manual,89.0,200.0,24.52,BS IV,906000,755722.4884188175
+465,Maruti Suzuki S-Presso VXI Opt CNG,Maruti Suzuki,S-Presso,2022,white,hatchback,"12,076",1st,5,petrol+cng,27,K10B Petrol Engine,998,5-Speed,Manual,58.0,78.0,31.19 ,BS IV,686000,631649.7988022566
+466,Hyundai i10 [2010-2016] Magna 1.2 Petrol,Hyundai,i10,2013,white,hatchback,"35,425",1st,5,petrol,35,Kappa Petrol Engine,1197,5-Speed,Manual,78.9,111.7,20.36,BS III,372000,245745.73153048754
+467,Hyundai Elite i20 [2014-2018] Sportz 1.4 CRDI,Hyundai,Elite i20,2016,silver,hatchback,"54,734",1st,5,diesel,45,"16 Valves, 4 Cylinder",1396,6-Speed,Manual,89.0,220.0,22.54,BS IV,684000,755722.4884188175
+468,Maruti Suzuki Alto K10 [2014-2019] VXi,Maruti Suzuki,Alto K10,2015,silver,hatchback,"39,807",1st,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,352000,385023.8846502304
+469,Hyundai i10 [2010-2016] Sportz Petrol,Hyundai,i10,2014,grey,hatchback,"41,667",2nd,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,392000,315384.808090359
+470,Maruti Suzuki Ritz [2012-2017] Vxi,Maruti Suzuki,Ritz,2015,brown,hatchback,"28,840",1st,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,489000,625871.5064172149
+471,Hyundai Xcent [2014-2017] SX AT (O) Petrol,Hyundai,Xcent,2014,blue,sedan,"69,402",1st,5,petrol,43,1.2 Kappa Dual VTVT Petrol,1197,4-Speed,Automatic,81.0,114.0,16.1,BS IV,551000,556232.4298573434
+472,Honda Jazz V CVT,Honda,Jazz,2017,white,hatchback,"53,613",2nd,5,petrol,40,1.2 i-VTEC Petrol,1199,7-Speed,Manual,88.51,110.0,17.01,BS IV,688000,674831.8013743162
+473,Kia Seltos GTX Plus,Kia,Seltos,2019,white,suv,"27,562",1st,5,petrol,50,Smartstream G1.4 T-GDi,1353,6-Speed,Manual,138.0,242.0,16.1,BS IV,1549000,1115169.481702745
+474,Honda Jazz V MT,Honda,Jazz,2018,brown,hatchback,"14,952",1st,5,petrol,40,1.2 i-VTEC Petrol,1199,5-Speed,Manual,88.51,110.0,16.6,BS IV,710000,744470.8779341877
+475,Maruti Suzuki Wagon R 1.0 [2010-2019] LXI,Maruti Suzuki,Wagon R 1.0,2011,white,hatchback,"71,380",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,18.9,BS V,308000,106467.57841077447
+476,Mahindra Scorpio [2014-2017] S4 Plus,Mahindra,Scorpio,2015,white,suv,"44,987",1st,7,diesel,60,4 cylinder mHawk CRDe diesel engine,2179,5-Speed,Manual,120.0,280.0,15.4,BS IV,848000,1137672.7026720643
+477,Hyundai Elite i20 [2018-2020] Asta 1.2,Hyundai,Elite i20,2018,grey,hatchback,"34,491",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Automatic,82.0,115.0,18.6,BS V,787000,895000.6415385604
+478,Hyundai i20 Active [2015-2020] 1.2 SX,Hyundai,i20 Active,2016,white,crossover,"88,321",1st,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Automatic,82.0,115.0,17.19,BS V,638000,755722.4884188175
+479,Renault Kwid 1.0 RXT Opt,Renault,Kwid,2021,brown,hatchback,"11,275",1st,5,petrol,28,Petrol Engine,1298,5-Speed,Automatic,67.0,91.0,22,BS IV,528000,592116.6749632955
+480,Hyundai Verna [2011-2015] Fluidic 1.6 VTVT SX Opt AT,Hyundai,Verna,2013,silver,sedan,"84,391",1st,5,petrol,43,Front Wheel Drive,1591,4-Speed,Automatic,121.0,158.0,16.61,BS III,606000,486593.353297472
+481,Maruti Suzuki Swift Dzire [2012-2017] VXi,Maruti Suzuki,Swift Dzire,2012,red,sedan,"93,004",1st,5,petrol,42,K Series VVT Engine,1197,5-Speed,Manual,85.8,114.0,19.1,BS IV,442000,386848.32401674986
+482,Maruti Suzuki Ciaz Alpha Petrol,Maruti Suzuki,Ciaz,2019,blue,sedan,"23,861",2nd,5,petrol,43,K15 Smart Hybrid Petrol E,1696,5-Speed,Manual,103.25,138.0,20.65,BS IV,859000,904427.812656641
+483,Hyundai Grand i10 [2013-2017] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2016,grey,hatchback,"43,877",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,18.9,BS IV,514000,695510.5829770565
+484,Honda City [2014-2017] V,Honda,City,2015,silver,sedan,"76,926",1st,5,petrol,40,i VTEC Engine,1497,5-Speed,Manual,117.3,145.0,17.8,BS IV,663000,535553.6482546031
+485,Hyundai Elite i20 [2014-2018] Magna 1.2,Hyundai,Elite i20,2016,blue,hatchback,"94,389",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,568000,755722.4884188175
+486,Maruti Suzuki Ritz [2012-2017] Zxi,Maruti Suzuki,Ritz,2014,silver,hatchback,"64,291",2nd,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,407000,556232.4298573434
+487,Hyundai Fluidic Verna 4S [2015-2018] 1.6 VTVT SX,Hyundai,Fluidic Verna 4S,2017,white,sedan,"25,068",1st,5,petrol,43,1.6L Gamma VTVT 5 Speed Manual Transmission,1591,5-Speed,Manual,121.0,158.0,17.4,BS IV,824000,765149.6595369279
+488,Renault Triber RXZ,Renault,Triber,2020,white,muv,"27,215",1st,7,petrol,40,1.0L Petrol Engine,999,5-Speed,Manual,71.0,96.0,20,BS IV,739000,883749.0310539007
+489,Hyundai i20 [2012-2014] Sportz 1.2,Hyundai,i20,2014,blue,hatchback,"62,692",2nd,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.85,113.0,18.5,BS IV,485000,616444.3352991045
+490,Hyundai Verna SX Opt Diesel,Hyundai,Verna,2020,grey,sedan,"16,234",1st,5,diesel,45,1.5 l U2 CRDi,1493,6-Speed,Manual,113.0,250.0,25,BS IV,1464000,1034278.7946582735
+491,Hyundai Elite i20 [2018-2020] Sportz 1.2,Hyundai,Elite i20,2018,grey,hatchback,"39,742",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Automatic,82.0,115.0,18.6,BS V,691000,895000.6415385604
+492,Maruti Suzuki Wagon R 1.0 [2015-2019] VXI AMT,Maruti Suzuki,Wagon R 1.0,2017,grey,hatchback,"27,876",1st,5,petrol,32,K10B Petrol Engine,998,5-Speed,Manual,67.05,90.0,21.79,BS V,512000,433984.17960733175
+493,Hyundai Elite i20 [2014-2018] Asta 1.4 CRDI (O),Hyundai,Elite i20,2017,red,hatchback,"51,511",1st,5,diesel,45,U2 CRDI Diesel Engine,1396,6-Speed,Manual,88.73,219.7,22.54,BS IV,788000,825361.564978689
+494,Maruti Suzuki Swift [2011-2017] VDi,Maruti Suzuki,Swift,2012,black,hatchback,"82,049",1st,5,diesel,43,DDiS Diesel Engine,1248,5-Speed,Manual,74.0,190.0,22.9,BS IV,457000,416954.27673763037
+495,Maruti Suzuki Dzire [2017-2020] ZXi Plus,Maruti Suzuki,Dzire,2018,blue,sedan,"16,257",1st,5,petrol,37,1.2 Litre Petrol Engine,1197,5-Speed,Automatic,88.5,113.0,23.26,BS V,755000,654153.0197715461
+496,Mahindra XUV 300 W8 (O) Diesel,Mahindra,XUV 300,2020,white,suv,"39,894",1st,5,diesel,42,1.5L Turbo Diesel,1497,6-Speed,Manual,115.0,300.0,20,BS IV,1277000,943960.9364956319
+497,Maruti Suzuki Eeco 5 STR WITH A/C+HTR,Maruti Suzuki,Eeco,2018,grey,muv,"24,630",1st,5,petrol,40,Aluminium 32 bit,1196,5-Speed,Manual,72.42,98.0,16.11,BS IV,452000,744470.8779341877
+498,Maruti Suzuki Alto K10 [2010-2014] VXi,Maruti Suzuki,Alto K10,2013,red,hatchback,"74,834",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,20.92,BS IV,301000,245745.73153048754
+499,Maruti Suzuki Alto K10 [2010-2014] LXi,Maruti Suzuki,Alto K10,2011,black,hatchback,"54,857",2nd,5,petrol,35,K10B,998,5-Speed,Manual,67.1,90.0,20.92,BS IV,262000,106467.57841077447
+500,Maruti Suzuki Alto K10 [2010-2014] VXi,Maruti Suzuki,Alto K10,2013,red,hatchback,"59,394",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,20.92,BS IV,308000,245745.73153048754
+501,Maruti Suzuki Ciaz Alpha Petrol,Maruti Suzuki,Ciaz,2020,white,sedan,"8,617",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1696,5-Speed,Manual,103.25,138.0,20.65,BS IV,1023000,974066.8892165124
+502,Ford Freestyle [2017-2021] Titanium 1.2,Ford,Freestyle,2018,red,crossover,"29,028",1st,5,petrol,42,1.2 litre Petrol Engine,1298,5-Speed,Automatic,94.93,119.0,18.5,BS IV,635000,804682.7833759189
+503,Maruti Suzuki Ciaz Alpha Petrol,Maruti Suzuki,Ciaz,2020,grey,sedan,"4,878",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1696,5-Speed,Manual,103.25,138.0,20.65,BS IV,1015000,974066.8892165124
+504,Maruti Suzuki Alto K10 [2010-2014] VXi,Maruti Suzuki,Alto K10,2011,silver,hatchback,"82,262",2nd,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,20.92,BS IV,255000,106467.57841077447
+505,Maruti Suzuki Swift [2007-2011] VXi,Maruti Suzuki,Swift,2011,red,hatchback,"56,696",1st,5,petrol,43,In-Line Engine,1197,5-Speed,Manual,85.0,113.0,16.1,BS IV,396000,347315.20017775893
+506,Hyundai Creta [2015-2018] 1.6 SX Plus Petrol,Hyundai,Creta,2016,red,suv,"40,249",1st,5,petrol,60,Petrol Dual VTVT,1591,6-Speed,Manual,122.0,154.0,15.29,BS IV,1011000,1207311.779231906
+507,Hyundai Elite i20 [2014-2018] Asta 1.2 (O),Hyundai,Elite i20,2015,red,hatchback,"29,169",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Manual,82.0,115.0,18.6,BS IV,661000,686083.4118589759
+508,Maruti Suzuki Ritz [2012-2017] Vxi,Maruti Suzuki,Ritz,2014,red,hatchback,"48,449",1st,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,450000,556232.4298573434
+509,Volkswagen Polo [2010-2014] Comfortline 1.2L (P),Volkswagen,Polo,2011,red,hatchback,"55,512",1st,5,petrol,45,MPI Petrol Engine,1199,5-Speed,Manual,74.0,110.0,16.2,BS IV,435000,407527.10561951995
+510,Hyundai Verna [2011-2015] Fluidic 1.6 CRDi SX Opt AT,Hyundai,Verna,2014,white,sedan,"81,335",2nd,5,diesel,43,Front Wheel Drive,1582,4-Speed,Manual,126.0,260.0,21.9,BS III,772000,556232.4298573434
+511,Maruti Suzuki Alto 800 [2012-2016] Vxi,Maruti Suzuki,Alto 800,2015,silver,hatchback,"25,388",1st,5,petrol,35,F8D,796,5-Speed,Manual,47.3,69.0,22.74,BS III,331000,385023.8846502304
+512,Renault Kiger RXZ MT Dual Tone,Renault,Kiger,2021,white,suv,"17,120",1st,5,petrol,40,1.0L Energy	,1298,5-Speed,Automatic,71.0,96.0,19.7,BS IV,830000,953388.1076137722
+513,Renault Kwid RXT,Renault,Kwid,2021,silver,hatchback,"25,170",1st,5,petrol,28,0.8L,799,5-Speed,Automatic,53.0,72.0,20.71,BS IV,485000,592116.6749632955
+514,Maruti Suzuki Ritz [2012-2017] Vxi,Maruti Suzuki,Ritz,2014,brown,hatchback,"67,154",2nd,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,405000,556232.4298573434
+515,Maruti Suzuki Wagon R 1.0 [2010-2019] LXI,Maruti Suzuki,Wagon R 1.0,2012,grey,hatchback,"40,078",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,18.9,BS V,347000,176106.6549706459
+516,Maruti Suzuki Alto 800 [2016-2019] Vxi,Maruti Suzuki,Alto 800,2017,grey,hatchback,"10,100",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22,BS V,369000,524302.0377699435
+517,Hyundai Elite i20 [2018-2020] Asta 1.2,Hyundai,Elite i20,2018,red,hatchback,"23,326",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Automatic,82.0,115.0,18.6,BS V,768000,895000.6415385604
+518,Honda Jazz [2015-2020] SV MT,Honda,Jazz,2016,red,hatchback,"56,762",1st,5,petrol,40,i-VTEC Petrol Engine,1199,5-Speed,Automatic,88.7,110.0,18.7,BS V,578000,605192.7248144448
+519,Maruti Suzuki Alto 800 Vxi Plus,Maruti Suzuki,Alto 800,2021,white,hatchback,"6,363",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.05,BS IV,417000,802858.3440093994
+520,Maruti Suzuki Wagon R 1.0 [2010-2019] LXI,Maruti Suzuki,Wagon R 1.0,2012,blue,hatchback,"49,799",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,18.9,BS V,349000,176106.6549706459
+521,Honda Jazz [2015-2020] SV MT,Honda,Jazz,2016,white,hatchback,"94,873",1st,5,petrol,40,i-VTEC Petrol Engine,1199,5-Speed,Automatic,88.7,110.0,18.7,BS V,576000,605192.7248144448
+522,Ford EcoSport [2015-2017] Trend+ 1.0L EcoBoost,Ford,EcoSport,2016,blue,suv,"69,414",1st,5,petrol,52,1.0L Ecoboost (Petrol),999,5-Speed,Manual,124.0,170.0,18.9 ,BS IV,629000,966464.1574649215
+523,Hyundai i10 [2010-2016] Sportz Petrol,Hyundai,i10,2014,red,hatchback,"40,450",1st,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,423000,315384.808090359
+524,Ford EcoSport [2013-2015] Titanium 1.5L TDCi,Ford,EcoSport,2014,white,suv,"86,120",1st,5,diesel,52,TDCi Diesel Engine,1498,5-Speed,Manual,98.96,215.0,21.7,BS III,643000,827186.0043452084
+525,Hyundai Elite i20 [2018-2020] Asta 1.2,Hyundai,Elite i20,2018,red,hatchback,"29,948",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Automatic,82.0,115.0,18.6,BS V,737000,895000.6415385604
+526,Renault Kwid [2015-2019] RXT Opt,Renault,Kwid,2019,grey,hatchback,"22,356",1st,5,petrol,28,Petrol Engine,799,5-Speed,Manual,53.3,72.0,25.17,BS V,425000,452838.5218435526
+527,Hyundai i10 [2010-2016] Era Petrol,Hyundai,i10,2011,grey,hatchback,"77,554",1st,5,petrol,35,4 cylinder inline petrol engine,1086,5-Speed,Manual,68.05,99.04,19.81,BS III,330000,106467.57841077447
+528,Kia Seltos HTX G,Kia,Seltos,2020,red,suv,"18,499",1st,5,petrol,50,Smartstream G1.5,1497,6-Speed,Manual,113.4,114.0,16.8,BS IV,1369000,1184808.5582626164
+529,Maruti Suzuki Eeco 5 STR WITH A/C+HTR,Maruti Suzuki,Eeco,2019,grey,muv,"27,462",1st,5,petrol,40,Aluminium 32 bit,1196,5-Speed,Manual,72.42,98.0,16.11,BS IV,436000,814109.9544940293
+530,Honda WR-V VX i-VTEC,Honda,WR-V,2019,red,suv,"53,948",1st,5,petrol,40,i-VTEC Petrol engine,1199,5-Speed,Manual,88.5,110.0,16.5,BS IV,883000,814109.9544940293
+531,Kia Seltos GTX Plus,Kia,Seltos,2020,red,suv,"20,280",1st,5,petrol,50,Smartstream G1.4 T-GDi,1353,6-Speed,Manual,138.0,242.0,16.1,BS IV,1610000,1184808.5582626164
+532,Hyundai Verna Transform [2010-2011] 1.6 SX VTVT,Hyundai,Verna Transform,2011,white,sedan,"75,713",2nd,5,petrol,45,FWD,1599,5-Speed,Automatic,103.0,147.0,11.8,BS IV,400000,407527.10561951995
+533,Maruti Suzuki Alto K10 [2014-2019] VXi,Maruti Suzuki,Alto K10,2019,grey,hatchback,"35,607",1st,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,429000,663580.1908896565
+534,Maruti Suzuki Eeco 5 STR WITH A/C+HTR,Maruti Suzuki,Eeco,2017,silver,muv,"75,728",1st,5,petrol,40,Aluminium 32 bit,1196,5-Speed,Manual,72.42,98.0,16.11,BS IV,408000,674831.8013743162
+535,Hyundai i10 [2010-2016] Sportz Petrol,Hyundai,i10,2015,white,hatchback,"26,176",2nd,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,408000,385023.8846502304
+536,Maruti Suzuki Dzire [2017-2020] VXI AMT,Maruti Suzuki,Dzire,2018,blue,sedan,"19,949",1st,5,petrol,37,1.2 Litre Petrol Engine,1197,5-Speed,Automatic,88.5,113.0,24.12,BS V,739000,654153.0197715461
+537,Renault Duster [2015-2019] 110 PS RXL 4X2 MT,Renault,Duster,2015,red,suv,"59,680",1st,5,diesel,50,1.5 dCI K9K THP Diesel engine,1596,5-Speed,Manual,108.0,248.0,19.6,BS V,754000,836613.1754633188
+538,Renault Duster [2015-2019] 110 PS RXL 4X2 MT,Renault,Duster,2015,red,suv,"59,680",1st,5,diesel,50,1.5 dCI K9K THP Diesel engine,1596,5-Speed,Manual,108.0,248.0,19.6,BS V,754000,836613.1754633188
+539,Renault Duster [2015-2019] 110 PS RXL 4X2 MT,Renault,Duster,2015,red,suv,"59,680",1st,5,diesel,50,1.5 dCI K9K THP Diesel engine,1461,5-Speed,Manual,108.0,248.0,19.6,BS V,754000,836613.1754633188
+540,Renault Duster [2015-2019] 110 PS RXL 4X2 MT,Renault,Duster,2015,red,suv,"59,680",1st,5,diesel,50,1.5 dCI K9K THP Diesel engine,1461,5-Speed,Manual,108.0,248.0,19.6,BS V,754000,836613.1754633188
+541,Hyundai Xcent [2014-2017] S Petrol,Hyundai,Xcent,2014,white,sedan,"68,363",1st,5,petrol,43,1.2 Kappa Dual VTVT Petrol,1197,5-Speed,Manual,81.0,114.0,19.1,BS IV,461000,556232.4298573434
+542,Renault Triber RXZ AMT,Renault,Triber,2020,red,muv,"12,256",1st,7,petrol,40,1.0L Petrol Engine,999,5-Speed,Automatic,72.0,96.0,18.2,BS IV,732000,883749.0310539007
+543,Renault Triber RXZ,Renault,Triber,2019,orange,muv,"16,554",1st,7,petrol,40,1.0L Petrol Engine,999,5-Speed,Manual,71.0,96.0,20,BS IV,701000,814109.9544940293
+544,Hyundai i10 [2010-2016] Sportz Petrol,Hyundai,i10,2015,silver,hatchback,"38,156",2nd,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,406000,385023.8846502304
+545,Maruti Suzuki Alto 800 [2012-2016] LXI,Maruti Suzuki,Alto 800,2012,white,hatchback,"66,016",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.74,BS III,271000,176106.6549706459
+546,Hyundai Eon [2011-2018] Era +,Hyundai,Eon,2013,blue,hatchback,"24,862",1st,5,petrol,32,Petrol Engine,814,5-Speed,Manual,55.2,74.5,21.1,BS IV,293000,155427.8733678758
+547,Toyota Etios [2010-2017] G,Toyota,Etios,2012,silver,sedan,"67,312",2nd,5,petrol,45,4 cylinder petrol engine,1496,5-Speed,Manual,90.0,132.0,17.57,BS IV,368000,477166.1821793914
+548,Hyundai Grand i10 [2013-2017] Asta 1.2 Kappa VTVT,Hyundai,Grand i10,2013,red,hatchback,"68,842",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,18.9,BS IV,447000,486593.353297472
+549,Honda WR-V i-DTEC VX,Honda,WR-V,2018,brown,suv,"48,924",1st,5,diesel,40,i-DTEC Diesel engine,1498,6-Speed,Manual,97.89,200.0,23.7,BS IV,912000,744470.8779341877
+550,Maruti Suzuki Swift Dzire [2008-2012] VXI,Maruti Suzuki,Swift Dzire,2011,grey,sedan,"71,460",1st,5,petrol,43,In-Line Engine,1298,5-Speed,Manual,85.8,114.0,17.5,BS IV,387000,347315.20017775893
+551,Renault Kwid [2017-2019] RXT 1.0 SCE Special (O),Renault,Kwid,2019,red,hatchback,"33,661",1st,5,petrol,28,Petrol Engine,999,5-Speed,Manual,67.0,91.0,23.01,BS V,448000,452838.5218435526
+552,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2020,white,sedan,"33,394",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1596,5-Speed,Manual,105.94,140.0,18.1,BS IV,1051000,943960.9364956319
+553,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2020,white,sedan,"33,394",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1596,5-Speed,Manual,105.94,140.0,18.1,BS IV,1051000,943960.9364956319
+554,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2020,white,sedan,"33,394",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1496,5-Speed,Manual,105.94,140.0,18.1,BS IV,1051000,943960.9364956319
+555,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2020,white,sedan,"33,394",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1496,5-Speed,Manual,105.94,140.0,18.1,BS IV,1051000,943960.9364956319
+556,Toyota Yaris [2018-2021] J,Toyota,Yaris,2019,brown,sedan,"9,242",1st,5,petrol,42,1.5 Dual VVT-i Engine,1596,6-Speed,Manual,105.94,140.0,17.18,BS IV,914000,874321.8599357605
+557,Toyota Yaris [2018-2021] J,Toyota,Yaris,2019,brown,sedan,"9,242",1st,5,petrol,42,1.5 Dual VVT-i Engine,1596,6-Speed,Manual,105.94,140.0,17.18,BS IV,914000,874321.8599357605
+558,Toyota Yaris [2018-2021] J,Toyota,Yaris,2019,brown,sedan,"9,242",1st,5,petrol,42,1.5 Dual VVT-i Engine,1496,6-Speed,Manual,105.94,140.0,17.18,BS IV,914000,874321.8599357605
+559,Toyota Yaris [2018-2021] J,Toyota,Yaris,2019,brown,sedan,"9,242",1st,5,petrol,42,1.5 Dual VVT-i Engine,1496,6-Speed,Manual,105.94,140.0,17.18,BS IV,914000,874321.8599357605
+560,Hyundai Verna [2011-2015] Fluidic 1.6 VTVT SX,Hyundai,Verna,2014,white,sedan,"88,267",1st,5,petrol,43,Front Wheel Drive,1591,5-Speed,Automatic,121.0,158.0,17.01,BS III,598000,556232.4298573434
+561,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,silver,suv,"13,185",1st,5,diesel,60,FWD,1596,5-Speed,Manual,167.68,350.0,17.41,BS IV,1822000,1485868.0854713619
+562,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,silver,suv,"13,185",1st,5,diesel,60,FWD,1596,5-Speed,Manual,167.68,350.0,17.41,BS IV,1822000,1485868.0854713619
+563,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,silver,suv,"13,185",1st,5,diesel,60,FWD,1956,6-Speed,Manual,167.68,350.0,17.41,BS IV,1822000,1485868.0854713619
+564,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,silver,suv,"13,185",1st,5,diesel,60,FWD,1956,6-Speed,Manual,167.68,350.0,17.41,BS IV,1822000,1485868.0854713619
+565,Kia Seltos GTX Plus,Kia,Seltos,2020,white,suv,"25,450",1st,5,petrol,50,Smartstream G1.4 T-GDi,1353,6-Speed,Manual,138.0,242.0,16.1,BS IV,1589000,1184808.5582626164
+566,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2020,white,sedan,"37,283",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1596,5-Speed,Manual,105.94,140.0,18.1,BS IV,1027000,943960.9364956319
+567,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2020,white,sedan,"37,283",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1596,5-Speed,Manual,105.94,140.0,18.1,BS IV,1027000,943960.9364956319
+568,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2020,white,sedan,"37,283",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1496,5-Speed,Manual,105.94,140.0,18.1,BS IV,1027000,943960.9364956319
+569,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2020,white,sedan,"37,283",2nd,5,petrol,42,1.5 Dual VVT-i Engine,1496,5-Speed,Manual,105.94,140.0,18.1,BS IV,1027000,943960.9364956319
+570,Maruti Suzuki Ciaz Alpha Petrol,Maruti Suzuki,Ciaz,2019,blue,sedan,"41,804",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1696,5-Speed,Manual,103.25,138.0,20.65,BS IV,863000,904427.812656641
+571,Maruti Suzuki Wagon R 1.0 [2010-2019] VXI,Maruti Suzuki,Wagon R 1.0,2011,red,hatchback,"72,631",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,18.9,BS V,315000,106467.57841077447
+572,Renault Kwid [2015-2019] 1.0 RXT Opt,Renault,Kwid,2019,grey,hatchback,"37,865",1st,5,petrol,28,Petrol Engine,999,5-Speed,Manual,67.0,91.0,23.01,BS V,433000,452838.5218435526
+573,Hyundai Grand i10 [2013-2017] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2014,white,hatchback,"72,514",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,18.9,BS IV,454000,556232.4298573434
+574,Renault Kiger RXT MT Dual Tone,Renault,Kiger,2021,silver,suv,"21,304",1st,5,petrol,40,1.0L Energy	,1298,5-Speed,Automatic,71.0,96.0,19.17,BS IV,807000,953388.1076137722
+575,Maruti Suzuki Swift VXI,Maruti Suzuki,Swift,2021,red,hatchback,"7,881",1st,5,petrol,37,VTVT Engine,1197,5-Speed,Manual,81.8,113.0,21.21,BS IV,734000,863070.2494511306
+576,Mahindra Scorpio [2014-2017] S6 Plus,Mahindra,Scorpio,2016,black,suv,"54,656",1st,7,diesel,60,4 cylinder mHawk CRDe diesel engine,2179,5-Speed,Manual,120.0,280.0,15.4,BS IV,1054000,1207311.779231906
+577,Maruti Suzuki Celerio [2014-2021] VXi AMT,Maruti Suzuki,Celerio,2014,grey,hatchback,"39,400",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,449000,315384.808090359
+578,Skoda Rapid [2011-2016] Elegance 1.6 MPI AT,Skoda,Rapid,2012,silver,sedan,"52,326",1st,5,petrol,55,4 cylinder inline petrol engine,1598,6-Speed,Automatic,103.0,153.0,14.3,BS III,538000,778225.7093881071
+579,Hyundai i20 Active [2015-2020] 1.2 SX,Hyundai,i20 Active,2018,brown,crossover,"24,310",1st,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Automatic,82.0,115.0,17.19,BS V,883000,895000.6415385604
+580,Hyundai Grand i10 [2017-2020] Magna 1.2 Kappa VTVT,Hyundai,Grand i10,2017,silver,hatchback,"25,966",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,113.75,18.9,BS V,544000,765149.6595369279
+581,Honda City [2008-2013] V AT,Honda,City,2011,black,sedan,"90,745",1st,5,petrol,42,"1.5L, SOHC, 4-cylinder, i-VTEC",1497,5-Speed,Automatic,118.0,146.0,10.4,BS IV,485000,317209.2474568784
+582,Hyundai Venue SX 1.0  Turbo,Hyundai,Venue,2019,blue,suv,"21,628",1st,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,998,6-Speed,Manual,118.35,171.6,18.27,BS IV,995000,964639.718098402
+583,Renault Triber RXZ AMT,Renault,Triber,2020,blue,muv,"43,164",1st,7,petrol,40,1.0L Petrol Engine,999,5-Speed,Automatic,72.0,96.0,18.2,BS IV,752000,883749.0310539007
+584,Maruti Suzuki Alto [2010-2013] LXI,Maruti Suzuki,Alto,2011,black,hatchback,"16,061",2nd,5,petrol,35,In-Line Engine,796,5-Speed,Manual,46.3,62.0,19.7,BS IV,266000,106467.57841077447
+585,Hyundai Xcent [2014-2017] SX AT (O) Petrol,Hyundai,Xcent,2015,blue,sedan,"65,025",1st,5,petrol,43,1.2 Kappa Dual VTVT Petrol,1197,4-Speed,Automatic,81.0,114.0,16.1,BS IV,551000,625871.5064172149
+586,Hyundai Grand i10 [2013-2017] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2014,black,hatchback,"26,974",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,18.9,BS IV,477000,556232.4298573434
+587,Maruti Suzuki Swift Dzire [2012-2017] VXi,Maruti Suzuki,Swift Dzire,2013,beige,sedan,"23,778",1st,5,petrol,42,K Series VVT Engine,1197,5-Speed,Manual,85.8,114.0,19.1,BS IV,523000,456487.4005765915
+588,Hyundai Verna SX Opt IVT Petrol,Hyundai,Verna,2020,black,sedan,"7,594",1st,5,petrol,45,1.5 l MPi	,1497,5-Speed,Automatic,113.0,144.0,18.4,BS IV,1422000,1034278.7946582735
+589,Maruti Suzuki Alto 800 Vxi Plus,Maruti Suzuki,Alto 800,2020,blue,hatchback,"21,075",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.05,BS IV,430000,733219.267449528
+590,Toyota Yaris [2018-2021] J,Toyota,Yaris,2020,brown,sedan,"7,122",1st,5,petrol,42,1.5 Dual VVT-i Engine,1596,6-Speed,Manual,105.94,140.0,17.18,BS IV,894000,943960.9364956319
+591,Toyota Yaris [2018-2021] J,Toyota,Yaris,2020,brown,sedan,"7,122",1st,5,petrol,42,1.5 Dual VVT-i Engine,1596,6-Speed,Manual,105.94,140.0,17.18,BS IV,894000,943960.9364956319
+592,Toyota Yaris [2018-2021] J,Toyota,Yaris,2020,brown,sedan,"7,122",1st,5,petrol,42,1.5 Dual VVT-i Engine,1496,6-Speed,Manual,105.94,140.0,17.18,BS IV,894000,943960.9364956319
+593,Toyota Yaris [2018-2021] J,Toyota,Yaris,2020,brown,sedan,"7,122",1st,5,petrol,42,1.5 Dual VVT-i Engine,1496,6-Speed,Manual,105.94,140.0,17.18,BS IV,894000,943960.9364956319
+594,MG Motors Hector 1.5 Sharp DCT AT,MG Motors,Hector,2019,red,suv,"25,219",1st,5,petrol,60,FWD,1451,6-Speed,Automatic,141.0,250.0,13.96,BS IV,1700000,1416229.0089114904
+595,Mahindra Scorpio [2014-2017] S10,Mahindra,Scorpio,2015,blue,suv,"94,751",2nd,7,diesel,60,4 cylinder mHawk CRDe diesel engine,2179,5-Speed,Manual,120.0,280.0,15.4,BS IV,914000,1137672.7026720643
+596,Maruti Suzuki Ciaz Alpha Petrol,Maruti Suzuki,Ciaz,2020,blue,sedan,"26,246",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1696,5-Speed,Manual,103.25,138.0,20.65,BS IV,971000,974066.8892165124
+597,Maruti Suzuki Ciaz [2014-2017] ZXi AT,Maruti Suzuki,Ciaz,2015,brown,sedan,"93,570",2nd,5,petrol,43, K 14B VVT,1373,4-Speed,Automatic,91.0,130.0,19.12,BS IV,593000,625871.5064172149
+598,Maruti Suzuki Swift Dzire [2012-2017] VXI AT,Maruti Suzuki,Swift Dzire,2014,white,sedan,"70,563",2nd,5,petrol,42,K Series VVT Engine,1197,4-Speed,Automatic,85.8,114.0,19.1,BS IV,499000,526126.4771364629
+599,Ford Freestyle [2017-2021] Titanium 1.2,Ford,Freestyle,2020,golden,crossover,"14,965",1st,5,petrol,42,1.2 litre Petrol Engine,1298,5-Speed,Automatic,94.93,119.0,18.5,BS IV,728000,943960.9364956319
+600,Renault Kwid [2015-2019] RXE,Renault,Kwid,2015,bronze,hatchback,"33,390",1st,5,petrol,28,Petrol Engine,799,5-Speed,Manual,53.3,72.0,25.17,BS V,287000,174282.21560412645
+601,Maruti Suzuki Ritz [2009-2012] VXI,Maruti Suzuki,Ritz,2011,brown,hatchback,"53,349",1st,5,petrol,45,KB Series,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,373000,407527.10561951995
+602,Maruti Suzuki Celerio [2014-2021] VXi AMT,Maruti Suzuki,Celerio,2014,silver,hatchback,"87,635",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,404000,315384.808090359
+603,Maruti Suzuki Wagon R 1.0 [2010-2019] VXI,Maruti Suzuki,Wagon R 1.0,2011,grey,hatchback,"77,919",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,18.9,BS V,318000,106467.57841077447
+604,Ford EcoSport [2015-2017] Titanium 1.5L Ti-VCT AT,Ford,EcoSport,2017,white,suv,"84,118",1st,5,petrol,52,1.5L Ti-VCT (Petrol),1499,6-Speed,Automatic,110.0,140.0,16.5,BS IV,727000,1036103.2340247929
+605,Hyundai New Santro 1.1 Era Executive,Hyundai,New Santro 1.1,2018,white,hatchback,"22,735",1st,5,petrol,35,1.1 L Petrol,1086,5-Speed,Manual,68.07,99.07,20.3,BS IV,447000,593941.1143298149
+606,Hyundai Creta [2015-2018] 1.6 SX,Hyundai,Creta,2017,black,suv,"50,749",1st,5,diesel,60,U2 VGT CRDi,1582,6-Speed,Manual,126.0,265.0,19.67,BS IV,1150000,1276950.8557917774
+607,Honda Mobilio [2014-2017] S Petrol,Honda,Mobilio,2015,red,muv,"45,754",2nd,7,petrol,42,1.5L i-VTEC,1497,5-Speed,Manual,118.0,145.0,17.3,BS IV,605000,595765.5536963344
+608,Mahindra Scorpio [2014-2017] S10 AT,Mahindra,Scorpio,2015,white,suv,"72,696",1st,7,diesel,60,4 cylinder mHawk CRDe diesel engine,2179,6-Speed,Automatic,120.0,280.0,15.4,BS IV,1117000,1137672.7026720643
+609,Hyundai Grand i10 [2013-2017] Asta AT 1.2 Kappa VTVT,Hyundai,Grand i10,2015,orange,hatchback,"99,001",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,4-Speed,Automatic,82.0,114.0,18.9,BS IV,506000,625871.5064172149
+610,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2017,blue,hatchback,"85,933",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,610000,825361.564978689
+611,Datsun GO [2014-2019] T,Datsun,GO,2014,red,hatchback,"55,890",2nd,5,petrol,35,DOHC with Dual VTVT,1798,5-Speed,Manual,67.05,104.0,19.02,BS V,290000,315384.808090359
+612,Volkswagen Vento [2010-2015] Highline Petrol AT,Volkswagen,Vento,2013,black,sedan,"88,105",1st,5,petrol,55,4 cylinder inline,1598,6-Speed,Automatic,103.0,153.0,14.4,BS III,542000,847864.7859479487
+613,MG Motors Hector 1.5 Sharp DCT AT,MG Motors,Hector,2019,black,suv,"20,761",1st,5,petrol,60,FWD,1451,6-Speed,Automatic,141.0,250.0,13.96,BS IV,1720000,1416229.0089114904
+614,Maruti Suzuki Ritz [2012-2017] Zxi,Maruti Suzuki,Ritz,2016,white,hatchback,"56,280",1st,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,523000,695510.5829770565
+615,Honda WR-V VX i-VTEC,Honda,WR-V,2017,grey,suv,"37,043",1st,5,petrol,40,i-VTEC Petrol engine,1199,5-Speed,Manual,88.5,110.0,16.5,BS IV,745000,674831.8013743162
+616,Mahindra Scorpio [2014-2017] S10 AT,Mahindra,Scorpio,2015,white,suv,"79,576",1st,7,diesel,60,4 cylinder mHawk CRDe diesel engine,2179,6-Speed,Automatic,120.0,280.0,15.4,BS IV,1052000,1137672.7026720643
+617,Hyundai Fluidic Verna 4S [2015-2018] 1.6 VTVT SX,Hyundai,Fluidic Verna 4S,2017,white,sedan,"29,759",1st,5,petrol,43,1.6L Gamma VTVT 5 Speed Manual Transmission,1591,5-Speed,Manual,121.0,158.0,17.4,BS IV,854000,765149.6595369279
+618,Ford EcoSport [2015-2017] Titanium 1.5L Ti-VCT,Ford,EcoSport,2017,red,suv,"28,559",1st,5,petrol,52,1.5L Ti-VCT (Petrol),1499,5-Speed,Manual,110.0,140.0,15.8,BS IV,788000,1036103.2340247929
+619,Maruti Suzuki Ritz [2012-2017] Vxi,Maruti Suzuki,Ritz,2013,white,hatchback,"18,214",1st,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,460000,486593.353297472
+620,Hyundai Elite i20 [2014-2018] Asta 1.4 CRDI,Hyundai,Elite i20,2015,white,hatchback,"92,256",1st,5,diesel,45,U2 CRDI Diesel Engine,1396,6-Speed,Manual,88.73,219.7,22.54,BS IV,689000,686083.4118589759
+621,Honda Mobilio [2014-2017] V Petrol,Honda,Mobilio,2015,silver,muv,"42,933",2nd,7,petrol,42,1.5L i-VTEC,1497,5-Speed,Manual,118.0,145.0,17.3,BS IV,638000,595765.5536963344
+622,Hyundai Verna SX Opt IVT Petrol,Hyundai,Verna,2020,blue,sedan,"18,146",1st,5,petrol,45,1.5 l MPi	,1497,5-Speed,Automatic,113.0,144.0,18.4,BS IV,1458000,1034278.7946582735
+623,Hyundai Elite i20 [2014-2018] Asta 1.4 CRDI (O),Hyundai,Elite i20,2016,red,hatchback,"29,602",1st,5,diesel,45,U2 CRDI Diesel Engine,1396,6-Speed,Manual,88.73,219.7,22.54,BS IV,814000,755722.4884188175
+624,MG Motors Hector 1.5 Sharp DCT AT,MG Motors,Hector,2020,silver,suv,"26,994",1st,5,petrol,60,FWD,1451,6-Speed,Automatic,141.0,250.0,13.96,BS IV,1774000,1485868.0854713619
+625,Maruti Suzuki Ritz [2012-2017] Vxi,Maruti Suzuki,Ritz,2013,white,hatchback,"47,642",2nd,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,455000,486593.353297472
+626,Maruti Suzuki Alto K10 [2010-2014] VXi,Maruti Suzuki,Alto K10,2012,red,hatchback,"67,041",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,20.92,BS IV,314000,176106.6549706459
+627,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,red,suv,"30,234",1st,5,diesel,60,FWD,1596,5-Speed,Manual,167.68,350.0,17.41,BS IV,2019000,1485868.0854713619
+628,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,red,suv,"30,234",1st,5,diesel,60,FWD,1596,5-Speed,Manual,167.68,350.0,17.41,BS IV,2019000,1485868.0854713619
+629,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,red,suv,"30,234",1st,5,diesel,60,FWD,1956,6-Speed,Manual,167.68,350.0,17.41,BS IV,2019000,1485868.0854713619
+630,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,red,suv,"30,234",1st,5,diesel,60,FWD,1956,6-Speed,Manual,167.68,350.0,17.41,BS IV,2019000,1485868.0854713619
+631,Hyundai Elite i20 [2014-2018] Asta 1.4 CRDI,Hyundai,Elite i20,2017,white,hatchback,"33,545",1st,5,diesel,45,U2 CRDI Diesel Engine,1396,6-Speed,Manual,88.73,219.7,22.54,BS IV,876000,825361.564978689
+632,Toyota Etios Liva [2010-2017] V,Toyota,Etios Liva,2012,silver,hatchback,"42,200",2nd,5,petrol,45,"4-Cylinder 16V, DOHC",1596,5-Speed,Automatic,79.0,104.0,17.71,BS IV,423000,477166.1821793914
+633,Toyota Etios Liva [2010-2017] V,Toyota,Etios Liva,2012,silver,hatchback,"42,200",2nd,5,petrol,45,"4-Cylinder 16V, DOHC",1596,5-Speed,Automatic,79.0,104.0,17.71,BS IV,423000,477166.1821793914
+634,Toyota Etios Liva [2010-2017] V,Toyota,Etios Liva,2012,silver,hatchback,"42,200",2nd,5,petrol,45,"4-Cylinder 16V, DOHC",1496,5-Speed,Manual,79.0,104.0,17.71,BS IV,423000,477166.1821793914
+635,Toyota Etios Liva [2010-2017] V,Toyota,Etios Liva,2012,silver,hatchback,"42,200",2nd,5,petrol,45,"4-Cylinder 16V, DOHC",1496,5-Speed,Manual,79.0,104.0,17.71,BS IV,423000,477166.1821793914
+636,Hyundai Verna [2017-2020] 1.6 VTVT SX (O) AT,Hyundai,Verna,2017,white,sedan,"48,583",1st,5,petrol,45,VTVT Petrol Engine,1591,6-Speed,Automatic,121.3,151.0,17,BS V,1100000,825361.564978689
+637,Hyundai i10 [2010-2016] Sportz Petrol,Hyundai,i10,2014,grey,hatchback,"98,109",1st,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,411000,315384.808090359
+638,Hyundai i10 [2010-2016] Magna 1.2 Petrol,Hyundai,i10,2011,red,hatchback,"70,581",2nd,5,petrol,35,Kappa Petrol Engine,1197,5-Speed,Manual,78.9,111.7,20.36,BS III,340000,106467.57841077447
+639,Maruti Suzuki Alto K10 [2014-2019] VXi,Maruti Suzuki,Alto K10,2018,red,hatchback,"64,194",1st,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,405000,593941.1143298149
+640,Renault Duster [2015-2016] 85 PS RXL EXPLORE,Renault,Duster,2015,white,suv,"87,057",1st,5,diesel,50,dCi THP Diesel Engine,1461,5-Speed,Manual,83.8,200.0,19.87,BS III,738000,836613.1754633188
+641,Hyundai Santro Xing [2007-2014] GLS,Hyundai,Santro Xing,2012,white,hatchback,"23,227",1st,5,petrol,35,Petrol Engine,1086,5-Speed,Manual,62.1,96.1,17.92,BS IV,365000,176106.6549706459
+642,MG Motors Hector 1.5 Sharp DCT AT,MG Motors,Hector,2019,black,suv,"24,564",1st,5,petrol,60,FWD,1451,6-Speed,Automatic,141.0,250.0,13.96,BS IV,1700000,1416229.0089114904
+643,Maruti Suzuki Ritz [2009-2012] VXI,Maruti Suzuki,Ritz,2012,red,hatchback,"39,719",1st,5,petrol,45,KB Series,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,422000,477166.1821793914
+644,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,white,suv,"51,686",1st,5,diesel,60,FWD,1596,5-Speed,Manual,167.68,350.0,17.41,BS IV,1958000,1485868.0854713619
+645,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,white,suv,"51,686",1st,5,diesel,60,FWD,1596,5-Speed,Manual,167.68,350.0,17.41,BS IV,1958000,1485868.0854713619
+646,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,white,suv,"51,686",1st,5,diesel,60,FWD,1956,6-Speed,Manual,167.68,350.0,17.41,BS IV,1958000,1485868.0854713619
+647,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,white,suv,"51,686",1st,5,diesel,60,FWD,1956,6-Speed,Manual,167.68,350.0,17.41,BS IV,1958000,1485868.0854713619
+648,Renault Duster [2015-2019] 110 PS RXZ 4X2 MT,Renault,Duster,2018,bronze,suv,"57,995",1st,5,diesel,50,1.5 dCI K9K THP Diesel engine,1461,6-Speed,Manual,108.0,248.0,19.6,BS V,1019000,1045530.4051429033
+649,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,red,suv,"32,604",1st,5,diesel,60,FWD,1596,5-Speed,Manual,167.68,350.0,17.41,BS IV,1978000,1485868.0854713619
+650,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,red,suv,"32,604",1st,5,diesel,60,FWD,1596,5-Speed,Manual,167.68,350.0,17.41,BS IV,1978000,1485868.0854713619
+651,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,red,suv,"32,604",1st,5,diesel,60,FWD,1956,6-Speed,Manual,167.68,350.0,17.41,BS IV,1978000,1485868.0854713619
+652,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2020,red,suv,"32,604",1st,5,diesel,60,FWD,1956,6-Speed,Manual,167.68,350.0,17.41,BS IV,1978000,1485868.0854713619
+653,Maruti Suzuki Ritz [2009-2012] VXI,Maruti Suzuki,Ritz,2012,silver,hatchback,"46,627",1st,5,petrol,45,KB Series,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,412000,477166.1821793914
+654,Honda City V,Honda,City,2017,grey,sedan,"45,868",1st,5,petrol,40,i VTEC Engine,1497,5-Speed,Manual,117.6,145.0,17.4,BS IV,878000,674831.8013743162
+655,Maruti Suzuki Ritz [2012-2017] Vxi,Maruti Suzuki,Ritz,2013,brown,hatchback,"68,876",1st,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,429000,486593.353297472
+656,Ford EcoSport [2013-2015] Titanium 1.5L Ti-VCT AT,Ford,EcoSport,2013,white,suv,"47,068",1st,5,petrol,52,1.5L Ti-VCT (Petrol),1499,6-Speed,Automatic,109.0,140.0,16.5 ,BS III,708000,757546.927785337
+657,Ford EcoSport [2013-2015] Titanium 1.0L Ecoboost,Ford,EcoSport,2014,white,suv,"48,060",1st,5,petrol,52,Ecoboost Petrol Engine,999,5-Speed,Manual,123.37,170.0,18.88,BS III,678000,827186.0043452084
+658,Maruti Suzuki Alto K10 [2014-2019] VXi (O),Maruti Suzuki,Alto K10,2016,orange,hatchback,"80,307",2nd,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,326000,454662.96121007204
+659,Maruti Suzuki Alto K10 [2010-2014] VXi,Maruti Suzuki,Alto K10,2013,red,hatchback,"29,217",1st,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,20.92,BS IV,336000,245745.73153048754
+660,MG Motors Hector 1.5 Hybrid Smart,MG Motors,Hector,2019,black,suv,"28,787",1st,5,petrol,60,FWD,1451,6-Speed,Automatic,141.0,250.0,15.81,BS IV,1589000,1416229.0089114904
+661,Maruti Suzuki Omni [2011-2019] E 8 STR BS-IV,Maruti Suzuki,Omni,2014,silver,muv,"57,964",2nd,8,petrol,36,"4 stroke cycle, Water cooled",796,4-Speed,Manual,34.0,59.0,16.8,BS V,335000,345490.7608112395
+662,Maruti Suzuki Ritz [2009-2012] VXI,Maruti Suzuki,Ritz,2011,grey,hatchback,"54,318",2nd,5,petrol,45,KB Series,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,368000,407527.10561951995
+663,Hyundai i10 [2010-2016] Sportz Petrol,Hyundai,i10,2014,grey,hatchback,"55,319",1st,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,439000,315384.808090359
+664,Ford EcoSport [2017-2020] Titanium + 1.5L Ti-VCT AT,Ford,EcoSport,2018,silver,suv,"39,105",1st,5,petrol,52,Ti-VCT Petrol Engine,1496,6-Speed,Automatic,120.69,149.0,14.7,BS V,1066000,1105742.3105846643
+665,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2021,white,suv,"49,279",1st,5,diesel,60,FWD,1596,5-Speed,Manual,167.68,350.0,17.41,BS IV,1984000,1555507.1620312333
+666,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2021,white,suv,"49,279",1st,5,diesel,60,FWD,1596,5-Speed,Manual,167.68,350.0,17.41,BS IV,1984000,1555507.1620312333
+667,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2021,white,suv,"49,279",1st,5,diesel,60,FWD,1956,6-Speed,Manual,167.68,350.0,17.41,BS IV,1984000,1555507.1620312333
+668,MG Motors Hector 2.0 Sharp,MG Motors,Hector,2021,white,suv,"49,279",1st,5,diesel,60,FWD,1956,6-Speed,Manual,167.68,350.0,17.41,BS IV,1984000,1555507.1620312333
+669,Hyundai Santro Xing [2007-2014] GLS,Hyundai,Santro Xing,2011,maroon,hatchback,"57,259",2nd,5,petrol,35,Petrol Engine,1086,5-Speed,Manual,62.1,96.1,17.92,BS IV,328000,106467.57841077447
+670,Mahindra XUV500 [2011-2015] W8,Mahindra,XUV500,2015,silver,suv,"66,820",2nd,7,diesel,70,4 cylinder mHawk CRDe diesel engine,2179,6-Speed,Manual,140.0,330.0,15.1,BS III,1055000,1438732.2298808098
+671,Ford Figo Aspire [2015-2019] Titanium 1.2 Ti-VCT,Ford,Figo Aspire,2018,blue,sedan,"21,089",1st,5,petrol,42,Ti-VCT Petrol Engine,1194,5-Speed,Manual,94.93,119.0,18.5,BS V,555000,804682.7833759189
+672,Maruti Suzuki Celerio [2014-2021] VXi AMT,Maruti Suzuki,Celerio,2014,blue,hatchback,"7,779",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,434000,315384.808090359
+673,Hyundai i10 [2010-2016] Sportz AT Petrol,Hyundai,i10,2011,red,hatchback,"48,267",2nd,5,petrol,35,DOHC Kappa2 Engine,1197,4-Speed,Automatic,78.9,111.8,16.95,BS III,348000,106467.57841077447
+674,Maruti Suzuki Swift [2011-2017] ZDi,Maruti Suzuki,Swift,2014,grey,hatchback,"48,079",1st,5,diesel,42,DDiS Diesel Engine,1248,5-Speed,Manual,74.0,190.0,22.9,BS IV,556000,526126.4771364629
+675,Hyundai Grand i10 [2013-2017] Asta 1.2 Kappa VTVT,Hyundai,Grand i10,2014,orange,hatchback,"42,290",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,18.9,BS IV,447000,556232.4298573434
+676,Volkswagen Polo [2014-2020] Highline 1.5 (D),Volkswagen,Polo,2014,blue,hatchback,"54,723",1st,5,diesel,45,TDI Diesel Engine,1498,5-Speed,Automatic,88.0,230.0,20.18,BS V,569000,616444.3352991045
+677,Renault Kwid RXT,Renault,Kwid,2019,white,hatchback,"23,160",1st,5,petrol,28,0.8L,799,5-Speed,Automatic,53.0,72.0,20.71,BS IV,428000,452838.5218435526
+678,Hyundai i20 [2012-2014] Sportz 1.2,Hyundai,i20,2012,white,hatchback,"41,191",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.85,113.0,18.5,BS IV,455000,477166.1821793914
+679,Renault Duster [2015-2019] 110 PS RXZ 4X2 AMT,Renault,Duster,2018,grey,suv,"18,005",1st,5,diesel,50,dCi THP Diesel Engine,1461,6-Speed,Manual,108.45,245.0,19.6,BS V,1164000,1045530.4051429033
+680,Honda City [2017-2020] ZX CVT,Honda,City,2017,white,sedan,"34,480",1st,5,petrol,40,i VTEC Engine,1196,5-Speed,Automatic,117.6,145.0,18,BS V,1178000,674831.8013743162
+681,Honda Amaze [2018-2021] 1.2 VX i-VTEC,Honda,Amaze,2019,brown,sedan,"20,604",1st,5,petrol,35,i-VTEC Petrol Engine,1199,5-Speed,Manual,88.76,110.0,18.6,BS IV,765000,663580.1908896565
+682,Renault Kiger RXZ MT Dual Tone,Renault,Kiger,2021,grey,suv,"9,015",1st,5,petrol,40,1.0L Energy	,1298,5-Speed,Automatic,71.0,96.0,19.7,BS IV,885000,953388.1076137722
+683,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2016,red,hatchback,"56,348",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,658000,755722.4884188175
+684,Honda City [2017-2020] ZX CVT,Honda,City,2018,brown,sedan,"16,006",1st,5,petrol,40,i VTEC Engine,1196,5-Speed,Automatic,117.6,145.0,18,BS V,1240000,744470.8779341877
+685,Hyundai Elite i20 [2018-2020] Asta 1.2,Hyundai,Elite i20,2018,white,hatchback,"27,617",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Automatic,82.0,115.0,18.6,BS V,752000,895000.6415385604
+686,Maruti Suzuki Baleno [2019-2022] Alpha AT Petrol,Maruti Suzuki,Baleno,2019,grey,hatchback,"17,246",1st,5,petrol,37,1.2L VVT Engine,1596,5-Speed,Manual,81.8,113.0,21.01,BS V,869000,723792.0963313878
+687,Maruti Suzuki Baleno [2019-2022] Alpha AT Petrol,Maruti Suzuki,Baleno,2019,grey,hatchback,"17,246",1st,5,petrol,37,1.2L VVT Engine,1596,5-Speed,Manual,81.8,113.0,21.01,BS V,869000,723792.0963313878
+688,Maruti Suzuki Baleno [2019-2022] Alpha AT Petrol,Maruti Suzuki,Baleno,2019,grey,hatchback,"17,246",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,869000,723792.0963313878
+689,Maruti Suzuki Baleno [2019-2022] Alpha AT Petrol,Maruti Suzuki,Baleno,2019,grey,hatchback,"17,246",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,869000,723792.0963313878
+690,Ford EcoSport [2017-2020] Titanium + 1.5L Ti-VCT AT,Ford,EcoSport,2017,brown,suv,"73,428",1st,5,petrol,52,Ti-VCT Petrol Engine,1496,6-Speed,Automatic,120.69,149.0,14.7,BS V,833000,1036103.2340247929
+691,Hyundai Verna [2017-2020] 1.6 VTVT SX (O) AT,Hyundai,Verna,2018,brown,sedan,"25,198",1st,5,petrol,45,VTVT Petrol Engine,1591,6-Speed,Automatic,121.3,151.0,17,BS V,1171000,895000.6415385604
+692,Honda Amaze [2018-2021] 1.2 VX i-VTEC,Honda,Amaze,2020,white,sedan,"7,981",1st,5,petrol,35,i-VTEC Petrol Engine,1199,5-Speed,Manual,88.76,110.0,18.6,BS IV,840000,733219.267449528
+693,Hyundai i20 Active [2015-2020] 1.4 SX (O),Hyundai,i20 Active,2016,white,crossover,"65,232",2nd,5,diesel,45,1.4 U II 6 Speed Manual Transmission,1396,6-Speed,Automatic,89.0,220.0,21.19,BS V,706000,755722.4884188175
+694,Chevrolet Beat [2009-2014] PS Petrol,Chevrolet,Beat,2013,grey,hatchback,"52,501",1st,5,petrol,35,S-TEC II,1199,5-Speed,Manual,79.0,108.0,18.6,BS IV,273000,245745.73153048754
+695,Hyundai Elite i20 [2014-2018] Asta 1.2,Hyundai,Elite i20,2015,grey,hatchback,"91,933",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,603000,686083.4118589759
+696,Hyundai Grand i10 [2017-2020] Magna 1.2 Kappa VTVT,Hyundai,Grand i10,2017,silver,hatchback,"39,437",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,113.75,18.9,BS V,521000,765149.6595369279
+697,Maruti Suzuki Dzire [2017-2020] VDI,Maruti Suzuki,Dzire,2018,white,sedan,"50,664",1st,5,diesel,37, DDiS Diesel Engine,1248,5-Speed,Automatic,74.0,190.0,28.4,BS V,764000,654153.0197715461
+698,Mahindra XUV500 [2015-2018] W10,Mahindra,XUV500,2015,white,suv,"60,985",1st,7,diesel,70,4 cylinder mHawk CRDe diesel engine,2179,6-Speed,Manual,140.0,330.0,16,BS IV,1266000,1438732.2298808098
+699,Hyundai Venue SX 1.0  Turbo,Hyundai,Venue,2020,blue,suv,"37,005",1st,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,998,6-Speed,Manual,118.35,171.6,18.27,BS IV,1030000,1034278.7946582735
+700,Maruti Suzuki Celerio [2014-2021] ZXi AMT,Maruti Suzuki,Celerio,2015,white,hatchback,"23,217",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,511000,385023.8846502304
+701,Maruti Suzuki Alto K10 [2014-2019] VXI AMT (O),Maruti Suzuki,Alto K10,2017,grey,hatchback,"46,289",2nd,5,petrol,35,K Series Petrol Engine,1798,5-Speed,Manual,67.1,90.0,23.95,BS V,389000,524302.0377699435
+702,Renault Duster [2015-2019] 110 PS RXZ 4X2 AMT,Renault,Duster,2018,red,suv,"23,783",1st,5,diesel,50,dCi THP Diesel Engine,1461,6-Speed,Manual,108.45,245.0,19.6,BS V,1137000,1045530.4051429033
+703,Honda City [2014-2017] SV,Honda,City,2014,brown,sedan,"55,410",2nd,5,petrol,40,Front Wheel Drive,1497,5-Speed,Manual,117.3,145.0,17.8,BS IV,563000,465914.5716947317
+704,Hyundai Xcent [2014-2017] S Petrol,Hyundai,Xcent,2014,blue,sedan,"38,147",1st,5,petrol,43,1.2 Kappa Dual VTVT Petrol,1197,5-Speed,Manual,81.0,114.0,19.1,BS IV,465000,556232.4298573434
+705,Kia Seltos GTX Plus DCT,Kia,Seltos,2019,white,suv,"23,801",1st,5,petrol,50,Smartstream G1.4 T-GDi,1353,7-Speed,Manual,138.0,242.0,16.8,BS IV,1708000,1115169.481702745
+706,Maruti Suzuki Baleno [2015-2019] Zeta Petrol,Maruti Suzuki,Baleno,2018,blue,hatchback,"16,123",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,751000,654153.0197715461
+707,Maruti Suzuki Alto 800 [2012-2016] LXI Anniversary Edition,Maruti Suzuki,Alto 800,2013,purple,hatchback,"22,801",1st,5,petrol,35,F8D,1596,5-Speed,Automatic,48.0,69.0,22.74,BS III,306000,245745.73153048754
+708,Maruti Suzuki Alto 800 [2012-2016] LXI Anniversary Edition,Maruti Suzuki,Alto 800,2013,purple,hatchback,"22,801",1st,5,petrol,35,F8D,1596,5-Speed,Automatic,48.0,69.0,22.74,BS III,306000,245745.73153048754
+709,Maruti Suzuki Alto 800 [2012-2016] LXI Anniversary Edition,Maruti Suzuki,Alto 800,2013,purple,hatchback,"22,801",1st,5,petrol,35,F8D,1496,5-Speed,Manual,48.0,69.0,22.74,BS III,306000,245745.73153048754
+710,Maruti Suzuki Alto 800 [2012-2016] LXI Anniversary Edition,Maruti Suzuki,Alto 800,2013,purple,hatchback,"22,801",1st,5,petrol,35,F8D,1496,5-Speed,Manual,48.0,69.0,22.74,BS III,306000,245745.73153048754
+711,Maruti Suzuki Baleno [2015-2019] Alpha Petrol,Maruti Suzuki,Baleno,2018,blue,hatchback,"16,373",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,771000,654153.0197715461
+712,Maruti Suzuki Ciaz [2014-2017] ZXi AT,Maruti Suzuki,Ciaz,2016,red,sedan,"31,207",1st,5,petrol,43, K 14B VVT,1373,4-Speed,Automatic,91.0,130.0,19.12,BS IV,823000,695510.5829770565
+713,Ford EcoSport [2017-2020] Titanium + 1.5L Ti-VCT AT,Ford,EcoSport,2019,white,suv,"60,197",1st,5,petrol,52,Ti-VCT Petrol Engine,1496,6-Speed,Automatic,120.69,149.0,14.7,BS V,980000,1175381.387144506
+714,Honda City [2008-2013] V,Honda,City,2013,red,sedan,"73,382",1st,5,petrol,42,"1.5L, SOHC, 4-cylinder, i-VTEC",1497,5-Speed,Manual,118.0,146.0,17,BS IV,571000,456487.4005765915
+715,Maruti Suzuki Baleno [2015-2019] Delta Petrol,Maruti Suzuki,Baleno,2016,blue,hatchback,"62,811",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,614000,514874.86665180326
+716,Hyundai i20 Active [2015-2020] 1.2 SX,Hyundai,i20 Active,2018,silver,crossover,"29,086",1st,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Automatic,82.0,115.0,17.19,BS V,843000,895000.6415385604
+717,Renault Kwid [2015-2019] RXT,Renault,Kwid,2018,red,hatchback,"12,582",1st,5,petrol,28,Petrol Engine,799,5-Speed,Manual,53.3,72.0,25.12,BS V,410000,383199.44528371096
+718,Hyundai Eon [2011-2018] Sportz,Hyundai,Eon,2017,white,hatchback,"40,158",1st,5,petrol,32,Petrol Engine,814,5-Speed,Manual,55.2,74.5,21.1,BS IV,427000,433984.17960733175
+719,Hyundai i20 [2012-2014] Sportz 1.2,Hyundai,i20,2013,bronze,hatchback,"50,665",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.85,113.0,18.5,BS IV,484000,546805.258739233
+720,Hyundai Verna [2011-2015] Fluidic 1.6 VTVT SX Opt,Hyundai,Verna,2013,white,sedan,"42,283",1st,5,petrol,43,Front Wheel Drive,1582,5-Speed,Automatic,121.0,158.0,17.01,BS III,622000,486593.353297472
+721,Maruti Suzuki Celerio [2014-2021] VXI (O),Maruti Suzuki,Celerio,2017,silver,hatchback,"79,767",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,423000,524302.0377699435
+722,Maruti Suzuki Ciaz Alpha(Petrol),Maruti Suzuki,Ciaz,2018,blue,sedan,"48,524",1st,5,petrol,43,k14B VVT Engine,1373,5-Speed,Manual,91.1,130.0,20.73,BS IV,812000,834788.7360967994
+723,Maruti Suzuki S-Presso VXI+,Maruti Suzuki,S-Presso,2021,silver,hatchback,"4,704",1st,5,petrol,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,21.01,BS IV,549000,562010.722242415
+724,Maruti Suzuki Celerio [2014-2021] ZXi AMT,Maruti Suzuki,Celerio,2016,red,hatchback,"44,272",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,525000,454662.96121007204
+725,Hyundai Xcent [2017-2019] SX Petrol,Hyundai,Xcent,2018,grey,sedan,"14,197",1st,5,petrol,43,1.2L Kappa Dual VTVT Petr,1197,5-Speed,Manual,81.86,113.75,20.14,BS V,709000,834788.7360967994
+726,Hyundai Elite i20 [2014-2018] Asta 1.2,Hyundai,Elite i20,2017,blue,hatchback,"57,359",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,744000,825361.564978689
+727,Honda City V,Honda,City,2019,brown,sedan,"13,791",1st,5,petrol,40,i VTEC Engine,1497,5-Speed,Manual,117.6,145.0,17.4,BS IV,982000,814109.9544940293
+728,Maruti Suzuki Vitara Brezza [2016-2020] ZDI PLUS Dual Tone,Maruti Suzuki,Vitara Brezza,2016,yellow,suv,"76,060",1st,5,diesel,48,DDiS 200 Diesel Engine,1248,5-Speed,Automatic,88.5,200.0,24.3,BS V,881000,846040.3465814292
+729,Tata Altroz XZ 1.2,Tata,Altroz,2021,white,hatchback,"5,389",1st,5,petrol,37,1.2 L Revotron,1199,5-Speed,Manual,84.82,113.0,19.05,BS IV,834000,863070.2494511306
+730,Mahindra Scorpio [2014-2017] S4 Plus,Mahindra,Scorpio,2015,black,suv,"64,338",1st,7,diesel,60,4 cylinder mHawk CRDe diesel engine,2179,5-Speed,Manual,120.0,280.0,15.4,BS IV,916000,1137672.7026720643
+731,Honda Amaze 1.2 VX CVT i-VTEC,Honda,Amaze,2019,brown,sedan,"17,691",1st,5,petrol,35,i-VTEC Petrol Engine,1199,5-Speed,Manual,88.76,110.0,18.6,BS IV,880000,663580.1908896565
+732,Tata Punch Creative Dual Tone,Tata,Punch,2022,white,suv,"19,734",1st,5,petrol,37,1.2 Revotron,1199,5-Speed,Automatic,84.0,113.0,18.9 ,BS IV,871000,932709.3260109723
+733,Hyundai Grand i10 [2017-2020] Sportz (O) 1.2 kappa VTVT,Hyundai,Grand i10,2017,silver,hatchback,"16,150",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,113.75,18.9,BS V,594000,765149.6595369279
+734,Hyundai Verna SX Opt Petrol,Hyundai,Verna,2021,silver,sedan,"21,557",1st,5,petrol,45,1.5 l MPi,1497,6-Speed,Automatic,113.0,144.0,17.7 ,BS IV,1366000,1103917.871218145
+735,Toyota Glanza [2019-2022] G,Toyota,Glanza,2020,white,hatchback,"30,130",1st,5,petrol,37,Petrol Engine,1596,5-Speed,Manual,81.8,113.0,21.01,BS V,785000,793431.1728912592
+736,Toyota Glanza [2019-2022] G,Toyota,Glanza,2020,white,hatchback,"30,130",1st,5,petrol,37,Petrol Engine,1596,5-Speed,Manual,81.8,113.0,21.01,BS V,785000,793431.1728912592
+737,Toyota Glanza [2019-2022] G,Toyota,Glanza,2020,white,hatchback,"30,130",1st,5,petrol,37,Petrol Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,785000,793431.1728912592
+738,Toyota Glanza [2019-2022] G,Toyota,Glanza,2020,white,hatchback,"30,130",1st,5,petrol,37,Petrol Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,785000,793431.1728912592
+739,Maruti Suzuki Baleno [2019-2022] Delta Petrol,Maruti Suzuki,Baleno,2019,blue,hatchback,"24,618",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,718000,723792.0963313878
+740,Maruti Suzuki Baleno [2019-2022] Delta Petrol,Maruti Suzuki,Baleno,2020,blue,hatchback,"4,337",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,749000,793431.1728912592
+741,Maruti Suzuki Alto K10 [2014-2019] VXi,Maruti Suzuki,Alto K10,2015,red,hatchback,"74,114",2nd,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,320000,385023.8846502304
+742,Hyundai Creta [2015-2018] 1.6 SX Plus Petrol,Hyundai,Creta,2016,white,suv,"52,631",3rd,5,petrol,60,Petrol Dual VTVT,1591,6-Speed,Manual,122.0,154.0,15.29,BS IV,860000,1207311.779231906
+743,Maruti Suzuki Dzire ZXI,Maruti Suzuki,Dzire,2021,blue,sedan,"5,744",1st,5,petrol,37,1.2 Litre Petrol Engine,1197,5-Speed,Manual,88.5,113.0,23.26,BS IV,799000,863070.2494511306
+744,Maruti Suzuki Wagon R 1.2 [2019-2022] ZXI,Maruti Suzuki,Wagon R 1.2,2019,silver,hatchback,"18,988",1st,5,petrol,32,K12M Petrol Engine,1197,5-Speed,Manual,81.8,113.0,20.52,BS V,625000,573262.3327270448
+745,Maruti Suzuki Alto 800 Vxi,Maruti Suzuki,Alto 800,2019,grey,hatchback,"18,066",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.05,BS IV,411000,663580.1908896565
+746,Maruti Suzuki Swift [2011-2017] VDi,Maruti Suzuki,Swift,2014,silver,hatchback,"74,660",2nd,5,diesel,43,DDiS Diesel Engine,1248,5-Speed,Manual,74.0,190.0,22.9,BS IV,540000,556232.4298573434
+747,Maruti Suzuki Baleno [2019-2022] Alpha Petrol,Maruti Suzuki,Baleno,2019,white,hatchback,"32,801",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,822000,723792.0963313878
+748,Maruti Suzuki Dzire [2017-2020] ZXi Plus AMT,Maruti Suzuki,Dzire,2018,white,sedan,"46,517",1st,5,petrol,37,1.2 Litre Petrol Engine,1696,5-Speed,Automatic,88.5,113.0,24.12,BS V,784000,654153.0197715461
+749,Hyundai Venue [2019-2022] SX Plus 1.0 Turbo DCT,Hyundai,Venue,2019,blue,suv,"44,781",1st,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,998,7-Speed,Manual,118.35,171.6,18.15,BS V,1165000,964639.718098402
+750,Maruti Suzuki Omni [2011-2019] E 8 STR BS-IV,Maruti Suzuki,Omni,2019,blue,muv,"27,409",1st,8,petrol,36,"4 stroke cycle, Water cooled",796,4-Speed,Manual,34.0,59.0,16.8,BS V,396000,693686.143610537
+751,Hyundai Elite i20 [2018-2020] Sportz Plus 1.2,Hyundai,Elite i20,2019,blue,hatchback,"23,505",1st,5,petrol,40,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,117.0,18.6,BS V,770000,814109.9544940293
+752,Maruti Suzuki S-Presso VXI+,Maruti Suzuki,S-Presso,2021,red,hatchback,"34,872",1st,5,petrol,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,21.01,BS IV,515000,562010.722242415
+753,Maruti Suzuki Alto 800 Vxi Plus,Maruti Suzuki,Alto 800,2020,red,hatchback,"7,401",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.05,BS IV,426000,733219.267449528
+754,Hyundai Grand i10 [2013-2017] Asta AT 1.2 Kappa VTVT,Hyundai,Grand i10,2014,orange,hatchback,"51,531",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,4-Speed,Automatic,82.0,114.0,18.9,BS IV,541000,556232.4298573434
+755,Hyundai Eon [2011-2018] Era + SE,Hyundai,Eon,2017,white,hatchback,"40,187",1st,5,petrol,32,Petrol Engine,814,5-Speed,Manual,55.2,74.5,21.1,BS IV,390000,433984.17960733175
+756,Renault Duster [2015-2019] 85 PS RXZ 4X2 MT,Renault,Duster,2017,bronze,suv,"77,127",2nd,5,diesel,50,1.5 dCI K9K THP Diesel engine,1461,5-Speed,Manual,84.0,200.0,19.87 ,BS V,810000,975891.3285830319
+757,Ford EcoSport [2015-2017] Titanium + 1.5L TDCi,Ford,EcoSport,2017,grey,suv,"31,080",1st,5,diesel,52,1.5L DV5 (Diesel),1498,5-Speed,Manual,99.0,205.0,22.7,BS IV,932000,1036103.2340247929
+758,Maruti Suzuki Baleno [2019-2022] Alpha Petrol,Maruti Suzuki,Baleno,2019,blue,hatchback,"28,967",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,792000,723792.0963313878
+759,Hyundai Creta [2015-2018] 1.6 SX Plus Auto Petrol,Hyundai,Creta,2017,white,suv,"69,302",1st,5,petrol,60,Petrol Dual VTVT,1591,6-Speed,Manual,122.0,154.0,15.29,BS IV,1238000,1276950.8557917774
+760,Hyundai Elite i20 [2018-2020] Magna Plus 1.2,Hyundai,Elite i20,2020,red,hatchback,"14,502",1st,5,petrol,40,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,117.0,18.6,BS V,769000,883749.0310539007
+761,Hyundai Elite i20 [2014-2018] Asta 1.2,Hyundai,Elite i20,2014,blue,hatchback,"38,213",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,635000,616444.3352991045
+762,Maruti Suzuki Celerio [2014-2021] VXi AMT (O),Maruti Suzuki,Celerio,2016,white,hatchback,"54,635",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,481000,454662.96121007204
+763,Honda City [2017-2020] ZX CVT,Honda,City,2018,brown,sedan,"32,939",1st,5,petrol,40,i VTEC Engine,1196,5-Speed,Automatic,117.6,145.0,18,BS V,1185000,744470.8779341877
+764,Skoda Rapid [2011-2016] Elegance Diesel MT,Skoda,Rapid,2012,beige,sedan,"99,495",1st,5,diesel,55,4 cylinder inline diesel engine,1598,5-Speed,Manual,103.0,250.0,14.3,BS III,466000,778225.7093881071
+765,Renault Kwid [2015-2019] RXT Opt,Renault,Kwid,2019,red,hatchback,"23,342",1st,5,petrol,28,Petrol Engine,799,5-Speed,Manual,53.3,72.0,25.17,BS V,489000,452838.5218435526
+766,Hyundai Verna SX Opt Turbo Petrol,Hyundai,Verna,2020,black,sedan,"32,464",1st,5,petrol,45,1.0 l Kappa Turbo GDi	,998,7-Speed,Automatic,118.0,172.0,19.2,BS IV,1454000,1034278.7946582735
+767,Honda WR-V i-DTEC VX,Honda,WR-V,2019,red,suv,"30,457",1st,5,diesel,40,i-DTEC Diesel engine,1498,6-Speed,Manual,97.89,200.0,23.7,BS IV,1032000,814109.9544940293
+768,Toyota Glanza [2019-2022] G,Toyota,Glanza,2021,red,hatchback,"6,738",1st,5,petrol,37,Petrol Engine,1596,5-Speed,Manual,81.8,113.0,21.01,BS V,847000,863070.2494511306
+769,Toyota Glanza [2019-2022] G,Toyota,Glanza,2021,red,hatchback,"6,738",1st,5,petrol,37,Petrol Engine,1596,5-Speed,Manual,81.8,113.0,21.01,BS V,847000,863070.2494511306
+770,Toyota Glanza [2019-2022] G,Toyota,Glanza,2021,red,hatchback,"6,738",1st,5,petrol,37,Petrol Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,847000,863070.2494511306
+771,Toyota Glanza [2019-2022] G,Toyota,Glanza,2021,red,hatchback,"6,738",1st,5,petrol,37,Petrol Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,847000,863070.2494511306
+772,Honda City ZX,Honda,City,2020,brown,sedan,"18,402",1st,5,petrol,40,1.5L i-VTEC DOHC with VTC Petrol Engine,1498,6-Speed,Manual,119.35,145.0,18.4,BS IV,1411000,883749.0310539007
+773,Ford EcoSport [2013-2015] Trend 1.5L TDCi,Ford,EcoSport,2013,silver,suv,"95,381",1st,5,diesel,52,1.5L DV5 (Diesel),1498,5-Speed,Manual,89.0,204.0,22.7,BS III,559000,757546.927785337
+774,Honda Jazz V MT,Honda,Jazz,2016,orange,hatchback,"22,856",1st,5,petrol,40,1.2 i-VTEC Petrol,1199,5-Speed,Manual,88.51,110.0,16.6,BS IV,625000,605192.7248144448
+775,Maruti Suzuki Ciaz Alpha AT Petrol,Maruti Suzuki,Ciaz,2019,white,sedan,"15,251",2nd,5,petrol,43,K15 Smart Hybrid Petrol E,1462,4-Speed,Automatic,103.25,138.0,20,BS IV,999000,904427.812656641
+776,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2017,grey,hatchback,"57,394",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,677000,825361.564978689
+777,Maruti Suzuki Eeco AC 5 STR,Maruti Suzuki,Eeco,2020,grey,muv,"26,856",1st,5,petrol,40,Aluminium 32 bit,1197,5-Speed,Manual,72.42,98.0,16.11,BS IV,495000,883749.0310539007
+778,Hyundai Xcent [2017-2019] SX Petrol,Hyundai,Xcent,2019,grey,sedan,"9,421",1st,5,petrol,43,1.2L Kappa Dual VTVT Petr,1197,5-Speed,Manual,81.86,113.75,20.14,BS V,761000,904427.812656641
+779,Maruti Suzuki Baleno [2015-2019] Alpha Petrol,Maruti Suzuki,Baleno,2016,blue,hatchback,"56,204",2nd,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,647000,514874.86665180326
+780,Honda City V,Honda,City,2017,grey,sedan,"16,936",1st,5,petrol,40,i VTEC Engine,1497,5-Speed,Manual,117.6,145.0,17.4,BS IV,877000,674831.8013743162
+781,Maruti Suzuki Dzire VXI,Maruti Suzuki,Dzire,2021,silver,sedan,"15,443",1st,5,petrol,37,1.2 L Petrol Engine,1197,5-Speed,Manual,88.5,113.0,23.26,BS IV,734000,863070.2494511306
+782,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2016,grey,hatchback,"49,826",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,661000,755722.4884188175
+783,Maruti Suzuki Alto 800 Vxi Plus,Maruti Suzuki,Alto 800,2020,grey,hatchback,"7,140",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.05,BS IV,446000,733219.267449528
+784,Maruti Suzuki Baleno [2019-2022] Alpha Petrol,Maruti Suzuki,Baleno,2019,blue,hatchback,"26,533",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,814000,723792.0963313878
+785,Maruti Suzuki Alto 800 Lxi,Maruti Suzuki,Alto 800,2019,white,hatchback,"15,928",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.33,69.0,22.05,BS IV,391000,663580.1908896565
+786,Hyundai New i20 Asta 1.0 Turbo IMT,Hyundai,New i20,2021,grey,hatchback,"14,133",1st,5,petrol,37,1.0 l Turbo GDi,998,6-Speed,Automatic,118.0,172.0,20.2,BS IV,1034000,863070.2494511306
+787,Maruti Suzuki Alto K10 [2014-2019] VXi,Maruti Suzuki,Alto K10,2015,blue,hatchback,"29,978",2nd,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,350000,385023.8846502304
+788,Maruti Suzuki Dzire [2017-2020] ZXi Plus,Maruti Suzuki,Dzire,2018,grey,sedan,"32,454",1st,5,petrol,37,1.2 Litre Petrol Engine,1197,5-Speed,Automatic,88.5,113.0,23.26,BS V,763000,654153.0197715461
+789,Maruti Suzuki Swift Dzire [2012-2017] VDI,Maruti Suzuki,Swift Dzire,2012,beige,sedan,"70,628",1st,5,diesel,42,DDiS Diesel Engine,1248,5-Speed,Manual,74.0,190.0,23.4,BS IV,487000,386848.32401674986
+790,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2020,grey,hatchback,"11,762",1st,5,diesel,40,TDCi Diesel Engine,1596,5-Speed,Manual,98.96,215.0,24.4,BS V,787000,883749.0310539007
+791,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2020,grey,hatchback,"11,762",1st,5,diesel,40,TDCi Diesel Engine,1596,5-Speed,Manual,98.96,215.0,24.4,BS V,787000,883749.0310539007
+792,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2020,grey,hatchback,"11,762",1st,5,diesel,40,TDCi Diesel Engine,1499,5-Speed,Manual,98.96,215.0,24.4,BS V,787000,883749.0310539007
+793,Ford Figo [2019-2021] Titanium Diesel,Ford,Figo,2020,grey,hatchback,"11,762",1st,5,diesel,40,TDCi Diesel Engine,1499,5-Speed,Manual,98.96,215.0,24.4,BS V,787000,883749.0310539007
+794,Hyundai Grand i10 [2017-2020] Magna 1.2 Kappa VTVT,Hyundai,Grand i10,2017,white,hatchback,"18,411",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,113.75,18.9,BS V,526000,765149.6595369279
+795,Hyundai Grand i10 [2017-2020] Magna 1.2 Kappa VTVT,Hyundai,Grand i10,2018,grey,hatchback,"42,101",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,113.75,18.9,BS V,571000,834788.7360967994
+796,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2018,brown,sedan,"73,664",1st,5,petrol,42,1.5 Dual VVT-i Engine,1596,5-Speed,Manual,105.94,140.0,18.1,BS IV,1011000,804682.7833759189
+797,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2018,brown,sedan,"73,664",1st,5,petrol,42,1.5 Dual VVT-i Engine,1596,5-Speed,Manual,105.94,140.0,18.1,BS IV,1011000,804682.7833759189
+798,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2018,brown,sedan,"73,664",1st,5,petrol,42,1.5 Dual VVT-i Engine,1496,5-Speed,Manual,105.94,140.0,18.1,BS IV,1011000,804682.7833759189
+799,Toyota Yaris [2018-2021] VX CVT,Toyota,Yaris,2018,brown,sedan,"73,664",1st,5,petrol,42,1.5 Dual VVT-i Engine,1496,5-Speed,Manual,105.94,140.0,18.1,BS IV,1011000,804682.7833759189
+800,Maruti Suzuki Ciaz [2014-2017] ZXI+,Maruti Suzuki,Ciaz,2016,brown,sedan,"69,045",1st,5,petrol,43,k14B VVT Engine,1373,5-Speed,Manual,91.1,130.0,20.73,BS IV,699000,695510.5829770565
+801,Hyundai Elite i20 [2014-2018] Asta 1.2 (O),Hyundai,Elite i20,2016,white,hatchback,"25,382",1st,5,petrol,45,"1.2 Kappa petrol with dual VTVT, 16 Valves, 4 Cylinder",1197,5-Speed,Manual,82.0,115.0,18.6,BS IV,726000,755722.4884188175
+802,Hyundai Xcent [2014-2017] SX Petrol,Hyundai,Xcent,2015,red,sedan,"68,611",1st,5,petrol,43,1.2 Kappa Dual VTVT Petrol,1197,5-Speed,Manual,81.0,114.0,19.1,BS IV,517000,625871.5064172149
+803,Hyundai Grand i10 [2013-2017] Asta AT 1.2 Kappa VTVT,Hyundai,Grand i10,2016,white,hatchback,"30,045",2nd,5,petrol,43,Kappa VTVT Petrol Engine,1197,4-Speed,Automatic,82.0,114.0,18.9,BS IV,573000,695510.5829770565
+804,Hyundai Eon [2011-2018] Sportz,Hyundai,Eon,2018,red,hatchback,"11,225",1st,5,petrol,32,Petrol Engine,814,5-Speed,Manual,55.2,74.5,21.1,BS IV,454000,503623.2561672032
+805,Renault Lodgy [2015-2019] 110 PS RXZ,Renault,Lodgy,2015,silver,muv,"73,760",1st,8,diesel,50,dCi Diesel with VGT,1461,6-Speed,Manual,108.0,245.0,19.98,BS V,625000,836613.1754633188
+806,Ford EcoSport [2017-2021] Titanium 1.5L TDCi,Ford,EcoSport,2019,blue,suv,"67,732",1st,5,diesel,52,TDCi Diesel Engine,1498,5-Speed,Automatic,98.86,215.0,21.7,BS IV,955000,1175381.387144506
+807,Maruti Suzuki Alto K10 [2010-2014] VXi,Maruti Suzuki,Alto K10,2011,red,hatchback,"67,463",2nd,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,20.92,BS IV,274000,106467.57841077447
+808,Renault Kiger RXZ AMT Dual Tone,Renault,Kiger,2021,grey,suv,"30,322",1st,5,petrol,40,1.0L Energy	,1298,5-Speed,Automatic,71.0,96.0,19.03,BS IV,926000,953388.1076137722
+809,Maruti Suzuki S-Presso VXI+,Maruti Suzuki,S-Presso,2019,white,hatchback,"15,878",2nd,5,petrol,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,21.01,BS IV,465000,422732.5691226721
+810,Volkswagen Polo [2015-2019] Highline1.2L (P),Volkswagen,Polo,2016,silver,hatchback,"44,885",1st,5,petrol,45,MPI Petrol Engine,1199,5-Speed,Manual,74.0,110.0,16.2,BS V,663000,755722.4884188175
+811,Maruti Suzuki Baleno [2019-2022] Zeta AT Petrol,Maruti Suzuki,Baleno,2019,blue,hatchback,"31,171",1st,5,petrol,37,1.2L VVT Engine,1596,5-Speed,Manual,81.8,113.0,21.01,BS V,812000,723792.0963313878
+812,Maruti Suzuki Baleno [2019-2022] Zeta AT Petrol,Maruti Suzuki,Baleno,2019,blue,hatchback,"31,171",1st,5,petrol,37,1.2L VVT Engine,1596,5-Speed,Manual,81.8,113.0,21.01,BS V,812000,723792.0963313878
+813,Maruti Suzuki Baleno [2019-2022] Zeta AT Petrol,Maruti Suzuki,Baleno,2019,blue,hatchback,"31,171",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,812000,723792.0963313878
+814,Maruti Suzuki Baleno [2019-2022] Zeta AT Petrol,Maruti Suzuki,Baleno,2019,blue,hatchback,"31,171",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,812000,723792.0963313878
+815,Honda City [2014-2017] VX CVT,Honda,City,2016,silver,sedan,"43,992",1st,5,petrol,40,i VTEC Engine,1497,5-Speed,Manual,117.3,145.0,18,BS IV,896000,605192.7248144448
+816,Maruti Suzuki Ciaz Alpha Petrol,Maruti Suzuki,Ciaz,2020,silver,sedan,"17,050",1st,5,petrol,43,K15 Smart Hybrid Petrol E,1696,5-Speed,Manual,103.25,138.0,20.65,BS IV,978000,974066.8892165124
+817,Maruti Suzuki S-Presso VXI+,Maruti Suzuki,S-Presso,2020,grey,hatchback,"6,470",1st,5,petrol,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,21.01,BS IV,541000,492371.6456825435
+818,Nissan Magnite XV Premium Turbo CVT,Nissan,Magnite,2022,brown,suv,"3,832",1st,5,petrol,40,1.0L HRAO Turbo,1298,5-Speed,Automatic,99.0,160.0,20,BS IV,1106000,1023027.1841736138
+819,Maruti Suzuki Celerio [2014-2021] VXi AMT,Maruti Suzuki,Celerio,2015,blue,hatchback,"47,060",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,464000,385023.8846502304
+820,Hyundai Venue SX 1.0  Turbo,Hyundai,Venue,2020,blue,suv,"37,489",1st,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,998,6-Speed,Manual,118.35,171.6,18.27,BS IV,994000,1034278.7946582735
+821,Hyundai Elite i20 [2018-2020] Sportz Plus 1.2,Hyundai,Elite i20,2020,grey,hatchback,"30,169",1st,5,petrol,40,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,117.0,18.6,BS V,809000,883749.0310539007
+822,Honda Amaze [2013-2018] 1.2 VX i-VTEC,Honda,Amaze,2015,white,sedan,"53,600",2nd,5,petrol,35,"4-Cylinder, SOHC i-VTEC",1198,5-Speed,Manual,86.9,109.0,18.0,BS IV,544000,385023.8846502304
+823,Maruti Suzuki Swift Dzire [2012-2017] VDI,Maruti Suzuki,Swift Dzire,2013,silver,sedan,"61,796",1st,5,diesel,42,DDiS Diesel Engine,1248,5-Speed,Manual,74.0,190.0,23.4,BS IV,538000,456487.4005765915
+824,Volkswagen Ameo [2016-2020] Highline1.2L (P),Volkswagen,Ameo,2016,brown,sedan,"26,094",1st,5,petrol,45,MPI Petrol Engine,1198,5-Speed,Automatic,73.75,110.0,17,BS V,607000,755722.4884188175
+825,Maruti Suzuki Ciaz [2014-2017] ZXI+ AT,Maruti Suzuki,Ciaz,2016,brown,sedan,"99,144",1st,5,petrol,43,K 14B VVT,1373,5-Speed,Automatic,91.0,130.0,19.12,BS IV,754000,695510.5829770565
+826,Hyundai Xcent [2017-2019] SX (O) Petrol,Hyundai,Xcent,2017,white,sedan,"49,335",2nd,5,petrol,43,1.2L Kappa Dual VTVT Petr,1197,5-Speed,Manual,81.86,113.75,20.14,BS V,618000,765149.6595369279
+827,Maruti Suzuki Baleno [2019-2022] Alpha Petrol,Maruti Suzuki,Baleno,2019,blue,hatchback,"13,197",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,814000,723792.0963313878
+828,Toyota Etios Liva [2010-2017] G,Toyota,Etios Liva,2011,silver,hatchback,"50,857",1st,5,petrol,45,4 cylinder petrol engine	,1197,5-Speed,Manual,80.0,104.0,17.71,BS IV,406000,407527.10561951995
+829,Hyundai Venue SX 1.0  Turbo,Hyundai,Venue,2019,blue,suv,"12,156",1st,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,998,6-Speed,Manual,118.35,171.6,18.27,BS IV,997000,964639.718098402
+830,Hyundai Grand i10 [2013-2017] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2017,white,hatchback,"39,525",2nd,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,18.9,BS IV,523000,765149.6595369279
+831,Maruti Suzuki Alto K10 [2014-2019] VXi,Maruti Suzuki,Alto K10,2019,red,hatchback,"27,951",1st,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,425000,663580.1908896565
+832,Hyundai New i20 Asta 1.0 Turbo IMT,Hyundai,New i20,2021,silver,hatchback,"25,975",1st,5,petrol,37,1.0 l Turbo GDi,998,6-Speed,Automatic,118.0,172.0,20.2,BS IV,1026000,863070.2494511306
+833,Hyundai i10 [2010-2016] Sportz 1.2 Petrol,Hyundai,i10,2011,grey,hatchback,"89,303",1st,5,petrol,35,DOHC Kappa2 Engine,1197,5-Speed,Manual,78.9,111.8,20.36,BS III,353000,106467.57841077447
+834,Maruti Suzuki Celerio [2014-2021] VXi AMT,Maruti Suzuki,Celerio,2015,silver,hatchback,"24,655",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,490000,385023.8846502304
+835,Renault Duster [2015-2019] 85 PS RXZ 4X2 MT,Renault,Duster,2017,grey,suv,"54,260",2nd,5,diesel,50,1.5 dCI K9K THP Diesel engine,1461,5-Speed,Manual,84.0,200.0,19.87 ,BS V,862000,975891.3285830319
+836,Maruti Suzuki Eeco 5 STR WITH A/C+HTR,Maruti Suzuki,Eeco,2017,grey,muv,"39,484",1st,5,petrol,40,Aluminium 32 bit,1196,5-Speed,Manual,72.42,98.0,16.11,BS IV,425000,674831.8013743162
+837,Hyundai Grand i10 [2013-2017] Asta 1.2 Kappa VTVT (O),Hyundai,Grand i10,2015,grey,hatchback,"32,754",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,18.9,BS IV,548000,625871.5064172149
+838,Hyundai Grand i10 [2013-2017] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2014,orange,hatchback,"66,963",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,82.0,114.0,18.9,BS IV,465000,556232.4298573434
+839,Hyundai New Santro 1.1 Asta MT,Hyundai,New Santro 1.1,2018,beige,hatchback,"33,581",1st,5,petrol,35,1.1 L Petrol,1086,5-Speed,Manual,68.07,99.07,20.3,BS IV,505000,593941.1143298149
+840,Mahindra Scorpio [2014-2017] S4 Plus,Mahindra,Scorpio,2017,white,suv,"41,060",1st,7,diesel,60,4 cylinder mHawk CRDe diesel engine,2179,5-Speed,Manual,120.0,280.0,15.4,BS IV,1166000,1276950.8557917774
+841,Hyundai Venue [2019-2021] SX 1.0 (O) Turbo,Hyundai,Venue,2020,blue,suv,"49,130",1st,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,1798,6-Speed,Manual,118.35,171.6,18.27,BS V,1099000,1034278.7946582735
+842,Maruti Suzuki Alto 800 Vxi,Maruti Suzuki,Alto 800,2021,grey,hatchback,"4,773",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.05,BS IV,459000,802858.3440093994
+843,Maruti Suzuki Eeco AC 5 STR,Maruti Suzuki,Eeco,2021,silver,muv,"14,560",1st,5,petrol,40,Aluminium 32 bit,1197,5-Speed,Manual,72.42,98.0,16.11,BS IV,506000,953388.1076137722
+844,Renault Duster [2012-2015] 85 PS RxL (Opt),Renault,Duster,2013,silver,suv,"88,547",1st,5,diesel,50,1.5 dCI K9K HP Diesel engine,1461,5-Speed,Manual,84.0,200.0,20.45,BS III,618000,697335.022343576
+845,Volkswagen Ameo [2016-2020] Highline1.2L (P),Volkswagen,Ameo,2016,brown,sedan,"46,922",2nd,5,petrol,45,MPI Petrol Engine,1198,5-Speed,Automatic,73.75,110.0,17,BS V,544000,755722.4884188175
+846,Hyundai i10 [2010-2016] Era Petrol,Hyundai,i10,2012,black,hatchback,"64,378",1st,5,petrol,35,4 cylinder inline petrol engine,1086,5-Speed,Manual,68.05,99.04,19.81,BS III,334000,176106.6549706459
+847,Maruti Suzuki Baleno [2015-2019] Alpha Petrol,Maruti Suzuki,Baleno,2018,blue,hatchback,"41,244",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,764000,654153.0197715461
+848,Maruti Suzuki Alto K10 [2010-2014] VXi,Maruti Suzuki,Alto K10,2011,black,hatchback,"60,256",2nd,5,petrol,35,K Series Petrol Engine,998,5-Speed,Manual,67.1,90.0,20.92,BS IV,245000,106467.57841077447
+849,Ford Figo [2010-2015] Duratec Petrol ZXI 1.2,Ford,Figo,2011,green,hatchback,"84,494",2nd,5,petrol,45,16V DOHC,1196,5-Speed,Manual,71.0,102.0,11,BS III,290000,407527.10561951995
+850,Maruti Suzuki Ertiga [2015-2018] ZDI + SHVS,Maruti Suzuki,Ertiga,2018,blue,muv,"58,025",1st,7,diesel,45,DDiS Diesel Engine,1248,5-Speed,Manual,89.0,200.0,24.52,BS IV,1091000,895000.6415385604
+851,Hyundai Xcent [2014-2017] S Petrol,Hyundai,Xcent,2015,white,sedan,"89,133",1st,5,petrol,43,1.2 Kappa Dual VTVT Petrol,1197,5-Speed,Manual,81.0,114.0,19.1,BS IV,470000,625871.5064172149
+852,Renault Kwid [2015-2019] 1.0 RXT Opt,Renault,Kwid,2019,white,hatchback,"60,983",1st,5,petrol,28,Petrol Engine,999,5-Speed,Manual,67.0,91.0,23.01,BS V,430000,452838.5218435526
+853,Honda Amaze [2013-2018] 1.2 S i-VTEC,Honda,Amaze,2014,silver,sedan,"61,881",2nd,5,petrol,35,i-VTEC Petrol Engine,1198,5-Speed,Manual,86.7,109.0,18,BS IV,430000,315384.808090359
+854,Renault Triber RXZ,Renault,Triber,2021,white,muv,"32,340",1st,7,petrol,40,1.0L Petrol Engine,999,5-Speed,Manual,71.0,96.0,20,BS IV,749000,953388.1076137722
+855,Hyundai Grand i10 [2017-2020] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2017,silver,hatchback,"37,237",2nd,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,113.75,18.9,BS V,529000,765149.6595369279
+856,Maruti Suzuki Baleno [2015-2019] Delta Diesel,Maruti Suzuki,Baleno,2017,grey,hatchback,"64,528",1st,5,diesel,37,DDiS ,1248,5-Speed,Manual,74.0,190.0,27.39,BS V,722000,584513.9432116747
+857,Datsun GO [2014-2019] T,Datsun,GO,2015,white,hatchback,"73,892",1st,5,petrol,35,DOHC with Dual VTVT,1798,5-Speed,Manual,67.05,104.0,19.02,BS V,279000,385023.8846502304
+858,Maruti Suzuki Baleno [2015-2019] Zeta Petrol,Maruti Suzuki,Baleno,2015,grey,hatchback,"68,796",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,620000,445235.7900919616
+859,Mahindra XUV500 [2011-2015] W8,Mahindra,XUV500,2015,silver,suv,"40,438",1st,7,diesel,70,4 cylinder mHawk CRDe diesel engine,2179,6-Speed,Manual,140.0,330.0,15.1,BS III,1130000,1438732.2298808098
+860,Hyundai Venue SX 1.0  Turbo,Hyundai,Venue,2020,red,suv,"12,699",1st,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,998,6-Speed,Manual,118.35,171.6,18.27,BS IV,1043000,1034278.7946582735
+861,Maruti Suzuki Alto 800 [2016-2019] VXI (O),Maruti Suzuki,Alto 800,2018,grey,hatchback,"23,745",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22,BS V,401000,593941.1143298149
+862,Maruti Suzuki Omni [2011-2019] 5 STR BS-IV,Maruti Suzuki,Omni,2016,silver,muv,"38,717",1st,5,petrol,36,"4 stroke cycle, Water cooled",796,4-Speed,Manual,34.0,59.0,16.8,BS V,335000,484768.91393095255
+863,Honda WR-V i-DTEC VX,Honda,WR-V,2019,red,suv,"73,732",1st,5,diesel,40,i-DTEC Diesel engine,1498,6-Speed,Manual,97.89,200.0,23.7,BS IV,915000,814109.9544940293
+864,Renault Kwid 1.0 RXT Opt,Renault,Kwid,2021,red,hatchback,"16,742",1st,5,petrol,28,Petrol Engine,1298,5-Speed,Automatic,67.0,91.0,22,BS IV,528000,592116.6749632955
+865,Honda City [2017-2020] VX,Honda,City,2017,brown,sedan,"65,581",3rd,5,petrol,40,i VTEC Engine,1497,5-Speed,Automatic,117.6,145.0,17.4,BS V,785000,674831.8013743162
+866,Hyundai Elite i20 [2014-2018] Sportz 1.2,Hyundai,Elite i20,2017,red,hatchback,"39,427",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,700000,825361.564978689
+867,Maruti Suzuki Celerio [2014-2021] VXi AMT,Maruti Suzuki,Celerio,2014,white,hatchback,"52,004",1st,5,petrol,35,K10B,998,5-Speed,Automatic,67.04,90.0,23.1,BS IV,439000,315384.808090359
+868,Maruti Suzuki Alto 800 [2012-2016] LXI,Maruti Suzuki,Alto 800,2013,red,hatchback,"40,545",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.74,BS III,319000,245745.73153048754
+869,Maruti Suzuki S-Presso VXI,Maruti Suzuki,S-Presso,2021,grey,hatchback,"15,836",1st,5,petrol,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,21.7,BS IV,520000,562010.722242415
+870,Maruti Suzuki Eeco AC 5 STR,Maruti Suzuki,Eeco,2020,grey,muv,"11,212",1st,5,petrol,40,Aluminium 32 bit,1197,5-Speed,Manual,72.42,98.0,16.11,BS IV,499000,883749.0310539007
+871,Hyundai Elite i20 [2014-2018] Asta 1.2,Hyundai,Elite i20,2015,white,hatchback,"52,501",1st,5,petrol,45,Kappa VTVT Petrol Engine,1197,5-Speed,Manual,81.83,114.7,18.6,BS IV,662000,686083.4118589759
+872,Renault Kiger RXZ AMT Dual Tone,Renault,Kiger,2021,red,suv,"6,052",1st,5,petrol,40,1.0L Energy	,1298,5-Speed,Automatic,71.0,96.0,19.03,BS IV,936000,953388.1076137722
+873,Maruti Suzuki Dzire [2017-2020] VXI AMT,Maruti Suzuki,Dzire,2018,blue,sedan,"20,326",1st,5,petrol,37,1.2 Litre Petrol Engine,1197,5-Speed,Automatic,88.5,113.0,24.12,BS V,737000,654153.0197715461
+874,Toyota Etios Liva [2010-2017] V,Toyota,Etios Liva,2011,red,hatchback,"50,009",1st,5,petrol,45,"4-Cylinder 16V, DOHC",1596,5-Speed,Automatic,79.0,104.0,17.71,BS IV,439000,407527.10561951995
+875,Toyota Etios Liva [2010-2017] V,Toyota,Etios Liva,2011,red,hatchback,"50,009",1st,5,petrol,45,"4-Cylinder 16V, DOHC",1596,5-Speed,Automatic,79.0,104.0,17.71,BS IV,439000,407527.10561951995
+876,Toyota Etios Liva [2010-2017] V,Toyota,Etios Liva,2011,red,hatchback,"50,009",1st,5,petrol,45,"4-Cylinder 16V, DOHC",1496,5-Speed,Manual,79.0,104.0,17.71,BS IV,439000,407527.10561951995
+877,Toyota Etios Liva [2010-2017] V,Toyota,Etios Liva,2011,red,hatchback,"50,009",1st,5,petrol,45,"4-Cylinder 16V, DOHC",1496,5-Speed,Manual,79.0,104.0,17.71,BS IV,439000,407527.10561951995
+878,Maruti Suzuki S-Presso VXI+,Maruti Suzuki,S-Presso,2021,grey,hatchback,"15,113",1st,5,petrol,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,21.01,BS IV,543000,562010.722242415
+879,Hyundai Verna [2011-2015] Fluidic 1.6 VTVT SX,Hyundai,Verna,2014,white,sedan,"50,071",1st,5,petrol,43,Front Wheel Drive,1591,5-Speed,Automatic,121.0,158.0,17.01,BS III,689000,556232.4298573434
+880,Maruti Suzuki Eeco AC 5 STR,Maruti Suzuki,Eeco,2020,white,muv,"9,832",1st,5,petrol,40,Aluminium 32 bit,1197,5-Speed,Manual,72.42,98.0,16.11,BS IV,495000,883749.0310539007
+881,Ford Freestyle [2017-2021] Titanium 1.2,Ford,Freestyle,2018,grey,crossover,"43,273",1st,5,petrol,42,1.2 litre Petrol Engine,1298,5-Speed,Automatic,94.93,119.0,18.5,BS IV,617000,804682.7833759189
+882,Maruti Suzuki Ritz [2012-2017] Vxi,Maruti Suzuki,Ritz,2014,silver,hatchback,"44,193",1st,5,petrol,43,inline 4 cylinder petrol engine,1197,5-Speed,Manual,85.0,113.0,18.5,BS IV,469000,556232.4298573434
+883,Hyundai Xcent [2017-2019] S AT Petrol,Hyundai,Xcent,2017,red,sedan,"36,208",1st,5,petrol,43,1.2L Kappa Dual VTVT Petr,1596,4-Speed,Manual,81.86,113.75,20.14,BS V,669000,765149.6595369279
+884,Hyundai Xcent [2017-2019] S AT Petrol,Hyundai,Xcent,2017,red,sedan,"36,208",1st,5,petrol,43,1.2L Kappa Dual VTVT Petr,1596,4-Speed,Manual,81.86,113.75,20.14,BS V,669000,765149.6595369279
+885,Hyundai Xcent [2017-2019] S AT Petrol,Hyundai,Xcent,2017,red,sedan,"36,208",1st,5,petrol,43,1.2L Kappa Dual VTVT Petr,1197,4-Speed,Manual,81.86,113.75,20.14,BS V,669000,765149.6595369279
+886,Hyundai Xcent [2017-2019] S AT Petrol,Hyundai,Xcent,2017,red,sedan,"36,208",1st,5,petrol,43,1.2L Kappa Dual VTVT Petr,1197,4-Speed,Manual,81.86,113.75,20.14,BS V,669000,765149.6595369279
+887,Hyundai i20 Active [2015-2020] 1.2 SX,Hyundai,i20 Active,2017,brown,crossover,"43,613",1st,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Automatic,82.0,115.0,17.19,BS V,752000,825361.564978689
+888,Honda City [2017-2020] ZX CVT,Honda,City,2018,brown,sedan,"46,006",1st,5,petrol,40,i VTEC Engine,1196,5-Speed,Automatic,117.6,145.0,18,BS V,1132000,744470.8779341877
+889,Hyundai i20 Active [2015-2020] 1.2 SX,Hyundai,i20 Active,2018,brown,crossover,"35,015",2nd,5,petrol,45,1.2L Kappa 5 Speed Manual Transmission,1197,5-Speed,Automatic,82.0,115.0,17.19,BS V,760000,895000.6415385604
+890,Hyundai Eon [2011-2018] Era + (O),Hyundai,Eon,2017,white,hatchback,"55,670",1st,5,petrol,32,Petrol Engine,1798,5-Speed,Manual,55.2,74.5,21.1,BS IV,367000,433984.17960733175
+891,Hyundai Grand i10 [2017-2020] Magna 1.2 Kappa VTVT,Hyundai,Grand i10,2018,silver,hatchback,"38,961",1st,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,113.75,18.9,BS V,568000,834788.7360967994
+892,Hyundai Verna SX Opt IVT Petrol,Hyundai,Verna,2020,blue,sedan,"41,843",1st,5,petrol,45,1.5 l MPi	,1497,5-Speed,Automatic,113.0,144.0,18.4,BS IV,1448000,1034278.7946582735
+893,Hyundai Grand i10 [2017-2020] Sportz 1.2 Kappa VTVT,Hyundai,Grand i10,2018,white,hatchback,"13,846",2nd,5,petrol,43,Kappa VTVT Petrol Engine,1197,5-Speed,Automatic,81.86,113.75,18.9,BS V,579000,834788.7360967994
+894,Maruti Suzuki Alto K10 [2014-2019] VXI AMT (O),Maruti Suzuki,Alto K10,2019,orange,hatchback,"16,712",2nd,5,petrol,35,K Series Petrol Engine,1798,5-Speed,Manual,67.1,90.0,23.95,BS V,475000,663580.1908896565
+895,Ford EcoSport [2013-2015] Titanium 1.5L TDCi (Opt),Ford,EcoSport,2015,red,suv,"92,474",2nd,5,diesel,52,1.5L DV5 (Diesel),1498,5-Speed,Manual,89.0,204.0,22.7,BS III,635000,896825.0809050798
+896,Maruti Suzuki Ciaz [2014-2017] ZXi,Maruti Suzuki,Ciaz,2014,black,sedan,"44,815",1st,5,petrol,43,k14B VVT Engine,1373,5-Speed,Manual,91.0,130.0,20.73,BS IV,647000,556232.4298573434
+897,Honda City VX,Honda,City,2020,white,sedan,"13,209",1st,5,petrol,40,1.5L i-VTEC Petrol Engine,1498,6-Speed,Manual,119.3,145.0,18.4,BS IV,1314000,883749.0310539007
+898,Hyundai Eon [2011-2018] Era + SE,Hyundai,Eon,2013,red,hatchback,"48,721",1st,5,petrol,32,Petrol Engine,814,5-Speed,Manual,55.2,74.5,21.1,BS IV,326000,155427.8733678758
+899,Mahindra Scorpio [2014-2017] S10,Mahindra,Scorpio,2015,blue,suv,"41,651",1st,7,diesel,60,4 cylinder mHawk CRDe diesel engine,2179,5-Speed,Manual,120.0,280.0,15.4,BS IV,1127000,1137672.7026720643
+900,Hyundai New Santro 1.1 Sportz MT,Hyundai,New Santro 1.1,2019,blue,hatchback,"8,842",1st,5,petrol,35,1.1 L Petrol,1086,5-Speed,Manual,68.07,99.07,20.3,BS IV,565000,663580.1908896565
+901,Volkswagen Ameo [2016-2020] Comfortline 1.2L (P),Volkswagen,Ameo,2016,blue,sedan,"64,313",1st,5,petrol,45,MPI Petrol Engine,1298,5-Speed,Automatic,73.75,110.0,17,BS V,553000,755722.4884188175
+902,Maruti Suzuki S-Cross [2015-2020] Zeta 1.3,Maruti Suzuki,S-Cross,2016,brown,suv,"52,220",1st,5,diesel,48,DDiS 200,1248,5-Speed,Automatic,89.0,200.0,23.65,BS V,831000,846040.3465814292
+903,Ford Figo Aspire [2019-2021] Titanium Plus 1.2 Ti-VCT,Ford,Figo Aspire,2019,red,sedan,"10,370",1st,5,petrol,42,Ti-VCT Petrol Engine,1798,5-Speed,Manual,94.93,119.0,18.5,BS V,776000,874321.8599357605
+904,Honda Amaze [2013-2018] 1.2 S i-VTEC,Honda,Amaze,2016,brown,sedan,"60,656",1st,5,petrol,35,i-VTEC Petrol Engine,1198,5-Speed,Manual,86.7,109.0,18,BS IV,533000,454662.96121007204
+905,Maruti Suzuki Alto 800 Vxi Plus,Maruti Suzuki,Alto 800,2020,red,hatchback,"12,433",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.05,BS IV,443000,733219.267449528
+906,Volkswagen Polo [2010-2014] Highline1.2L (P),Volkswagen,Polo,2013,grey,hatchback,"53,735",1st,5,petrol,45,MPI Petrol Engine,1198,5-Speed,Manual,73.9,110.0,16.47,BS IV,524000,546805.258739233
+907,Skoda Superb [2014-2016] Elegance 1.8 TSI AT,Skoda,Superb,2014,red,sedan,"46,103",2nd,5,petrol,60,"Turbocharged petrol engine, in-line, liquid cooling system, direct injection, 16V DOHC, transverse in front",1798,7-Speed,Automatic,158.0,250.0,13.1,BS III,1299000,1068033.6261121929
+908,Maruti Suzuki Alto 800 Vxi,Maruti Suzuki,Alto 800,2019,red,hatchback,"2,174",1st,5,petrol,35,F8D Petrol Engine,796,5-Speed,Manual,47.3,69.0,22.05,BS IV,420000,663580.1908896565
+909,Volkswagen Polo [2010-2014] Comfortline 1.2L (P),Volkswagen,Polo,2012,silver,hatchback,"64,878",1st,5,petrol,45,MPI Petrol Engine,1199,5-Speed,Manual,74.0,110.0,16.2,BS IV,450000,477166.1821793914
+910,Hyundai Creta [2015-2018] 1.6 SX Plus Auto Petrol,Hyundai,Creta,2017,red,suv,"76,978",1st,5,petrol,60,Petrol Dual VTVT,1591,6-Speed,Manual,122.0,154.0,15.29,BS IV,1212000,1276950.8557917774
+911,Honda Amaze [2018-2021] 1.2 VX i-VTEC,Honda,Amaze,2018,white,sedan,"33,454",1st,5,petrol,35,i-VTEC Petrol Engine,1199,5-Speed,Manual,88.76,110.0,18.6,BS IV,772000,593941.1143298149
+912,Tata Harrier XZ Dual Tone,Tata,Harrier,2019,white,suv,"19,589",1st,5,diesel,50,Kryotec 2.0 L Turbocharge,1956,6-Speed,Manual,138.0,350.0,17,BS IV,1699000,1115169.481702745
+913,Maruti Suzuki S-Presso VXI CNG,Maruti Suzuki,S-Presso,2021,silver,hatchback,"17,101",1st,5,petrol+cng,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,31.19 ,BS IV,612000,562010.722242415
+914,Maruti Suzuki Ertiga [2012-2015] ZDi,Maruti Suzuki,Ertiga,2015,brown,muv,"51,844",1st,7,diesel,45,DDiS Diesel Engine,1248,5-Speed,Manual,89.0,200.0,20.77,BS III,911000,686083.4118589759
+915,Ford EcoSport [2015-2017] Titanium + 1.5L TDCi,Ford,EcoSport,2016,red,suv,"91,463",2nd,5,diesel,52,1.5L DV5 (Diesel),1498,5-Speed,Manual,99.0,205.0,22.7,BS IV,707000,966464.1574649215
+916,Hyundai Creta [2015-2018] 1.6 SX Plus,Hyundai,Creta,2017,grey,suv,"88,895",2nd,5,diesel,60,U2 VGT CRDi,1582,6-Speed,Manual,126.0,265.0,19.67,BS IV,1098000,1276950.8557917774
+917,Chevrolet Beat [2014-2017] LS Petrol,Chevrolet,Beat,2014,green,hatchback,"45,080",1st,5,petrol,35,S-TEC II,1199,5-Speed,Manual,79.0,108.0,18.6,BS IV,335000,315384.808090359
+918,Volkswagen Ameo [2016-2020] Highline1.2L (P),Volkswagen,Ameo,2016,grey,sedan,"81,709",1st,5,petrol,45,MPI Petrol Engine,1198,5-Speed,Automatic,73.75,110.0,17,BS V,545000,755722.4884188175
+919,Nissan Micra Active [2012-2020] XV Safety Pack,Nissan,Micra Active,2015,silver,hatchback,"48,656",1st,5,petrol,41,3 cylinder petrol engine,1198,5-Speed,Automatic,67.0,104.0,19.49,BS V,475000,565659.6009754539
+920,Ford Freestyle [2017-2021] Titanium 1.2,Ford,Freestyle,2019,red,crossover,"17,504",1st,5,petrol,42,1.2 litre Petrol Engine,1298,5-Speed,Automatic,94.93,119.0,18.5,BS IV,667000,874321.8599357605
+921,Tata Nano [2008-2014] LX,Tata,Nano,2013,blue,hatchback,"33,744",1st,4,petrol,15,"624 cc, 2 cylinder, MPFI",624,4-Speed,Manual,35.0,48.0,18.4,BS IV,188000,-356373.3228869736
+922,Hyundai Venue SX 1.0  Turbo,Hyundai,Venue,2019,blue,suv,"18,398",2nd,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,998,6-Speed,Manual,118.35,171.6,18.27,BS IV,907000,964639.718098402
+923,Volkswagen Ameo [2016-2020] Highline1.2L (P),Volkswagen,Ameo,2017,brown,sedan,"41,757",1st,5,petrol,45,MPI Petrol Engine,1198,5-Speed,Automatic,73.75,110.0,17,BS V,619000,825361.564978689
+924,Hyundai i20 Active [2015-2020] 1.4 SX,Hyundai,i20 Active,2015,red,crossover,"41,086",1st,5,diesel,45,1.4 U II 6 Speed Manual Transmission,1396,6-Speed,Automatic,89.0,220.0,21.19,BS V,748000,686083.4118589759
+925,Maruti Suzuki Baleno [2019-2022] Delta Petrol,Maruti Suzuki,Baleno,2019,silver,hatchback,"25,418",1st,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,731000,723792.0963313878
+926,Maruti Suzuki Alto K10 [2014-2019] VXi,Maruti Suzuki,Alto K10,2018,red,hatchback,"23,606",1st,5,petrol,35,K10B,998,5-Speed,Manual,67.0,90.0,24.07,BS V,395000,593941.1143298149
+927,Renault Triber RXZ,Renault,Triber,2020,red,muv,"18,798",1st,7,petrol,40,1.0L Petrol Engine,999,5-Speed,Manual,71.0,96.0,20,BS IV,758000,883749.0310539007
+928,Maruti Suzuki S-Presso VXI+,Maruti Suzuki,S-Presso,2019,orange,hatchback,"24,105",1st,5,petrol,27,K10B Petrol Engine,998,5-Speed,Manual,67.0,90.0,21.01,BS IV,495000,422732.5691226721
+929,Volkswagen Polo [2018-2022] Comfortline 1.0L (P),Volkswagen,Polo,2018,silver,hatchback,"26,394",1st,5,petrol,45,1.0L MPI Petrol,999,5-Speed,Manual,75.01,95.0,17.74,BS IV,699000,895000.6415385604
+930,Hyundai Xcent [2017-2019] S AT Petrol,Hyundai,Xcent,2017,silver,sedan,"22,538",2nd,5,petrol,43,1.2L Kappa Dual VTVT Petr,1596,4-Speed,Manual,81.86,113.75,20.14,BS V,651000,765149.6595369279
+931,Hyundai Xcent [2017-2019] S AT Petrol,Hyundai,Xcent,2017,silver,sedan,"22,538",2nd,5,petrol,43,1.2L Kappa Dual VTVT Petr,1596,4-Speed,Manual,81.86,113.75,20.14,BS V,651000,765149.6595369279
+932,Hyundai Xcent [2017-2019] S AT Petrol,Hyundai,Xcent,2017,silver,sedan,"22,538",2nd,5,petrol,43,1.2L Kappa Dual VTVT Petr,1197,4-Speed,Manual,81.86,113.75,20.14,BS V,651000,765149.6595369279
+933,Hyundai Xcent [2017-2019] S AT Petrol,Hyundai,Xcent,2017,silver,sedan,"22,538",2nd,5,petrol,43,1.2L Kappa Dual VTVT Petr,1197,4-Speed,Manual,81.86,113.75,20.14,BS V,651000,765149.6595369279
+934,Hyundai Santro Xing [2007-2014] GLS,Hyundai,Santro Xing,2012,red,hatchback,"34,060",1st,5,petrol,35,Petrol Engine,1086,5-Speed,Manual,62.1,96.1,17.92,BS IV,332000,176106.6549706459
+935,Hyundai i20 [2008-2012] Magna 1.2,Hyundai,i20,2011,white,hatchback,"46,251",2nd,5,petrol,45,In-Line Engine,1197,5-Speed,Manual,80.0,112.0,18.5,BS IV,371000,407527.10561951995
+936,Ford Freestyle [2017-2021] Titanium 1.2,Ford,Freestyle,2020,red,crossover,"6,886",1st,5,petrol,42,1.2 litre Petrol Engine,1298,5-Speed,Automatic,94.93,119.0,18.5,BS IV,753000,943960.9364956319
+937,Hyundai Venue [2019-2021] SX 1.0 (O) Turbo,Hyundai,Venue,2020,white,suv,"26,020",1st,5,petrol,45,Kappa 1.0 L Turbo GDi Petrol,1798,6-Speed,Manual,118.35,171.6,18.27,BS V,1117000,1034278.7946582735
+938,Hyundai Eon [2011-2018] Era +,Hyundai,Eon,2013,white,hatchback,"33,440",1st,5,petrol,32,Petrol Engine,814,5-Speed,Manual,55.2,74.5,21.1,BS IV,305000,155427.8733678758
+939,Ford EcoSport [2017-2021] Titanium 1.5L Ti-VCT,Ford,EcoSport,2019,grey,suv,"11,800",1st,5,petrol,52,Ti-VCT Petrol Engine,1496,5-Speed,Automatic,120.69,149.0,15.9,BS IV,945000,1175381.387144506
+940,MG Motors Hector 1.5 Sharp DCT AT,MG Motors,Hector,2019,white,suv,"7,339",1st,5,petrol,60,FWD,1451,6-Speed,Automatic,141.0,250.0,13.96,BS IV,1799000,1416229.0089114904
+941,Maruti Suzuki Baleno [2015-2019] Alpha Petrol,Maruti Suzuki,Baleno,2017,orange,hatchback,"41,465",2nd,5,petrol,37,1.2L VVT Engine,1197,5-Speed,Manual,81.8,113.0,21.01,BS V,681000,584513.9432116747
+942,Maruti Suzuki Ertiga [2012-2015] ZXi,Maruti Suzuki,Ertiga,2013,grey,muv,"67,020",1st,7,petrol,45,K-Series Petrol Engine with VVT,1373,5-Speed,Manual,93.7,130.0,16.02,BS III,694000,546805.258739233
+943,Maruti Suzuki Omni [2011-2019] E 8 STR BS-IV,Maruti Suzuki,Omni,2014,white,muv,"23,885",1st,8,petrol,36,"4 stroke cycle, Water cooled",796,4-Speed,Manual,34.0,59.0,16.8,BS V,328000,345490.7608112395
+944,Tata Harrier XZ,Tata,Harrier,2019,orange,suv,"62,300",1st,5,diesel,50,Kryotec 2.0 L Turbocharge,1956,6-Speed,Manual,138.0,350.0,17,BS IV,1685000,1115169.481702745
+945,Renault Scala [2012-2018] RxZ Diesel,Renault,Scala,2014,black,sedan,"34,080",1st,5,diesel,41,Renault K9K Diesel engine,1461,5-Speed,Manual,85.0,200.0,21.64,BS IV,627000,496020.5244155824
+946,Ford EcoSport [2017-2020] Titanium + 1.5L Ti-VCT AT,Ford,EcoSport,2018,white,suv,"78,061",1st,5,petrol,52,Ti-VCT Petrol Engine,1496,6-Speed,Automatic,120.69,149.0,14.7,BS V,935000,1105742.3105846643
+947,Maruti Suzuki Vitara Brezza [2016-2020] ZDi,Maruti Suzuki,Vitara Brezza,2017,white,suv,"28,476",1st,5,diesel,48,Front Wheel Drive,1248,5-Speed,Automatic,89.0,200.0,24.3,BS V,910000,915679.4231413007
+948,Maruti Suzuki Vitara Brezza [2016-2020] VDi (O),Maruti Suzuki,Vitara Brezza,2016,white,suv,"38,729",1st,5,diesel,48,Front Wheel Drive,1248,5-Speed,Automatic,89.0,200.0,24.3,BS V,810000,846040.3465814292
+949,Maruti Suzuki Ignis [2017-2020] Alpha MT Petrol,Maruti Suzuki,Ignis,2017,blue,hatchback,"26,203",1st,5,petrol,32,1.2-Litre VVT Petrol Engine,1197,5-Speed,Automatic,81.8,113.0,20.89,BS V,650000,433984.17960733175
+950,Tata Nexon [2017-2020] XZ Plus Diesel,Tata,Nexon,2018,red,suv,"35,730",1st,5,diesel,44,1.5L Revotorq Turbocharged,1497,6-Speed,Automatic,108.5,260.0,21.05,BS V,954000,864894.6888176799
+951,Maruti Suzuki Dzire [2017-2020] ZXI,Maruti Suzuki,Dzire,2018,grey,sedan,"16,491",1st,5,petrol,37,1.2 Litre Petrol Engine,1197,5-Speed,Automatic,88.5,113.0,23.26,BS V,746000,654153.0197715461
+952,Hyundai Verna [2017-2020] 1.6 VTVT SX (O),Hyundai,Verna,2018,brown,sedan,"35,623",2nd,5,petrol,43,Front Wheel Drive,1591,6-Speed,Automatic,121.0,158.0,17.4,BS V,963000,834788.7360967994
+953,Maruti Suzuki Swift [2017-2021] ZXi Plus,Maruti Suzuki,Swift,2019,red,hatchback,"15,508",1st,5,petrol,37,VTVT Engine,1197,5-Speed,Automatic,81.8,113.0,21.21,BS IV,784000,723792.0963313878
+954,Maruti Suzuki Dzire [2017-2020] ZXi AMT,Maruti Suzuki,Dzire,2017,grey,sedan,"34,004",1st,5,petrol,37,1.2 Litre Petrol Engine,1197,5-Speed,Automatic,88.5,113.0,23.26,BS V,727000,584513.9432116747
+955,Maruti Suzuki Vitara Brezza [2018-2020] ZDi AMT,Maruti Suzuki,Vitara Brezza,2018,silver,suv,"35,042",1st,5,diesel,48,DDiS 200 Diesel Engine,1248,5-Speed,Automatic,88.5,200.0,24.3,BS V,1071000,985318.4997011721
+956,Hyundai Verna [2017-2020] 1.6 VTVT SX,Hyundai,Verna,2018,orange,sedan,"57,046",1st,5,petrol,43,Front Wheel Drive,1591,6-Speed,Automatic,121.0,158.0,17.4,BS V,898000,834788.7360967994
+957,Hyundai Verna [2017-2020] 1.6 VTVT SX,Hyundai,Verna,2019,white,sedan,"22,546",1st,5,petrol,43,Front Wheel Drive,1591,6-Speed,Automatic,121.0,158.0,17.4,BS V,1040000,904427.812656641
+958,Maruti Suzuki Vitara Brezza [2018-2020] ZDI PLUS AT Dual Tone,Maruti Suzuki,Vitara Brezza,2018,red,suv,"31,570",1st,5,diesel,48,Front Wheel Drive,1248,5-Speed,Automatic,89.0,200.0,24.3,BS V,1152000,985318.4997011721
+959,Honda Jazz [2015-2020] S AT,Honda,Jazz,2015,white,hatchback,"49,536",1st,5,petrol,40,i-VTEC Petrol Engine,1199,5-Speed,Automatic,88.76,110.0,19,BS V,596000,535553.6482546031
+960,Maruti Suzuki Vitara Brezza [2016-2020] VDi,Maruti Suzuki,Vitara Brezza,2017,blue,suv,"53,719",1st,5,diesel,48,Front Wheel Drive,1248,5-Speed,Automatic,89.0,200.0,24.3,BS V,845000,915679.4231413007
+961,Maruti Suzuki Swift [2017-2021] ZXi AMT,Maruti Suzuki,Swift,2021,red,hatchback,"10,303",1st,5,petrol,37,VTVT Engine,1197,5-Speed,Automatic,81.8,113.0,21.21,BS IV,816000,863070.2494511306
+962,Maruti Suzuki Swift [2017-2021] ZXi Plus,Maruti Suzuki,Swift,2020,red,hatchback,"27,437",1st,5,petrol,37,VTVT Engine,1197,5-Speed,Automatic,81.8,113.0,21.21,BS IV,790000,793431.1728912592
+963,Renault Captur [2017-2020] RXT Dual Tone,Renault,Captur,2018,brown,suv,"6,603",1st,5,petrol,50,1.5 H4K Petrol,1498,5-Speed,Automatic,105.0,142.0,13.87 ,BS V,1063000,1045530.4051429033
+964,Renault Captur [2017-2020] RXT Dual Tone,Renault,Captur,2017,brown,suv,"16,556",2nd,5,petrol,50,1.5 H4K Petrol,1498,5-Speed,Automatic,105.0,142.0,13.87 ,BS V,838000,975891.3285830319
+965,Maruti Suzuki Ignis [2017-2020] Zeta AMT Petrol,Maruti Suzuki,Ignis,2018,silver,hatchback,"25,626",1st,5,petrol,32,1.2-Litre VVT Petrol Engine,1197,5-Speed,Automatic,81.8,113.0,20.89,BS V,663000,503623.2561672032
+966,Maruti Suzuki Swift [2017-2021] LXI,Maruti Suzuki,Swift,2021,blue,hatchback,"9,384",1st,5,petrol,42,K Series Petrol Engine,1197,5-Speed,Automatic,85.8,114.0,18.6,BS IV,590000,1013600.0130555034
+967,Maruti Suzuki Swift [2017-2021] ZXi Plus,Maruti Suzuki,Swift,2020,grey,hatchback,"6,104",1st,5,petrol,37,VTVT Engine,1197,5-Speed,Automatic,81.8,113.0,21.21,BS IV,838000,793431.1728912592
+968,Maruti Suzuki Swift [2017-2021] ZXi AMT,Maruti Suzuki,Swift,2019,grey,hatchback,"21,992",2nd,5,petrol,37,VTVT Engine,1197,5-Speed,Automatic,81.8,113.0,21.21,BS IV,829000,723792.0963313878
+969,Renault Captur [2017-2020] RXT Dual Tone,Renault,Captur,2018,orange,suv,"54,137",1st,5,petrol,50,1.5 H4K Petrol,1498,5-Speed,Automatic,105.0,142.0,13.87 ,BS V,799000,1045530.4051429033
+970,Maruti Suzuki Dzire [2017-2020] ZXi AMT,Maruti Suzuki,Dzire,2017,blue,sedan,"33,258",1st,5,petrol,37,1.2 Litre Petrol Engine,1197,5-Speed,Automatic,88.5,113.0,23.26,BS V,722000,584513.9432116747
+971,Hyundai Verna [2017-2020] 1.6 VTVT SX,Hyundai,Verna,2018,white,sedan,"23,869",1st,5,petrol,43,Front Wheel Drive,1591,6-Speed,Automatic,121.0,158.0,17.4,BS V,956000,834788.7360967994
+972,Hyundai Verna [2017-2020] 1.6 VTVT SX,Hyundai,Verna,2019,white,sedan,"14,831",1st,5,petrol,43,Front Wheel Drive,1591,6-Speed,Automatic,121.0,158.0,17.4,BS V,1027000,904427.812656641
+973,Hyundai Verna [2011-2015] Fluidic 1.6 VTVT SX AT,Hyundai,Verna,2014,silver,sedan,"52,846",1st,5,petrol,43,Front Wheel Drive,1591,4-Speed,Automatic,121.0,158.0,17.01,BS III,736000,556232.4298573434
+974,Ford Freestyle [2020-2021] Flair Edition Diesel,Ford,Freestyle,2020,white,crossover,"28,335",2nd,5,diesel,42,1.5 litre Diesel Engine,1499,5-Speed,Automatic,98.96,215.0,18.5,BS V,749000,943960.9364956319
+975,Maruti Suzuki Ignis [2017-2020] Alpha AMT Petrol,Maruti Suzuki,Ignis,2018,silver,hatchback,"41,176",1st,5,petrol,32,1.2-Litre VVT Petrol Engine,1197,5-Speed,Automatic,81.8,113.0,20.89,BS V,691000,503623.2561672032
